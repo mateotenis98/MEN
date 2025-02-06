@@ -1,0 +1,2698 @@
+﻿description;web_url;s3_object_path;exists_in_s3;exists_metadata_json;file_extension;textract
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=183;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/e3/81/Anexo_6_Juegos_Equitativos.pdf;True;True;pdf;"GRUPO 7
+7. PROPONGAMOS JUEGOS EQUITATIVOS¹
+Cuando trabajamos con juegos de azar, en ocasiones se presentan juegos que no son
+equitativos o justos. Por ejemplo:
+-
+Andres, Berta, Carlos y Elsa juegan al hipódromo.
+-
+Cada uno escoge un número del caballo sin repetir el número.
+-
+Lanzan los dos dados y suman la cantidad para seleccionar el caballo que debe
+avanzar.
+-
+Para llegar a la meta deben obtener en la suma de los dos dados 6 veces el número
+del caballo.
+-
+Andres escoge el número 7.
+-
+Berta escoge el número 5.
+-
+Carlos el número 6.
+-
+Elsa el número 8.
+Berta
+Carlos
+Andre
+Elsa
+S
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Meta
+Al revisar las probabilidades que tiene cada número de caballo, se evidencia que el
+número 7 tiene mayor probabilidad.
+Por lo tanto, un juego equitativo puede ser el siguiente:
+-
+Lanzar dos monedas 20 veces.
+-
+Juan escoge cara para ganar
+-
+Pedro escoge sello para ganar.
+Al revisar las probabilidades, cada uno tiene la misma probabilidad de ganar.
+7.1 Juego con dados:
+Juliana y Camilo han inventado un juego de dados con las siguientes reglas:
+Lanza dos dados sucesivamente y calcula la diferencia de puntos entre el mayor y
+el menor.
+1
+Godino, J. D.; Batanero, C. y Cañizares, M. J. (1987). Azar y probabilidad. Fundamentos didácticos y propuestas curriculares. Síntesis.
+Madrid.
+-
+Si resulta una diferencia de 0, 1 o 2 entonces Juliana gana una ficha.
+-
+Si resulta una diferencia de 3, 4 o 5 entonces Camilo gana una ficha.
+-
+Comienzan con un total de 20 fichas y el juego termina cuando no queden más
+fichas.
+¿Te parece que este juego es equitativo o justo?
+Si tuvieras que jugar, ¿Cuál jugador preferiría ser?
+Practica con un compañero varias veces este juego y anota los resultados en la siguiente
+tabla:
+Diferencia de puntos
+Recuento
+Número de
+Frecuencia
+Veces
+relativa
+Gana Juliana
+0
+1
+2
+Gana Camilo
+3
+4
+5
+Total de lanzamientos
+A la vista de estos resultados, ¿confirmas tu primera opinión sobre si el juego es justo o
+no?
+7.2 Proponga un juego equitativo:
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/cd/a2/CPE_MOOC_PDF4.pdf;True;True;pdf;"GITEI
+UNIVERSIDAD
+NACIONAL
+GRUPO DE INVESTIGACION TECNOLOGÍA TECNOLOGIA
+DE COLOMBIA
+PARA EDUCACION Y LA KIA
+DADA
+INNOVACION
+RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+SENA
+Computadores
+to
+A
+MINTIC
+G
+MINEDUCACIÓN
+60
+GOBIERNO DE COLOMBIA
+para Educar
+RURALTIC
+Instrucciones para el uso e
+instalación Asus File Manager
+Teniendo en cuenta que el APK o instalador de la aplicación esté descargado en un ordenador
+(se encuentra en la carpeta de herramientas par dispositivos) el primer paso es copiarlo al
+dispositivo en el que se requiera, para esto resulta necesario contar con un cable USB con el
+cual se realice la transferencia del archivo.
+Después de conectarlo aparecerán varias opciones en el dispositivo Android, damos clic en la
+opción ""almacenamiento USB"". Después de esto podremos encontrar el dispositivo en el
+explorador del equipo, procedemos a copiar el APK del equipo y la pegamos a alguna carpeta
+del dispositivo Android (si se tiene acceso a internet podemos encontrar la aplicación
+directamente en Google Play). Al tener el APK en el dispositivo Android procedemos a buscarlo
+en el explorador de archivos para luego instalarlo. Recordamos cómo instalar una APK fuera
+de la Play Store.
+Cómo instalar una APK en Android
+Para comenzar debemos tener en cuenta que en la mayoría de los casos Android tiene
+deshabilitada la opción ""orígenes desconocidos"" la cual permite instalar aplicaciones que no
+provengan de Google Play Store. Para activar esta opción vamos a ajustes de Android, y una
+vez en ellos se accede a la opción ""Seguridad"".
+11:07
+Ajustes
+Q
+.
+Usuarios
+Personal
+Ubicación
+Seguridad
+:
+Cuentas
+Idioma e introducción de texto
+Copia de seguridad
+Sistema
+O
+1
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Una vez ahí, activamos el interruptor que se encuentra al lado de la opción ""Orígenes
+desconocidos"". Google avisará acerca de quedar expuesto a ataques que se puedan dar por
+no provenir de la tienda oficial, a esto damos Aceptar y ya se habrá habilitado la opción. Este
+es un ejemplo del mensaje que aparece:
+N 11:08
+N
+11:14
+Seguridad
+Q
+:
+https://www.amazon.es/gp/mas/
+1
+:
+Contraseñas
+Mostrar las contraseñas
+Gracias por descargar la App de
+Amazon Underground
+Administración de dispositivos
+no funciona después de 10 segundos? Reintenta la
+Administradores de dispositivos
+descarga
+Ver o desactivar administradores de dispositivo
+Pasos para instalar
+Orígenes desconocidos
+Permitir la instalación de aplicaciones que no
+sean de Play Store
+1
+Enciende Orígenes
+Desconocidos
+Almacenamiento de credenciales
+Tipo de almacenamiento
+Seleccione Ajustes
+Almacenado en hardware
+Este tipo de archivo puede dañar tu
+X
+dispositivo. ¿Quieres descargar
+Certificados de confianza
+Amazon_App.apk de todas formas?
+Mostrar certificados de CA de confianza
+Instalar desde almacenamiento
+CANCELAR
+ACEPTAR
+Instalar certificados desde almacenamiento
+Ahora, al instalar la aplicación, le tenemos que otorgar todos los permisos que nos pida ya que
+estos van a ser fundamentales para el correcto funcionamiento de la aplicación.
+Crear red local
+Después de terminar la instalación, nos dirigimos de nuevo a configuraciones de Android y en
+la opción ""Más"" seleccionamos ""Compartir internet y Zona Wi-Fi"", en esta nos aparecerá la
+opción ""Crear punto de acceso Wi-Fi"", la activamos y seleccionamos para configurar nuestro
+punto de anclaje, el cual nos servirá para que los equipos que deseen conectarse a esta red la
+reconozcan fácilmente. La primera casilla es el nombre de la red, este puede variar. Más abajo
+aparecerá una casilla llamada ""Seguridad"" la cual nos permite crear una contraseña para
+proteger nuestra red, en este caso podemos seleccionar ""Ninguna"", por último damos guardar.
+2
+Compartir archivos Con Asus File Manager
+Abrimos la aplicación Asus File Manager y en la parte inferior nos aparecerá la opción
+""Transferencia de archivos"", la cual nos desplegara una ventana que, también en la parte
+inferior, muestra la opción ""Iniciar"", al seleccionar esta opción la aplicación nos mostrará una
+imagen con una dirección web la cual deben ingresar en el explorador de internet los equipos
+que deseen conectarse al dispositivo, aclarando que deben estar ya conectados a la red antes
+creada.
+Después de ingresar la dirección web tendremos acceso total al dispositivo que creó la red y
+podremos descargar cualquier archivo del mismo.
+Nota: Se recomienda que los equipos conectados a la red no supere cinco dispositivos ya que
+más dispositivos conectados a la vez puede hacer que la red se sature y no se pueda realizar
+la conexión correctamente, lo recomendable es conectar cinco y al terminar la transferencia
+desconectarlos de la red y luego conectar otros cinco.
+Todo equipo (computadores de escritorio, portátiles, móviles con Android, IOS) que tenga Wi-Fi
+podrá conectarse a la red creada y podrá descargar los archivos del mismo
+Asus File Manager es un proyecto de ZenUI, ASUS Computer Inc.
+Manual elaborado por el Grupo de Investigación Tecnología para la Educación y la
+Innovación Gitei - Universidad Nacional de Colombia
+3
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=373;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/f6/87/08. Protocolo para la Prevención del ciberacoso y delitos en medios digitales.pdf;True;True;pdf;"La educación
+Mineducación
+CISP
+es de todos
+COMITATO INTERNAZIONALE
+PER LO SVILUPPO DEI POPOLI
+Protocolo
+Prevención del
+Ciberacoso
+y delitos en medios
+digitales
+Tabla de contenido
+1. INTRODUCCIÓN
+3
+2. PROPÓSITO
+7
+3. DEL COMPONENTE DE PREVENCIÓN
+13
+3.1 Promoción de la ciberconvivencia
+18
+3.1.1. Acciones pedagógicas de promoción para Directivos Institucionales y Comité Escolar de
+Convivencia
+19
+3.1.2. Acciones pedagógicas de promoción para Docentes y Orientadores
+20
+3.1.2.1. Para los propios docentes
+21
+3.1.2.2. Con los estudiantes
+21
+3.1.2.3. Con las familias
+22
+3.1.3. Acciones pedagógicas de promoción de los estudiantes
+23
+3.2. Prevención de riesgos tecnológicos
+24
+3.2.1. Factores de riesgo personales para ser agredido en situaciones de ciberacoso
+25
+3.2.2. Factores de riesgo familiares para ser agredido en situaciones de ciberacoso
+25
+3.2.3. Factores de riesgo escolares para ser agredido en situaciones de ciberacoso
+26
+3.2.4. Factores de riesgo personales para ser agresor en situaciones de ciberacoso
+27
+3.2.5. Factores de riesgo familiares para ser agresor en situaciones de ciberacoso
+28
+3.2.6. Factores de riesgo escolares para ser agresor en situaciones de ciberacoso
+28
+3.2.7. Riesgos digitales
+29
+3.2.8. Señales de alerta ser agredido O agredir digitalmente
+30
+3.3. Acciones pedagógicas de prevención
+32
+3.3.1. Acciones pedagógicas de prevención para Directivos Institucionales y Comité de
+Convivencia
+32
+3.3.2. Acciones pedagógicas de prevención para Docentes
+33
+3.3.2.1. Para los propios docentes
+33
+3.3.2.2. Con los estudiantes
+34
+3.3.2.3. Con las familias
+35
+3.3.3. Acciones pedagógicas de prevención de los estudiantes
+37
+4. Del componente de atención
+40
+4.1. Clasificación de situaciones digitales
+40
+4.1.1. Cibersituaciones Tipo |
+41
+4.1.2. Cibersituaciones Tipo II
+41
+4.1.3. Cibersituaciones Tipo III
+43
+4.2. Atención a situaciones digitales Tipo I
+44
+4.2.2. Para los Docentes, Orientadores O adultos delegados
+46
+4.3 Atención a situaciones digitales Tipo II
+50
+4.3.1. Pasos para la activación de la Ruta de Atención de las situaciones digitales Tipo II
+51
+4.4. Acciones para la atención a situaciones digitales Tipo III
+57
+4.4.1. Para los Directivos Institucionales y Comité de Convivencia
+59
+4.4.2. Para el reconocimiento de la situación
+60
+4.4.3. Con familias de implicados se recomienda
+61
+4.4.4. Con la familia de estudiante que ha sido agredido, adicionalmente
+61
+5. Del componente de seguimiento
+64
+5.1. Seguimiento a la promoción de ciberconvivencia
+65
+5.2. Seguimiento a la prevención de riesgos O amenazas digitales
+66
+5.3. Seguimiento a la atención a cibersituaciones Tipo I, II y III
+68
+6. BIBLIOGRAFÍA
+70
+ANEXO 1. GLOSARIO DE TÉRMINOS
+77
+ANEXO 2. DECÁLOGO E-DERECHOS
+80
+ANEXO 3. NETIQUETA
+81
+ANEXO 4. DIMENSIONES Y COMPETENCIAS INTELIGENCIA DIGITAL
+82
+ANEXO 5. CIBERACOSO
+83
+ANEXO 6. MANIFESTACIONES DEL CIBERACOSO
+84
+ANEXO 7. PREVENCIÓN DEL CIBERACOSO
+85
+LISTA DE TABLAS
+Tabla 1. Modalidades del ciberacoso escolar
+8
+Tabla 2. Riesgos y protectores personales para ser víctima de ciberacoso
+25
+Tabla 3. Riesgos y protectores familiares para ser víctima de ciberacoso
+26
+Tabla 4. Riesgos y protectores escolares para ser víctima de ciberacoso
+26
+Tabla 5. Riesgos y protectores personales para ser agresor en situaciones de ciberacoso
+27
+Tabla 6. Riesgos y protectores familiares para ser agresor en situaciones de ciberacoso
+28
+Tabla 7. Riesgos y protectores escolares para ser agresor en situaciones de ciberacoso
+28
+Tabla 8. Tipos de ciberamenazas
+29
+Tabla 9. Alertas tempranas estudiantes ciberagredidos O cibergresores.
+30
+Tabla 10. Mitos y realidades sobre riesgos en línea de escolares
+38
+Tabla 11. Seguimiento a la promoción de ciberconvivencia
+65
+Tabla 12. Seguimiento a la prevención de ciberacoso y delitos tecnológicos
+67
+Tabla 13. Seguimiento a la atención de cibersituaciones Tipo I, II y III
+69
+LISTA DE FIGURAS
+Figura 1. Proceso y participantes Protocolo Ciberacoso y delitos tecnológicos
+10
+Figura 2. Rol del adulto en el proceso de construcción de agencia para la ciudadanía digital 14
+Figura 3. Competencias digitales
+16
+Figura 4. Las etapas den el proceso de cambio
+18
+Figura 5. Acciones para la ciberconvivencia y prevención ciberacoso y delitos tecnológicos.
+19
+Figura 6. Ruta de atención a cibersituaciones Tipo
+I
+49
+Figura 7. Ruta de atención a cibersituaciones Tipo II
+57
+Figura 8. Atención situaciones digitales Tipo III
+62
+Agradecimientos
+La construcción del ""Protocolo para la prevención del Ciberacoso y Delitos en medios digitales"" también
+contó con participación de estudiantes, familias, docentes, directivas de los establecimientos educativos,
+quienes ejercen la orientación escolar, funcionarias y funcionarios de las secretarías de educación
+departamentales y municipales, personas expertas de entidades gubernamentales, profesionales de los
+Ministerios de Salud y Protección Social, de Tecnologías de la Información y las Comunicaciones,
+representantes de la Policía de Infancia y Adolescencia, del Instituto Colombiano de Bienestar Familiar
+ICBF, de entidades como UNICEF, RedPapaz, Aulas en Paz, Tigo, Movistar, CISP
+y
+académicos-investigadores de España, Suecia, Canadá, Estados Unidos, México y Colombia.
+Todas sus experiencias, conocimientos, y sugerencias, fueron determinantes para que este Protocolo se
+nutriera de la mejor evidencia científica disponible, en aras de constituirse en un insumo orientador de
+acciones, planes y proyectos para la ciberconvivencia, la prevención y el manejo de riesgos en los
+entornos digitales en los que interactúan niñas, niños y adolescentes de los establecimientos educativos
+del país.
+Este Protocolo se formuló con los aportes y liderazgo de la experta, investigadora y docente María Clara
+Cuevas Jaramillo en el marco del convenio suscrito entre el Ministerio de Educación Nacional y el CISP.
+Se alineó con los demás protocolos que el Ministerio de Educación Nacional ha aportado recientemente,
+en cumplimiento de su responsabilidad y compromiso con la convivencia de nuestras niñas, niños y
+adolescentes escolarizados y que señalan acciones para prevenir y abordar las violencias basadas en
+género, el consumo de sustancias psicoactivas y el suicidio.
+Para acceder a los aportes de las personas y entidades antes mencionadas, se efectuaron 12 entrevistas
+grupales, con estudiantes de grados 5 a 11, familias, docentes y directivos docentes de establecimientos
+educativos y Escuelas Normales Superiores y profesionales de convivencia escolar de las secretarías de
+educación representantes de las 5 regiones del país, Atlántica, Andina, Pacífica, Oriental y Amazonía;
+4
+entrevistas individuales con expertos académicos-investigadores internacionales, y, se recibieron
+4
+documentos con respuestas a las preguntas orientadoras usadas en las entrevistas, también de
+3
+expertos académicos-investigadores internacionales. De igual manera, una vez construido el Protocolo,
+se realizó una validación de lo propuesto, con algunas de las personas participantes del proceso inicial.
+Para todas las personas un especial agradecimiento, sus aportes se unieron a los del equipo del Ministerio
+de Educación Nacional y a investigadores de Canadá, Debra Pepler, Ph. D. de York University y PrevNet;
+Shelley Hymel. Ph.D. y Jennifer D. Shapka, Ph.D. de University of British Columbia. De Estados Unidos,
+Pamela Orpinas Ph.D. de University of Georgia, y Ron Slaby Ph.D. del Center on Media and Child Health,
+Children's Hospital Boston of Harvard Medical School. De España, Maite Garaigordobil Ph.D. de
+la
+Universidad del País Vasco y Rosario Ortega, Ph.D. de la Universidad de Córdoba. De Suecia, Robert
+Thornberg, PhD. de Linköping University. Y, de México, José Angel Vera, Ph.D. del CIAD- Universidad de
+Sonora; Marta Vanessa Espejel, Ph.D. y Efraín Duarte, Ph.D. de la Universidad Autónoma de Yucatán. Y a
+nuestros expertos académicos-investigadores de Colombia, Olga Lucía Hoyos Ph.D. de la Universidad del
+Norte, Enrique Chaux, Ph.D. de la Universidad de los Andes, Nadia Semenova, Ph.D. y Natalia Cárdenas,
+Mg. de la Universidad CES, Mauricio Herrera, Ph.D. de la Universidad de Nariño y, Alejandra Vidal, Mg. del
+Instituto Cisalva de la Universidad del Valle, a quienes también se les agradece su contribución con la
+educación y la convivencia escolar de Colombia.
+A todas y cada una de las personas y entidades, nuestro sincero agradecimiento por sus aportes, y en
+especial, por su interés genuino en contribuir con ellos al fortalecimiento de la convivencia y
+ciberconvivencia de nuestros escolares, en el entendido que ello representa un elemento nodal para su
+formación como seres humanos con la integridad, la ética, las competencias y el compromiso de estas
+nuevas generaciones.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=307;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/aa/bf/valorando lo aprendido 2.pdf;True;True;pdf;"02
+¿Cuáles considera usted que son los aprendizajes más valiosos en esta sección?
+La forma de realizar trabajos en conjunto.
+¿Qué ideas o conceptos transformo?
+El concepto de trabajo en equipo.
+¿Qué ideas o conceptos reforzo?
+Como establecer una buena comunicación
+¿Qué conceptos o conocimientos cree que deben ampliarse?
+El como implementar los recursos que se tienen para la realización de la alianza familia escuela
+¿Qué aspectos abordados son de mayor utilidad para su trabajo? ¿Cómo?
+La forma de realizar de trabajos en equipo, para así poder tener éxitos en el campo laboral.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=293;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/7d/54/TranscripciónPodcast_Efec.Mariposa_Mod2_L1R1.pdf;True;True;pdf;"Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Este recurso es una transcripción del podcast para personas con
+dificultades de agudeza auditiva.
+Gobierno de Colombia: El futuro es de todos.
+Fundación Saldarriaga Concha.
+Conexión emociones
+Competencias socioemocionales para el desarrollo integral y la
+salud mental de niños, niñas y adolescentes.
+Secretarías de educación
+Cordial saludo a todas las personas que
+escuchan el día de hoy.
+Bienvenidos a esta sección en la línea de competencias
+socioemocionales para el desarrollo integral y la salud mental de
+niños, niñas y adolescentes. Para secretarías de educación y todos
+sus miembros.
+El día de hoy hablaremos del efecto mariposa. En algún momento
+de nuestra vida lo hemos escuchado y ha sido usado en películas,
+series y hasta en la radio. ¿Sabe usted en qué consiste? Música 2
+segundos. El efecto mariposa consiste en la idea de que pequeños
+cambios pueden causar grandes resultados en el mundo. Se
+llama de esta forma para hacer la comparación con el aleteo de
+una mariposa, el cual puede tener grandes efectos al otro lado
+del mundo. El término surgió a partir de la investigación del
+meteorólogo y matemático Edward Lorenz, quien descubrió que
+el clima es muy difícil de predecir de manera exacta a largo plazo
+porque hay muchas pequeñas variaciones que pueden tener
+grandes efectos en el resultado final.
+Muchas gracias por escucharnos el día de hoy.
+Hasta la próxima.
+1
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=201;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ee/0b/GuiaDelParticipanteLaPoliticaPublicaEnEducacion_Encuentro1.pdf;True;True;pdf;"CICLO DE POLÍTICA PÚBLICA
+CON ÉNFASIS EN LA FORMULACIÓN
+Y EVALUACIÓN DE LA POLÍTICA
+Guía del Participante
+Ministerio de
+Educación Nacional
+Calle43 No 57-14
+Bienvenidos
+Welcome
+TODOS PORUN
+NUEVO PAIS
+MINEDUCACIÓN
+Escuela
+Corporativa
+Introducción de la Escuela
+Bienvenido a la Escuela Corporativa del Ministerio de Educación Nacional. La Escuela Corporativa
+busca, a través del aprendizaje entre pares, promover la creación de conocimiento que realimente
+al Ministerio como organización. Al participar en este conversatorio, podrá aportar al proceso
+de reflexión permanente dirigido al mejoramiento del Ministerio de Educación Nacional.
+Objetivo del conversatorio
+Analizar los elementos conceptuales y operativos de la formulación y la evaluación de la política
+pública educativa en Colombia, reflexionando sobre las implicaciones de esta política para el
+quehacer del Ministerio de Educación como organización y sus colaboradores.
+Encuentros virtuales que conforman el conversatorio
+Encuentro 1. Contexto de la Escuela Corporativa del Ministerio de Educación Nacional.
+Preguntas que propone el encuentro:
+¿Cómo está organizada la Escuela Corporativa?
+¿Qué es la gestión del conocimiento en el MEN?
+¿Cómo está organizado el conversatorio sobre la Política Pública en Educación?
+Encuentro 2. ¿Hablar de Política Pública es redundar?
+Preguntas que propone el encuentro:
+¿Qué es la política pública?
+¿Cuáles son sus componentes?
+Encuentro 3. ¿Cuál es la Política Pública Educativa en Colombia?
+Preguntas que propone el encuentro:
+¿Quién y cómo formula la Política Pública en Educación?
+¿Cuáles con las Políticas Públicas en Educación en Colombia actualmente?
+2
+Encuentro 4. El enfoque diferencial. ¿Un reto para la política pública educativa?
+Preguntas que propone el encuentro:
+¿Qué es el enfoque diferencial en la política pública?
+¿Qué implicaciones tiene el enfoque diferencial en la política pública educativa? La educación
+Inclusiva.
+Encuentro 5. Evaluar la política pública colombiana en educación ¿cómo vamos?
+Preguntas que propone el encuentro:
+¿Cómo se evalúan las políticas públicas en Educación?
+¿Cuáles son los indicadores que dan cuenta de la Política Pública Educativa en Colombia?
+Este conversatorio cuenta con encuentros presenciales que serán una oportunidad para ampliar
+las preguntas propuestas en los encuentros virtuales y generar nuevas preguntas desde los
+intereses de los participantes, enriqueciendo el diálogo. A partir de estas preguntas, el grupo
+participante desarrollará colaborativamente un producto de aprendizaje organizacional que
+entregará al Ministerio de Educación Nacional para el fortalecimiento de su gestión.
+Requisitos para la certificación
+Este conversatorio se certifica y otorga créditos de coautoría en los productos de aprendizaje
+organizacional a los colaboradores que alcancen una puntuación igual o superior al 80% en los
+siguientes elementos:
+- Asistencia a 2 de los 3 encuentros presenciales.
+- Uso de los recursos multimedias asociados al conversatorio.
+- Participación en las actividades colaborativas.
+- Participación en el desarrollo del producto de aprendizaje organizacional.
+Información de contacto
+Los participantes pueden dirigir sus preguntas a la Subdirección de Desarrollo Organizacional
+al correo escuelacorporativa@mineducacion.gov.co, o comuníquese con la extensión No. 4703.
+3
+Primer encuentro virtual.
+Contexto de la Escuela Corporativa del Ministerio de Educación Nacional
+Propósito
+Comprender la importancia y el aporte que puede generar el conversatorio, dentro del
+contexto propio de la naturaleza de la Escuela Corporativa.
+Campos de acción
+Organización personal para el aprendizaje en la virtualidad.
+Resultados de aprendizaje esperados
+Personales: Reconocer la importancia que tiene la gestión del conocimiento sobre la política
+pública en educación, para los procesos misionales del Ministerio de Educación Nacional.
+Organizacionales: Definir las preguntas que orientarán la discusión transversal al conversatorio
+y sobre la que se realizará el producto de conocimiento del mismo.
+¿Qué es la Escuela Corporativa?
+La Escuela Corporativa es una estrategia de gestión de conocimiento para promover el
+aprendizaje organizacional. En este sentido, se busca que los procesos de aprendizaje entre
+pares que se dan en la Escuela Corporativa promuevan también la creación de conocimiento que
+realimente al Ministerio como organización. Es por esta razón que la Escuela se concibe como un
+proceso de aprendizaje mediado por pares y como un proceso de reflexión permanente sobre el
+mejoramiento de la acción del Ministerio.
+En este proceso de reflexión, la Escuela Corporativa está llamada a privilegiar la experiencia
+de los colaboradores reconocidos como talento humano clave en la organización como una
+fuente importante del conocimiento que se genera. Esto en función de que reconoce en esta
+experiencia un referente fundamental de la forma como el MEN se ha venido adaptando a los
+retos del contexto, del sector y del sistema educativo; así como de los aciertos y desaciertos que
+han surgido en este proceso de adaptación.
+¿Qué es la gestión del conocimiento en el MEN?
+""En el Marco Estratégico de los propósitos del MEN, el conocimiento está orientado a fortalecer
+los procesos para que los servidores obtengan mejores resultados que redunden en aprendizajes
+4
+tanto individuales como organizacionales a fin de alcanzar los objetivos estratégicos y misionales
+al 2025 (MEN, 2016)"". Esto significa que es necesaria la creación de los espacios de aprendizaje
+y visibilización que permiten el intercambio y divulgación de experiencias, proyectos o prácticas,
+la sistematización de las experiencias para comprenderlas y extraer sus enseñanzas y, de esta
+manera, comunicarlas, y la creación de bases de conocimiento que permite concentrarlos
+en un lugar de fácil consulta para todos los colaboradores. La gestión del conocimiento en
+el Ministerio de Educación Nacional se concibe como una disciplina y un proceso de trabajo
+colectivo orientada a promover y coordinar la reflexión permanente sobre el quehacer de sus
+áreas, a crear, socializar y valorar apropiadamente los conocimientos críticos que le permiten
+innovar en su oferta de servicios, mejorar en la ejecución de sus procesos, y en sus formas de
+relación con los actores de interés.
+¿Cómo se dinamiza el proceso de gestión del conocimiento en la Escuela
+Corporativa?
+Para cumplir con su intención de dinamizar la gestión del conocimiento, la Escuela Corporativa
+del Ministerio de Educación Nacional plantea a los colaboradores una oferta de participación y
+aprendizaje organizado en tres niveles de complejidad:
+Rutas de aprendizaje organizacional: son las líneas de aprendizaje y participación diseñadas
+a partir de los resultados de identificación y priorización de los conocimientos existentes
+y requeridos en función de las necesidades y expectativas de los servidores del Ministerio.
+Estas líneas sirven como un marco amplio para generar diferentes ofertas de conversatorios
+distribuidas a lo largo del tiempo.
+Ciclo de Conversatorios: corresponde a cada una de las ofertas concretas de formación y
+participación que se generan al interior de una ruta de aprendizaje organizacional. Están
+organizadas como ""cursos en modalidad mixta: presencial virtual"" en un modelo básico de
+40 horas. En cada ciclo de conversatorios se busca promover el desarrollo de competencias
+laborales generales y específicas y generar productos de conocimiento que fortalezcan el
+trabajo personal y colectivo del Ministerio.
+Encuentros: Un encuentro es una unidad (virtual o presencial) de formación y participación,
+en la que los colaboradores del Ministerio de Educación Nacional se organizan para apropiar
+conocimientos sobre una temática en particular, desarrollando competencias y productos
+de conocimiento en torno a la misma en función de los intereses y preguntas del grupo, en
+una dinámica liderada por un talento humano clave del Ministerio que asume la función de
+facilitador.
+5
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/60/1c/CPE_PR_VT3 PDF.pdf;True;True;pdf;"RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+Enfoque del diplomado
+Objetivo. Adquirir conocimientos para implementar actividades
+Resolución de conflictos
+DE
+educativas mediadas por el uso de TIC y metodologías innovadoras
+- Convivencia pacífica
+N
+en el aula. encaminadas a fortalecer las competencias propias
+Educación
+Desarrollo sostenible
+de la educación para la paz. convirtiéndose en modelos de
+convivencia, innovación y replicadores de estos modelos en sus
+para la Paz
+Diversidad e identidad
+LA PAI
+instituciones educativas
+Memoria histórica
+y reconciliación
+Escolar
+Gestión
+De la tecnología
+Recursos
+ENFOQUE
+naturales
+Educación
+Líderes
+CONCEPTUAL
+rural
+educativos
+Necesidades
+Cultura
+Metodología
+Actividad
+innovadora
+pedagógica
+Cátedra de la Paz
+de aula
+Gestión escolar
+DE
+Gestión de la
+RECEE
+Motivación
+Repositorio APA
+tecnología
+RURALTIC
+Cooperación
+Creatividad
+Diplomado para docentes en
+TIC
+el uso pedagógico de las TIC
+- Comunicación
+en territorios de reconciliación
+Pensamiento
+Multiculturalidad
+Metodologías
+innovadoras
+ENFOQUE
+OPERATIVO
+Aula invertida
+Brecha
+- Aprendizaje
+digital
+colaborativo
+- Gamificación
+1
+2
+3
+4
+5
+Módulo
+Módulo
+Módulo
+Módulo
+Módulo
+Sensibilización
+Uso de TIC para el
+TIC identidad
+Convivencia pacífica
+Cierre
+desarrollo sostenible
+y diversidad
+mediada por TIC
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=151;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/6a/c7/Decreto 1079-2015 Reglamento Único.pdf;True;True;pdf;"DECRETO 1079 DE 2015
+(mayo 26)
+D.O. 49.523, mayo 26 de 2015
+por medio del cual se expide el Decreto Único Reglamentario del Sector
+Transporte.
+Nota 1: Modificado por el Decreto 1906 de 2015.
+Nota 2: Adicionado por el Decreto 1735 de 2015.
+Nota 3: Modificado por el Decreto 2297 de 2015
+Nota 4: Adicionado por el Decreto 2060 de 2015.
+Nota 5: Modificado por el Decreto 1310 de 2016
+Nota 6: Adicionado por el Decreto 1514 de 2016
+Nota 7: Adicionado por el Decreto 1517 de 2016
+Nota 8: Adicionado por el Decreto 026 de 2017
+Nota 9: Adicionado por el Decreto 153 de 2017.
+Nota 10: Modificado por el Decreto 296 de 2017
+Nota 11: Modificado por el Decreto 431 de 2017
+Nota 12: Adicionado por el Decreto 602 de 2017
+El Presidente de la República de Colombia, en ejercicio de las facultades que le
+confiere el numeral 11 del artículo 189 de la Constitución Política, y
+CONSIDERANDO:
+Que la producción normativa ocupa un espacio central en la implementación de
+políticas públicas, siendo el medio a través del cual se estructuran los
+instrumentos jurídicos que materializan en gran parte las decisiones del
+Estado.
+Que la racionalización y simplificación del ordenamiento jurídico es una de las
+principales herramientas para asegurar la eficiencia económica y social del
+sistema legal y para afianzar la seguridad jurídica.
+Que constituye una política pública gubernamental la simplificación y
+compilación orgánica del sistema nacional regulatorio.
+Que la facultad reglamentaria incluye la posibilidad de compilar normas de la
+misma naturaleza.
+Que por tratarse de un decreto compilatorio de normas reglamentarias
+preexistentes, las mismas no requieren de consulta previa alguna, dado que
+las
+normas fuente cumplieron al momento de su expedición con las
+regulaciones vigentes sobre la materia.
+Que la tarea de compilar y racionalizar las normas de carácter reglamentario
+implica, en algunos casos, la simple actualización de la normativa compilada,
+para que se ajuste a la realidad institucional y a la normativa vigente, lo cual
+conlleva, en aspectos puntuales, el ejercicio formal de la facultad
+reglamentaria.
+Que en virtud de sus características propias, el contenido material de este
+Decreto guarda correspondencia con el de los decretos compilados; en
+consecuencia, no puede predicarse el decaimiento de las resoluciones, las
+circulares y demás actos administrativos expedidos por distintas autoridades
+administrativas con fundamento en las facultades derivadas de los decretos
+compilados.
+Que la compilación de que trata el presente decreto se contrae a la
+normatividad vigente al momento de su expedición, sin perjuicio de los efectos
+ultractivos de disposiciones derogadas a la fecha, de conformidad con el
+artículo 38 de la Ley 153 de 1887.
+Que por cuanto este decreto constituye un ejercicio de compilación de
+reglamentaciones preexistentes, los considerandos de los decretos fuente se
+entienden incorporados a su texto, aunque no se transcriban, para lo cual en
+cada artículo se indica el origen del mismo.
+Que las normas que integran el Libro 1 de este decreto no tienen naturaleza
+reglamentaria, como quiera que se limitan a describir la estructura general
+administrativa del sector.
+Que durante el trabajo compilatorio recogido en este decreto, el Gobierno
+verificó que ninguna norma compilada hubiera sido objeto de declaración de
+nulidad o de suspensión provisional, acudiendo para ello a la información
+suministrada por la Relatoría y la Secretaría General del Consejo de Estado.
+Que con el objetivo de compilar y racionalizar las normas de carácter
+reglamentario que rigen en el sector y contar con un instrumento jurídico único
+para el mismo, se hace necesario expedir el presente decreto Único
+Reglamentario Sectorial.
+Por lo anteriormente expuesto,
+DECRETA:
+LIBRO 1
+ESTRUCTURA DEL SECTOR TRANSPORTE
+PARTE 1
+SECTOR CENTRAL
+TÍTULO 1
+CABEZA EL SECTOR
+Artículo 1.1.1.1. Ministerio de Transporte. El Ministerio de Transporte tiene
+como objetivo primordial la formulación y adopción de las políticas, planes,
+programas, proyectos y regulación económica en materia de transporte,
+tránsito e infraestructura de los modos de transporte carretero, marítimo,
+fluvial, férreo y aéreo y la regulación técnica en materia de transporte y
+tránsito de los modos carretero, marítimo, fluvial y férreo.
+(Decreto 087 de 2011, artículo 1°).
+TÍTULO 2
+FONDOS
+Artículo 1.1.2.1. Fondo Nacional para la Reposición y Renovación del
+Parque Automotor del Servicio Público de Transporte Terrestre de
+Pasajeros. Es un ente con personería jurídica, de naturaleza mixta, que en lo
+no previsto en el Decreto 1485 de 2002 se regirá por las normas del derecho
+privado, cuyo objeto es atender los requerimientos económicos y financieros
+para la reposición y renovación del parque automotor de los vehículos de
+servicio de transporte público colectivo terrestre de pasajeros con radio de
+acción metropolitano y/o urbano.
+(Decreto 1485 de 2002, artículo 1°).
+Artículo 1.1.2.2. Fondo Nacional de Seguridad Vial. Es una cuenta
+especial de la Nación, sin personería jurídica, ni estructura administrativa, con
+independencia patrimonial, administrativa, contable y estadística, para
+financiar el funcionamiento e inversión de la Agencia Nacional de Seguridad
+Vial.
+(Ley 1702 de 2013, artículo 7°.
+TÍTULO 3
+ÓRGANOS SECTORIALES DE ASESORÍA Y COORDINACIÓN
+Artículo 1.1.3.1.Consejo Consultivo de Transporte. Tendrá el carácter de
+cuerpo asesor del Ministerio de Transporte, bajo la directa dependencia y
+orientación del Ministerio del ramo. Entre sus funciones, está asesorar al
+Ministro de Transporte en la definición de las políticas generales sobre el
+transporte y tránsito, así como en los planes, programas y proyectos que le
+correspondan conforme a los lineamientos que señalan las disposiciones
+pertinentes.
+(Decreto 2172 de 1997, artículos 1° y 4°, literal a).
+Artículo 1.1.3.2. Consejo consultivo de terminales de transporte. Es un
+organismo asesor y consultor del Ministerio de Transporte, el cual tiene entre
+sus funciones proponer al Ministerio de Transporte elementos de política sobre
+las terminales de transporte terrestre, en particular sobre su operación, así
+como los mecanismos para evaluar la calidad y eficiencia de los servicios de las
+Terminales de Transporte Terrestre.
+(Decreto 2762 de 2001, artículo 21).
+Artículo 1.1.3.3. Consejo consultivo de seguridad vial. Su función es la
+de informar los planes y las estrategias de seguridad vial, proponer acciones,
+debatir propuestas y lograr el compromiso y alineamiento con los sectores
+público-privados en los objetivos y estrategias nacionales de seguridad vial.
+(Ley 1702 de 2013, artículo 15.4).
+Artículo 1.1.3.4. Comisión intersectorial de corredores logísticos. Es un
+organismo encargado de analizar la reglamentación para el flujo de carga en
+los corredores logísticos de importancia estratégica.
+(Decreto 1478 de 2014, artículo 5°).
+Artículo 1.1.3.5. Comisión Intersectorial de
+Seguridad
+Aeroportuaria. Es un organismo, el cual tiene entre sus funciones la
+formulación de políticas, principios, métodos, procedimientos y medidas
+generales en materia de seguridad aeroportuaria.
+(Decreto 1400 de 2002, artículo 2°, parágrafo).
+Artículo 1.1.3.6. Comité de Coordinación permanente entre el
+Ministerio de Transporte y la Dirección General Marítima, DIMAR. Es el
+organismo integrado por funcionarios del Ministerio de Transporte y la
+Dirección General Marítima del Ministerio de Defensa Nacional, bajo la directa
+dependencia y orientación del Ministerio de Transporte, que tiene entre sus
+funciones revisar los diferentes temas que sobre transporte marítimo se
+presenten.
+(Decreto 804 de 2001, artículos 2° y 58).
+PARTE 2
+"
+...;https://eco.colombiaaprende.edu.co/wp-content/uploads/2022/01/He-s-Got-the-Whole-World-in-His-Hands-Poster.pdf;s3://men-prod-clean-data/contenidos_formativos/ENGLISH_FOR_COLOMBIA_ECOWEB/repository/hes-got-the-whole-world-in-his-hands-song-with-audio-lyrics-and-poster/He-s-Got-the-Whole-World-in-His-Hands-Poster.pdf;False;True;pdf;
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/57/fd/02Nat_04Val_12.pdf;True;True;pdf;"RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+SENA
+Computadores
+A
+O
+MINTIC
+6
+MINEDUCACIÓN
+O
+GITEI
+UNIVERSIDAD
+GOBIERNO DE COLOMBIA
+NACIONAL
+para Educar
+EDUCACION TECNOLOGIA
+INVESTIGACION TECNOLOGÍA
+DE COLOMBIA
+DAD EDUCACION INNOVACION INNOVACION
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Módulo 2: Uso de TIC para el desarrollo sostenible
+Momento: Valoración
+Sesión: 12
+SlimPDF ""básico""
+Xodo PDF Reader & Editor
+Recurso natural
+Herramientas Ofimáticas
+Reconciliación
+Cámara fotográficay de video
+Memoria histórica
+Reproductor de sonido
+(optativo)
+Conceptos clave
+USB
+(Apropiarse de ellos antes de la sesión)
+Xender
+Herramientas TIC
+Especiales de memoria
+PDF: ""Árbol de reconciliación""
+Cuestionario: ""Hagamos memoria,
+módulo 2""
+Nivel explorador
+Preguntas orientadoras en formato PDF
+Competencia investigativa
+Documento: ""Gestión de la información""
+PDF: ""Afiche promocional del
+Usa las TIC para hacer registro y seguimiento de
+diplomado""
+lo que vive y observa en su práctica, su contexto
+y el de sus estudiantes.
+Recursos de apoyo
+(Prepara tu sesión)
+Competencias TIC asociadas
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Actividad 1. Construir el árbol de la reconciliación, a partir del ejercicio ""Cartografías de la memoria"" relacionado con su entorno natural.
+Descripción. Socializar la experiencia de la implementación de la Actividad Pedagógica de Aula (APA) con sus estudiantes, confrontando quienes pudieron
+o no replicar la propuesta.
+Retomar el ejercicio de la cartografía de la memoria para elaborar el árbol de la reconciliación. Habiendo identificado los recursos afe ctados por el conflicto,
+ubicar las acciones que surgieron en la sesión anterior construyendo un árbol en el que propondrán acciones de cuidado y de reconciliación respecto a su
+entorno natural. Finalizar colocando en la línea de tiempo trabajada en la sesión 4, las acciones para lograr una verdadera reconciliación con el medio
+ambiente.
+Momentos sugeridos para desarrollar la actividad
+#1 10' Compartamos nuestraexperiencia
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+Identificar entre los participantes aquellos que lograron implementar en sus sedes educativas la
+N/A
+N/A
+Actividad Pedagógica de Aula (APA), e indicar si le harían o no alguna modificación para cumplir
+con la propuesta hecha.
+#2 20' Continuemos con nuestra cartografía
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+Continuar el diseño de la cartografía de los recursos naturales con los que cuentan en su contexto.
+Mapas terminados
+Mapa de la región con los
+Recordar que deben indicar cuales de estos recursos se han visto más afectados por el conflicto
+recursos
+(de manera positiva o negativa) y qué acciones proponen para hacer ejercicios de construcción de
+memoria, paz y reconciliación frente a ese recurso. Socializar con los demás grupos la cartografía
+diseñada y completar de acuerdo al aporte de cada grupo.
+#3 30' Construyamos el árbol de la reconciliación
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+Partir de los datos recolectados en el mapa, para construir el árbol de la reconciliación. Ubicarse en
+PDF árbol de la reconciliación
+Árbol de la reconciliación
+forma de círculo, se puede poner música de fondo e invitar a realizar un momento de silencio.
+Cámara fotográfica y de video
+Pensar por qué es importante pedir perdón a la naturaleza y en nombre de quién le querrían pedir
+perdón. Finalizada la socialización, entregar a cada participante un árbol en formato PDF en el que
+escribirán acciones de cuidado. Si el formador lo considera oportuno, solicitar a los participantes
+que finalicen abrazando a sus compañeros, quienes también hacen parte de la naturaleza. Una vez
+hecho el árbol, completar en la línea de tiempo las acciones que en el futuro se imaginan pueden
+implementarse en materia de reconciliación con su entorno.
+Realizar un registro fotográfico para que los participantes tengan como recurso la experiencia
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+vivida a través de esta actividad y hagan de este modo ejercicios de ""memoria"".
+Actividad 2. Hagamos Memoria. Ejercicio de valoración.
+Descripción. Hagamos memoria: Valorar la apropiación de las temáticas propuestas en el módulo, de manera teórica a través de un cuestionario, y de
+manera práctica a través del ejercicio de la ruleta: hacer dos círculos, uno interno y uno externo, los participantes deberán ubicarse frente a frente,
+conformando parejas. Los que están en el círculo de adentro se quedan quietos mientras los que están en el círculo externo gi ran hacia la derecha,
+hasta
+dialogar con todos los participantes. El formador indicará algunas premisas o preguntas de evaluación de las temáticas tratadas, y se rotará hasta que
+hayan dialogado todos los participantes.
+Entrega de premios: como previamente los participantes han conocido las diferentes propuestas de aula, otorgarán premios, a través de un acto simbólico,
+en las siguientes categorías: el más creativo, el más realista, el que incluye mayor número de recursos TIC, el que involucra a diferentes miembros de la
+comunidad, y alguna otra categoría que en ese momento surja. Este premio será una tarjeta de felicitación que el participante diseñará en ese momento en
+una herramienta ofimática.
+Momentos sugeridos para desarrollar la actividad
+#1 15' Hagamos memoria I
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+Compartir a los docentes el cuestionario de conocimientos del módulo, relacionado tanto con la
+Prueba de conocimiento: ""Hagamos memoria, módulo 2""
+Hagamos memoria: Prueba
+metodología como con la temática central y la apropiación de las TIC en el contexto.
+de conocimiento del módulo
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=289;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ab/6f/Tema 1_Mod1_se.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Secretarías de Educación
+Inclusión y equidad para
+trayectorias completas
+Módulo 1
+Tema 1
+Fundación
+Saldarriaga
+Concha
+Secretarías de Educación
+Emociones
+Inclusión y equidad para trayectorias completas
+Conexión vital
+Tema 1.
+Tema y nombre:
+Toma de conciencia: cambio de imaginarios, actitudes y comportamientos
+Conceptualización:
+Comprender la importancia que tiene la Toma de Conciencia en la
+transformación de imaginarios, actitudes y comportamientos y por ende en los
+cambios del contexto.
+Subtema 1.1
+¿Qué es la toma de conciencia? ¿Por qué es tan importante?
+La Convención sobre los derechos de las personas con discapacidad en su artículo
+8 - ""Toma de Conciencia"" invita a los estados parte a adoptar medidas que
+permitan generar un mayor nivel de conciencia frente a la dignidad humana de
+las personas con discapacidad, luchando contra los estereotipos y prejuicios, en
+particular, desde el sistema educativo, se hace un llamado a fomentar una actitud
+de respeto hacia los derechos de las personas con discapacidad.
+Colombia integró la Convención al bloque de constitucionalidad mediante
+la Ley 1346 de 2009 (declarada exequible en 2010) y posteriormente, en 2011
+la ratificó. En 2013 se promulgó la Ley Estatutaria 1618 ""Por medio de la
+cual se establecen las disposiciones para garantizar el pleno ejercicio de los
+derechos de las personas con discapacidad"", que en su artículo 11, DERECHO
+A LA EDUCACIÓN, ordena al Ministerio de Educación la definición de política
+y reglamentación de la atención educativa integral a la población con
+discapacidad y enlista como uno de los deberes ""Crear y promover una cultura
+de respeto a la diversidad desde la perspectiva de los niños, niñas y jóvenes con
+necesidades educativas especiales, como sujetos de derecho, específicamente
+su reconocimiento e integración en los establecimientos educativos oficiales
+y privados"". Estableció además que las entidades territoriales certificadas en
+educación deberán, entre otras medidas, ""b) Fomentar en sus establecimientos
+educativos una cultura inclusiva de respeto al derecho a una educación de
+calidad para las personas con discapacidad que desarrolle sus competencias
+básicas y ciudadanas.
+Crear, promover y fomentar cultura implica un reto mayúsculo y en este
+sentido, es necesario asumir este reto desde dos comprensiones, primero,
+la educación es uno de los factores que más influye en el avance y progreso
+de personas y sociedades. Además de proveer conocimientos, la educación
+enriquece la cultura, el espíritu, los valores y todo aquello que nos caracteriza
+como seres humanos. Segundo, si la cultura se refiere a los valores que
+comparten los miembros de un grupo dado, las normas que pactan y los
+bienes materiales que producen y, a su vez, las subculturas constituyen grupos
+2
+Secretarías de Educación
+Emociones
+Inclusión y equidad para trayectorias completas
+Conexión vital
+de personas que poseen valores y normas diferentes a los de la mayoría que
+mantiene un grupo, encuadrado en una sociedad más amplia (Giddens 1991).
+En este marco conceptual, la Escuela como organización humana con valores
+y normas propias que los caracterizan posee una cultura propia, pero, a su vez,
+es también un espacio cultural denso donde se encuentran subculturas, ya sea
+diferenciadas por sus roles distintos, por sus condiciones generacionales y/o
+por su pertenencia socioeconómica o capital cultural diferenciado. La escuela
+como construcción social es expresión cultural.
+Recursos
+Guía rápida para hablar de discapacidad: documento que muestra la
+manera correcta de utilizar nuestra lengua al momento de hacer referencia
+a la población con discapacidad, de acuerdo a lo expuesto en la Convención
+de Naciones Unidas sobre los Derechos de la Población con Discapacidad.
+https://www.saldarriagaconcha.org/wp-content/uploads/2019/01/cartilla-
+curvas.pdf
+Lecturas
+Documento: Toma de conciencia, sentir, pensar y actuar: orienta a
+las comunidades educativas en el cambio de imaginarios, actitudes
+y comportamientos que garanticen el derecho a la educación de la
+población con discapacidad. .https://www.saldarriagaconcha.org/
+educacion-inclusiva-libro-2-toma-de-conciencia-sentir-pensar-y-actua
+Documento de la ONU (2006) que refiere lo desarrollado en la Convención
+de Naciones Unidas sobre los Derechos de las personas con discapacidad.
+https://www.un.org/esa/socdev/enable/documents/tccconvs.pdf
+Videos
+Orientaciones para la toma de conciencia. Material audiovisual para
+brindar elementos conceptuales y prácticos para garantizar el acceso,
+permanencia y progreso de estudiantes con discapacidad, transformando
+culturas. https://www.youtube.com/watch?v=EO7jHL39tZ4&t=8s
+3
+Emociones
+Secretarías de Educación
+Inclusión y equidad para trayectorias completas
+Conexión vital
+Subtema 1.2
+¿Cómo se lleva a cabo un proceso de toma de conciencia?
+Aunque existen leyes para proteger a las personas discriminadas o marginadas,
+muchas personas las ignoran y desconocen sus fundamentos. La publicación
+de una ley o decreto, cuyo propósito puede ser elevado, conveniente y urgente,
+no garantiza su cumplimiento inmediato.
+Las nuevas leyes tienen en cuenta nuevas concepciones y hallazgos acerca
+de las personas, sus condiciones y sus contextos, que, al desconocerse, son
+reemplazadas por ideas tradicionales e informales, que suelen ser equivocadas.
+Generalmente, la discriminación o marginación surgen porque se conoce el
+fenómeno, pero no a las personas que han sido o están siendo afectadas por
+él. Por esta razón, sus necesidades no se satisfacen, tampoco se protegen sus
+derechos ni se les brindan las atenciones multidimensionales que necesitan.
+Colombia ha suscrito declaraciones internacionales. Eso significa que ha
+decidido que esas disposiciones hagan parte de la constitución, por tanto, que
+sean de obligatorio cumplimiento y orienten sus demás acciones políticas,
+administrativas, técnicas y culturales.
+Entre las declaraciones, foros o convenciones que ha suscrito están: el
+programa de Acción Mundial para las Personas Con Discapacidad de la ONU,
+en 1982; el foro mundial de la Unesco, sobre educación para todos, en 1990; la
+declaración de Salamanca, sobre necesidades educativas especiales, en 1994;
+la Convención de la ONU sobre los Derechos de las Personas con Discapacidad,
+en 2006; la declaración de Incheon, hacia una educación inclusiva, equitativa
+y de calidad y un aprendizaje a lo largo de la vida para todos>>, en 2015; y el foro
+internacional de la UNESCO sobre inclusión y equidad en la educación: todas y
+todos los estudiantes cuentan"", en 2019, en la Ciudad de Cali.
+A partir de estas normativas que Colombia ha adoptado en los últimos 40
+años, se han hecho varias leyes y decretos nacionales que corresponden a los
+compromisos adquiridos, más que con la comunidad internacional, con los
+niños, niñas y adolescentes que viven en esta parte del mundo.
+Durante estos 40 años han evolucionado mucho las concepciones acerca
+de las personas con discapacidad, por tanto, las leyes, sus propósitos y sus
+disposiciones. Hoy se sabe que tienen los mismos derechos de las demás
+personas, que están en capacidad de aprender, desarrollarse, convivir, producir,
+elegir, participar, emprender y realizar muchas actividades más.
+La toma de conciencia busca que todas las personas cambiemos nuestras
+formas equivocadas de pensar acerca de las personas con discapacidad,
+su condición, sus necesidades, sus derechos, sus potencialidades, sus
+posibilidades, sus aportes, talentos y atributos, más allá de su discapacidad.
+4
+"
+...;https://eco.colombiaaprende.edu.co/masterclass/;s3://men-prod-clean-data/contenidos_formativos/ENGLISH_FOR_COLOMBIA_ECOWEB/masterclass/MC # 4/MC4-Presentación/MC4-Presentación.pdf;False;True;pdf;
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/f2/74/CPE_M2S3_PDF1.pdf;True;True;pdf;"GITEI
+UNIVERSIDAD
+NACIONAL
+GRUPO DE INVESTIGACIÓN TECNOLOGÍA TECNOLOGIA
+DE COLOMBIA
+PARA EDUCACION Y LA
+DADA
+INNOVACION
+RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+SENA
+Computadores
+G
+A
+para
+MINTIC
+a
+MINEDUCACIÓN
+60
+GOBIERNO DE COLOMBIA
+Educar
+RURALTIC
+Formato de documentación de la
+Actividad Pedagógica de Aula (APA)
+Módulo 2. Desarrollo sostenible
+Metodología: Aula invertida
+Información de contacto e identificación
+Nombre del docente que lidera la APA:
+Institución educativa:
+Sede:
+Información de población
+Grado escolar a quien se dirige:
+Área o áreas impactadas:
+Tiempo sugerido:
+Objetivo de la APA:
+Contexto de aprendizaje (recursos disponibles en la institución que se usarán en la
+implementación de la APA)
+Recursos tecnológicos (radio, televisión, tabletas, computadores, Apps, programas de
+computador o tableta, etc):
+Otros recursos:
+Metodología:
+Para la planeación de esta actividad, recuerde que la metodología en que se basa es Aula
+invertida, por lo cual puede remitirse a la documentación del módulo correspondiente para
+explorar los elementos a tener en cuenta. Articule también en esta APA, además de la
+metodología, los componentes Desarrollo sostenible y Memoria histórica, de la Cátedra de la
+Paz, el uso de la tecnología disponible y los procesos necesarios que implican la gestión
+escolar, como uso de espacios y recursos de la institución. Ser descriptivo le ayudará a
+consolidar mejor las ideas que sugiere para su Actividad Pedagógica de Aula.
+1
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Algunas de las preguntas guía que le permitirán planear su clase con Aula invertida son 4,
+corresponden a los 4 momentos sugeridos de esta metodología, describa las actividades que
+desea llevar a cabo y prepare el material necesario para cada paso:
+1. ¿Cuál es el contenido específico a enseñar?
+2. ¿Cuál es el contenido que los estudiantes estudiarán en casa o al inicio de la clase (in class
+Flipp)? ¿Necesito para esta solicitud preparar un recurso que permita a los estudiantes llevar
+a cabo su estudio en casa o al inicio de la clase?
+3. ¿Cuáles son las dudas respecto al contenido que los estudiantes tienen durante el trabajo
+en clase? (Esta pregunta puede abordarse, principalmente, cuando se haya implementado
+la APA)
+4. ¿Se evidenciaron necesidades especiales en los estudiantes que se deben tener en cuenta
+para próximas actividades basadas en Aula invertida? (Esta pregunta puede abordarse,
+principalmente, cuando se haya implementado la APA)
+Implementación:
+Al desarrollar con sus estudiantes su APA esté atento al mayor número de detalles que
+ocurren, de ser posible documente lo que sucede en cada momento, la participación de sus
+estudiantes, los roles que asumen, los diálogos entre ellos, las ideas individuales y colectivas
+en torno a los recursos naturales, su protección, sostenibilidad y conocimiento. Fotografías,
+videos, audios, productos hacen parte de la documentación que puede almacenar como
+anexos. Describa en este apartado entonces todos los detalles acontecidos en la
+implementación de la APA y cite con ellos los anexos que quiere destacar para complementar
+su narración. Retome en esta descripción, con mayor profundidad, las respuestas a las
+preguntas 3 y 4.
+Evaluación (de la implementación y planeación):
+Una de las observaciones que permiten evidenciar los logros, los elementos por corregir y las
+características para fortalecer es sin duda preguntarse si el objetivo de la APA se cumplió. Sin
+embargo, en la metodología de Aula invertida es importante destacar la evaluación en varios
+momentos, desde la planeación, durante el desarrollo de la APA y al finalizar. Describa cada
+uno de los resultados a partir de los momentos mencionados y dedique un espacio
+independiente a las actividades desarrolladas durante la implementación, pero también a los
+elementos que se realizaron en la planeación. Estos detalles le permiten tener en cuenta
+detalles para la próxima implementación de esta APA como para las nuevas que quiera
+proponer. De igual manera para colegas que accedan a su propuesta de APA, con su
+experiencia de implementación relatada les será útil tener en cuenta los detalles que usted ha
+encontrado. Haga uso de las rúbricas usadas durante las sesiones del módulo.
+2
+Evidencias:
+Como se manifestó en el momento de la implementación, se sugiere que recopile los
+elementos que soportan su APA, desde su planeación (documentos, formularios, recursos
+digitales, etc.) para que estos junto a este documento base de planeación conformen un único
+elemento para tomarla y llevarla a cabo en otro momento, con otros estudiantes o en otras
+sedes. Las evidencias que se adjunten y se almacenen a esta APA serán útiles para quien
+desee consultarlas y lleve a cabo la implementación, pues habrá una idea clara de las
+posibilidades y logros que se persiguen. De otro lado, estos documentos que componen la
+APA pueden ser utilizados para ser presentados como evidencias en aquellos escenarios
+académicos abiertos para la presentación de experiencias significativas mediadas por el uso
+de TIC, incluso para socializar sus nuevas estrategias en el aula con la comunidad educativa
+de su contexto.
+3
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=357;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/b2/bb/Ficha-1.pdf;True;True;pdf;"El futuro
+Gobierno
+BRITISH
+es de todos
+de Colombia
+COUNCIL
+FICHA
+1
+LUCES Y CÓDIGOS
+Sesión 1
+Aprendizajes
+Al final de esta actividad
+Lo que sabemos, lo
+se espera que puedas:
+que debemos saber
+Identificar un
+conjunto de pasos e
+¿En qué piensas cuando escuchas la palabra computador? Es posible que lo primero
+instrucciones para
+que se te venga a la mente es una tableta, un computador portátil o un computador de
+realizar una tarea.
+escritorio. Pero ¿puedes pensar en algo diferente? ¿Quizás un celular? Sigue buscando
+Simular la ejecución
+ejemplos, ¿quizás un reloj? ¿O una lavadora? ¿Qué es un computador entonces?
+de ese conjunto
+de instrucciones y
+¿Cómo ""sabe"" la lavadora cuándo prender el motor para empezar a lavar? O ¿cuándo
+pasos para saber si
+dejar caer el detergente? Cuando oprimes el ciclo de lavado suave por ejemplo, la
+funcionan bien.
+lavadora ""determina"" la cantidad de agua, su temperatura, cuántas revoluciones del
+Manejar el editor
+tambor, cuánto tiempo, entre otras. ¿Cómo logra esto?
+MakeCode de la
+micro:bit para escribir
+Si estás pensando que debe haber un ""programa"" que cuando eliges el ciclo suave,
+un programa y simular
+da las instrucciones para que la lavadora empiece a lavar, escurrir y centrifugar, estás
+su funcionamiento.
+en lo correcto.
+Utilizar entradas
+y salidas de la
+Las lavadoras modernas, al igual que los computadores y muchos otros artefactos
+micro:bit
+incluyen procesadores que ejecutan instrucciones de un programa desarrollado por
+Utilizar
+variables
+una persona que programa. Este programa incluye instrucciones sobre el tiempo
+booleanas.
+de lavado, la temperatura del agua, el momento de agregar el jabón, entre muchas
+Reconocer que
+otras. Los artefactos y electrodomésticos actuales son cada vez más ""inteligentes"",
+muchos artefactos
+pero para ello necesitan que un(a) programador(a) haga un programa que debe
+tienen dentro un
+ejecutar un procesador electrónico.
+procesador.
+Describir qué es
+un programa,
+una persona que
+Algoritmo: secuencia lógica de pasos.
+programa, un
+Programa: es una secuencia de instrucciones, escritas para realizar una tarea
+procesador, una
+específica en un procesador.
+entrada y una salida.
+Programador(a): persona que escribe el programa para un procesador.
+Procesador: dispositivo electrónico que entiende esas instrucciones y las
+ejecuta automáticamente.
+01101001
+10010100
+a
+<Programacion
+Niños
+03 - 2021
+1-1
+665
+Nings
+El futuro
+BRITISH
+Gobierno
+es de todos
+de Colombia
+COUNCIL
+Desconectadas
+En esta sección, jugaremos a ser un procesador. Para ello deberemos escribir un
+programa (serie de instrucciones) utilizando los símbolos-instrucciones que se
+muestran en la tabla 1 de la izquierda para llevar objeto por objeto desde la casilla ""Inicio""
+hasta un lugar indicado con el símbolo O sin pasar por encima de las serpientes sb
+ni de objetos ya colocados, ni colocar un nuevo objeto donde ya se haya puesto otro.
+Como objetos pueden usar fichas, monedas u otro objeto similar que se pueda poner
+en pila. Los objetos comienzan todos en la casilla ""Inicio"".
+SÍMBOLO
+INSTRUCCIÓN
+Para jugar, cada uno de los integrantes debe seleccionar uno de los siguientes roles:
+Tomar y levantar una
+ficha de la pila de inicio.
+Cliente: decidirá dónde deben quedar las fichas sobre un tablero (ver anexos) y se
+Bajar y soltar la ficha en
+la casilla actual
+la muestra a quien programa (ver ejemplo). El procesador no puede ver la ubicación
+de las fichas.
+Mover la ficha una casilla
+a la derecha.
+Programador(a): deberá escribir sobre una hoja un programa utilizando las
+Mover la ficha una casilla
+instrucciones-símbolos de la tabla. El programa consiste en una secuencia de
+a la izquierda.
+estos símbolos que le dirá al procesador lo que debe hacer.
+Mover la ficha una casilla
+hacia el frente.
+Procesador deberá leer el programa y ejecutar las instrucciones para mover y
+Mover la ficha una casilla
+colocar las fichas.
+hacia atrás.
+TABLA 1
+Verificador(a): revisar que las fichas hayan quedado en el lugar indicado por la
+tarjeta del cliente. Si el grupo es de tres estudiantes la persona llamada Cliente hará
+esta tarea. Mientras otra persona está trabajando, observa lo que hace, detecta
+errores del programa o del procesador y los anota para discutirlos luego.
+Una vez terminado el ejercicio con una tarjeta, cambiamos los roles y utilizamos otra
+tarjeta.
+Inicio
+Ejemplo de programa:
+Ejemplos de ubicación de fichas
+Los procesadores de los computadores, robots, lavadoras, celulares y muchos
+otros dispositivos siguen las instrucciones de un programa que ha sido escrito por
+una persona que se llama programadora.
+La micro: bit tiene un procesador que debe ser programado con un lenguaje especial
+que aprenderás a utilizar.
+<Programacion
+Niños
+1-2
+Niñas
+03 - 2021
+El futuro
+BRITISH
+Gobierno
+es de todos
+de Colombia
+COUNCIL
+Sesión 2
+Conectadas: Manos a la micro:bit
+La tarjeta micro:bit, la cual se muestra a la izquierda, contiene un procesador el
+Recuerda que puedes acceder
+cual puede ejecutar las instrucciones de un programa, escritas por una persona
+al editor Makecode en
+programadora en un lenguaje especial, utilizando un editor especial que funciona
+en un computador o en un celular llamado MakeCode, el cual vas a aprender a utilizar.
+El QR de la izquierda te permite acceder a un video sobre el editor. Este editor tiene un
+simulador de la micro:bit, el cual permite depurar y validar el programa.
+Depurar: corregir los errores que hacen que no funcione.
+Validar: verificar que el programa hace lo que debe hacer.
+Paso a paso, como en un programa para el procesador
+makecode.microbit.org
+1. Vas a ser primero un(a) programador(a). Con la ayuda de tu profesor entra al
+editor. Selecciona nuevo proyecto y elige un nombre:
+Buscar..
+Q
+Básico
+2. Elige en la sección de Instrucciones la opción Básico. Aparecerán varios bloques,
+## Básico
+donde cada bloque representa una instrucción (como las flechas en nuestra
+mostrar número
+more
+actividad anterior)
+Entrada
+mostrar LEDs
+Música
+3. Pon dentro del bloque que dice para siempre el bloque mostrar número 0 y
+LED
+observa lo que pasa en la pantalla de LED. ¿Observas el 0?
+Radio
+4. Ahora vamos a poner a palpitar el corazón de la micro:bit. Para ello vas a ""escribir""
+Bucles
+Lógica
+el programa que ves al lado izquierdo, tomando los bloques que requieres de la
+mostrar ícono
+Variables
+sección Básico.
+Matemática
+mostran cadena Hello!
+5. Explora cómo hacer para que los bloques encajen correctamente. Cuando un
+Avanzado
+para siempre
+bloque no encaja correctamente o no está ubicado en la secuencia de instrucciones
+cambiará.
+pausa (ms)
+100
+6. Si ves un corazón que palpita, lo has logrado! Es tu primer programa en la micro:bit.
+al iniciar
+7. Si no lo has logrado, deberías:
+1. Revisar lo que hiciste.
+2. Examinar cómo lo hizo alguna de las otras personas de tu grupo.
+3.
+para siempre
+Si aún no lo logras, pedirle ayuda a tu profesor.
+8. Este corazón late muy rápido. Quisiéramos que no se fatigue tanto y vaya más
+lento. Utiliza ahora el bloque
+pausa (ms) 100
+para colocar entre palpitaciones.
+mostrar ícono
+9. ¿Lograste que palpite más lento? Te has convertido en una persona que sabe
+programar en la micro:bit. De ahora en adelante aprenderás a manejar más
+mostrar LEDs
+bloques para hacer muchas cosas: hacer juegos, resolver problemas y ayudarle a
+la naturaleza.
+10. Explora ahora el menú de comandos y trata de jugar con ellos. Algunos bloques se
+pueden conectar, otros no.
+11. Te invitamos a revisar los diferentes bloques y su forma. Discute con tu colega
+de grupo sobre qué cosas ves en las diferentes pestañas. ¿Te imaginas para qué
+sirven algunos comandos- bloques? ¿Algunos te parecen completamente nuevos?
+12. Para terminar, te invitamos a cambiar el bloque de para siempre por el de al
+presionar el botón A, que encontrarás en la sección de Entrada.
+1. ¿Qué sucede cuando se oprime con el ratón en el simulador el botón A una vez?
+2. ¿Qué pasa si lo oprimes muchas veces? ¿Cuántas veces palpita el corazón?
+Programación
+Niños
+03 - 2021
+1-3
+Niñas
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=329;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/78/e0/Di´a 2.pdf;True;True;pdf;"UNIVERSIDAD
+gitei
+NACIONAL
+DE COLOMBIA
+Acompañamiento del Modelo Tejiendo Saberes
+Agenda formación
+Febrero 2021
+gitei
+La educación
+Mineducación
+es de todos
+Calendario de actividades capacitación MEF Tejiendo Saberez
+Día
+Fecha
+Tema
+Duración
+Hora
+Objetivo de la sesión
+Lunes 22
+Introducción al Modelo
+Conocer los origenes, generalidades,
+Día 1
+Educativo Flexible
+2 horas
+10:00 a 12:0 AM
+características y componentes del Modelo
+de febrero
+Tejiendo Saberes
+Educativo Flexible Tejiendo Saberes.
+Reconocer el rol del docente o tutor, sus acciones y formas de
+Martes 23
+acompañamiento a las personas jóvenes, adultas y mayores para la
+Día 2
+Rol del tutor/docente
+3 horas
+09:00 a 12:00 AM
+de febrero
+implementación del Modelo Educativo Flexible Tejiendo Saberes
+desde la perspectiva del Diseño Universal para el aprendizaje.
+Tipos de recursos para
+Explorar los distintos tipos de recursos de radio y
+Miércoles 24
+Día 3
+radio y tv: características
+3 horas
+09:00 a 12:00 AM
+televisión y sus potencialidades como mediadores
+de febrero
+pedagógicas
+pedagógicos.
+Jueves 25
+Tipos de recursos para
+Comprender los tipos de recursos, profundizando
+Día 4
+radio y tv: manejo de
+3 horas
+09:00 a 12:00 AM
+en el uso de los recursos de televisión dentro de la
+de febrero
+malla curricular.
+recursos
+Viernes 26
+Apropiar el uso de los recursos educativos de radio y
+Actividad práctica
+Día 5
+3 horas
+09:00 a 12:00 AM
+televisión en la implementación del Modelo Educativo
+de febrero
+de aplicación
+Flexible Tejiendo Saberes, aplicados a territorios específicos.
+UNIVERSIDAD
+gitel
+NACIONAL
+THE ILOMBIA
+Acompañamiento del Modelo Tejiendo Saberes
+gitei
+3
+Día 2
+Tiempo
+Contenido
+Actividad
+30 minutos
+Actividad inicial - Reflexión del día
+Al tablero... (Link a jamboard) percepciones del día anterior
+anterior
+40 minutos
+¿Qué se espera de los tutores O
+docentes?
+¿cómo se imagina a los tutores?
+Características de los tutores O docentes
+Identificar actores
+Retos del acompañamiento mediado
+por recursos tecnológicos
+Tutor O docente ideal (tablero - percepción de los participantes del rol del
+Características del tutor O
+tutor O docente)
+docentes
+1. Identificación del territorio
+(tips - trabajo con adultos)
+2. Identificación de actores
+(Trabajo mediado por
+3.
+Asignación de roles y etapas del proceso de implementación
+4. Implementación de contenidos
+tecnologías)
+60 minutos
+¿Qué es el Diseño Universal para el
+Trabajo por grupos
+aprendizaje, y cómo favorece el
+Ejercicio práctico
+reconocimiento de las diversas personas
+Presentación del DUA
+jóvenes, mayores y adultas ?
+¿Cómo reconocer la diversidad de las
+diversas personas jóvenes, mayores y
+adultas ?
+40 minutos
+Análisis de las necesidades de las
+Socialización del formulario de caracterización realizado el día anterior
+La educación
+Mineducación
+es de todos
+Modelo Educativo Flexible - Tejiendo Saberes
+gitei
+Acompatiamiento a las personas jovenes, adultas Y mayores
+Estas son algunas de las acciones que se requiere realizar por parte de los
+establecimientos educativos y las Entidades Territoriales Certificadas, para la
+implementación del Modelo Educativo Flexible Tejiendo Saberes
+Establecimientos
+I
+Liderar la articulación del Modelo Educativo
+1
+Articular el Modelo Educativo Flexible con el
+Reportar las novedades en el proceso de
+Flexible Tejiendo Saberes al Proyecto Educativo
+Sistema Institucional de Evaluación, organizar los
+matrícula de estudiantes y registrar la
+Educativos
+Institucional PEI o Proyecto Educativo
+tiempos y espacios en ambientes de aprendizaje,
+aprobación y reprobación de la población de
+Comunitario PEC.
+de tal forma que permita el seguimiento a los
+jovenes, adultos y mayores.
+procesos de evaluación formativa a las personas
+2
+Desarrollar un plan de acción para la
+jóvenes, adultas y mayores en sus diferentes Ciclos
+(Directivos docentes)
+12
+Expedir los certificados de estudio a la población
+implementación y el seguimiento a las condiciones
+Lectivos Especiales Integrados -CLEI-,
+de acuerdo con les criterios de asistencia,
+de calidad técnica y pedagógica frente all
+participación y evaluación formativa realizada
+desarrollo del Modelo Educativo Flexible
+8
+Promover la socialización de los aprendizajes y
+con base en las disposiciones del Sistema
+experiencias a los actores de la comunidad
+Institucional de Evaluación.
+3
+Garantizar los espacios para la capacitación y
+educativa durante el proceso de implementación
+asistencia de los directivos docentes y docentes
+3
+Establecer el proceso de servicio social
+que acompañarán los procesos de
+9
+Trabajar en equipo, articulando las fortalezas y
+estudiantil, para este caso 80 horas para los CLEI
+implementación del Modelo Educativo Flexible
+saberes de cada miembro de la comunidad
+Sy 6, organizarlo con base en las
+educativa en pro del cumplimiento de los
+particularidades y necesidades de la población y
+4
+Establecer mecanismos que les permita evaluar los
+compromisos institucionales para la atención de
+con base en la normatividad actual
+niveles de competencia curricular esperados para
+población.
+los diferentes CLEI, respetando los ritmos de
+14
+Organizar proceso para la participación de la
+aprendizaje y las orientaciones sobre la evaluación
+10
+Realizer el proceso de matrícula de las personas
+población joven, adulta y mayor en el Gobierno
+asumidas en el modelo.
+jovenes, adultas y mayores de los CLEI que se
+Escolar del establecimiento educativo.
+implementarán, se requiere garantizar la calidad y
+5
+Incorporar los resultados de la implementación del
+veracidad de la información en el Sistema
+Modelo Educativo Flexible en los procesas de
+integrado de Matricula SIMAT.
+autoevaluación institucional y el Plan de
+Mejoramiento Institucional.
+Disponer de la infraestructura y ambientes de
+aprendizaje requeridos para la prestación del
+servicio a la población
+UNIVERSIDAD
+gitel
+NACIONAL
+COLORIDAN
+"
+...;https://eco.colombiaaprende.edu.co/masterclass/;s3://men-prod-clean-data/contenidos_formativos/ENGLISH_FOR_COLOMBIA_ECOWEB/masterclass/MC # 6/MC6-Técnicas y Pasos a Seguir/MC6-Técnicas y Pasos a Seguir.pdf;False;True;pdf;
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=291;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/5b/59/DiarioSensorial_M4_L1_R2.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Conexión emociones
+Competencias socioemocionales para
+el desarrollo integral y la salud mental
+de niños, niñas y adolescentes
+Establecimientos Educativos
+Módulo 4
+Guión - Diario Sensorial
+Fundación
+Saldarriaga
+Concha
+Establecimientos Educativos
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Momento 5 - Juego de concurso (prácticas propias) - Mindfulness
+Guión - Diario Sensorial
+En todo momento podemos tomar consciencia de la forma en que cada
+sentido nos transmite emociones para mantenernos sanos y en equilibrio.
+Usted puede comenzar una práctica de conciencia plena o Mindfulness, con
+pequeños momentos de consciencia corporal y sensorial, mediante la conexión
+con su entorno. A continuación, le sugerimos algunos momentos para la práctica:
+1. Al despertar, antes de salir de la cama; sienta cómo su cuerpo reposa sobre
+su cama, como es sostenido por ella, preste atención a la posición en que se
+encuentra cada parte de su cuerpo, la temperatura, el silencio o los sonidos.
+2. Al bañarse en la ducha, preste atención a la sensación que tiene cuando
+el agua cae sobre su cabeza y cuerpo, el aroma del jabón que utiliza, y la
+forma como pasa por cada parte de su cuerpo.
+3. Al desayunar, almorzar o cenar, y en general cuando tome algún alimento,
+preste atención a su sabor, textura y aroma, y tome tiempo en sentirlo en
+su boca, identifique su textura y como esta se pierde en la medida en que
+lo mastica.
+Reflexione: ¿en qué momentos y de qué manera puedo promover el uso de
+todos los sentidos para evocar emociones en mis ambientes cotidianos?
+Lleve un ""Diario Sensorial"", donde consigne cada día, cómo va descubriendo
+su entorno con mayor y plena consciencia.
+2
+El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Fundación
+Saldarriaga
+Concha
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=189;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/73/90/MEN_PTA_C7_ANEXO1_RECOMENDACIONES.pdf;True;True;pdf;"RECOMENDACIONES PARA EL ACOMPAÑAMIENTO PEDAGÓGICO QUE REALIZARÁ EL
+TUTOR
+CICLO VII- SER MAESTRO PARA LA EQUIDAD
+1. RECOMENDACIONES PARA CADA ETAPA
+ETAPA 1 -PLANIFICACIÓN DE
+Las siguientes recomendaciones están orientadas al
+LA PRÁCTICA
+maestro interesado en garantizar una educación
+equitativa en la que no se quede nadie atrás.
+Se les recomienda al tutor y maestro tener en cuenta lo
+siguientes aspectos:
+Planear las clases o ambientes pedagógicos con el
+propósito de fortalecer la participación activa y efectiva
+de los NNA.
+Reconocer al momento de planear las prácticas que
+obstaculizan los aprendizajes y las relaciones
+horizontales, democráticas, justas y equitativas.
+Diseñar actividades que promuevan relaciones, basadas
+en el respeto a la diferencia y la justicia social.
+Cuando se estén diseñando las actividades no perder de
+vista que estas van dirigidas a sujetos sociales activos de
+derechos.
+Recordar que la convivencia pacífica; la pluralidad,
+identidad y valoración de las diferencias; y la
+participación democrática, son elementos transversales
+de la formación ciudadana y que deben hacerse explícitos
+en la planeación pedagógica.
+Diseñar ambientes pedagógicos para la vivencia efectiva
+de la justicia, la construcción de comunidad, el
+reconocimiento del otro y la diversidad y de las normas
+en espacios democráticos y propicios para la reflexión,
+prevención y atención a las brechas socioeducativas.
+Seguir las orientaciones dadas por el tutor en el
+laboratorio de lenguaje con relación al funcionamiento
+de los personajes y su relación con la intención estética
+de la obra y el lector.
+Seguir las orientaciones dadas por el tutor en el
+laboratorio de matemáticas y revisar si la planeación
+contempla actividades o juegos equitativos que
+fortalezcan el trabajo colaborativo y el valor de la
+equidad, así mismo, identificar si los NNA se involucran
+en situaciones donde se requiera utilizar los diferentes
+significados de la fracción.
+ETAPA
+2
+Se propone acompañar al maestro en la formación de
+ACOMPAÑAMIENTO
+EN
+una cultura política y ciudadana que es central en
+AULA.
+cualquier proceso educativo, por ello el
+acompañamiento en aula propenderá por una mirada
+crítica y reflexiva del ejercicio de la ciudadanía, desde
+la participación activa y efectiva de los NNA.
+Se propone acompañar al maestro para que promueva
+conocimientos (Saberes) actitudes (saber ser) y
+habilidades (saber hacer) de manera articulada para el
+desarrollo personal, social, ético y político de los NNA.
+Para el caso de lenguaje se recomienda a los maestros
+y tutores proponer actividades en el aula basadas en el
+estudio del personaje, su complejidad y su axiología
+fundamentada en los contextos de los NNA.
+Para el caso de matemáticas los tutores junto con los
+maestros implementarán actividades previamente
+contextualizadas que favorezcan la comprensión de la
+equidad e involucren los significados de la fracción.
+ETAPA 3- DIÁLOGO DE
+El tutor y el maestro pueden reflexionar en torno a las
+SABERES
+prácticas pedagógicas que promuevan el cierre de
+brechas de género, económicas, étnicas y/o
+circunstancias sociales particulares que han sido
+identificadas por ellos.
+Pueden promover reflexiones sobre los derechos, el
+respeto a las diferencias, el trabajo en equipo y el
+desarrollo de habilidades, desde la primera infancia
+hasta culminar su proceso de escolarización, que
+contribuyan en la consolidación de una cultura
+ciudadana.
+Enriquecer las discusiones con reflexiones sobre las
+brechas socioeducativas que pueden darse en el aula y
+la manera de atenderlas y prevenirlas trabajando
+fuertemente en el desarrollo y potenciación de
+ciudadanías críticas.
+Fomentar diálogos pedagógicos sobre la
+intencionalidad del trabajo colaborativo que se
+promueve en el aula, y las posibilidades que este
+permite al habilitar diversas formas de interacción,
+encuentro y solución colectiva de problemas.
+Reflexionar sobre las fortalezas y los aspectos por
+mejorar de las actividades propuestas, y, además,
+proyectar nuevas situaciones que contemplen el
+interés de los NNA y fortalecer el trabajo colaborativo.
+2. SUGERENCIAS PARA LA FOCALIZACIÓN
+ORGANIZACIÓN
+Y
+Planea los escenarios de aprendizaje a partir de un
+DESARROLLO CURRICULAR
+propósito específico, secuenciado y articulado con
+el Proyecto Educativo Institucional, los referentes
+curriculares, contenidos e intereses de los niños,
+niñas y adolescentes.
+Las metas de aprendizaje propuestas y conocidas por
+los niños, niñas y adolescentes, son coherentes con
+los referentes de curriculares.
+Las actividades desarrolladas permiten responder a
+los diferentes ritmos y estilos de aprendizaje de los
+niños, niñas y adolescentes.
+INTERACCIONES EN EL AULA
+Planea actividades que promueven el trabajo
+CON
+UN
+PROPÓSITO
+colaborativo, la participación y los acuerdos con los
+FORMATIVO
+niños, niñas y adolescentes.
+Interactúa con los niños a través de acciones
+relacionadas con el estilo docente asertivo y
+democrático.
+Interviene oportunamente para resolver situaciones
+que pueden afectar el clima de aula.
+Regula el tiempo de las participaciones promoviendo
+un ambiente de interacción permanente y dialógico, en
+dónde todos pueden participar.
+DESARROLLO
+Y
+Domina e ilustra conceptos y procedimientos propios
+APRENDIZAJE
+de su disciplina, haciendo uso de diferentes recursos,
+para desarrollar competencias básicas, ciudadanas y
+socioemocionales.
+Usa estrategias que involucran a los estudiantes en su
+proceso de desarrollo y aprendizaje
+Promueve estrategias pedagógicas a partir de las
+situaciones del contexto y potencia la participación
+generadora de soluciones.
+EVALUACIÓN
+Y
+Hace seguimiento permanente a los aprendizajes y
+SEGUIMIENTO
+AL
+retroalimenta de manera constante a sus estudiantes
+DESARROLLO
+sobre el desarrollo de sus competencias básicas,
+ciudadanas y socioemocionales.
+Utiliza la autoevaluación, la heteroevaluación y la
+coevaluación para reconocer el proceso de los
+aprendizajes en los estudiantes.
+"
+...;https://www.cna.gov.co/portal/Biblioteca/;s3://men-prod-clean-data/contenidos_formativos/CNA/archivos/articles-401011_documento.pdf;True;True;pdf;"PLAN
+RURAL DE
+EDUCACION
+SUPERIOR
+Estrategias de fortalecimiento de
+capacidades para el desarrollo territorial
+MINEDUCACIÓN
+GOBIERNO DE COLOMBIA
+Plan Rural de Educación Superior
+Estrategias de fortalecimiento de capacidades para el desarrollo territorial
+I
+1
+Plan Rural de Educación Superior
+Juan Manuel Santos Calderón
+Equipo de Trabajo del Sistema de
+Presidente de la República
+Universidades del Estado -SUE-:
+Pablo Hernán Vera Salazar
+Yaneth Giha Tovar
+Rector Universidad de Magdalena
+Ministra de Educación Nacional
+Alejandro Ceballos Márquez
+Natalia Ruiz Rodgers
+Rector Universidad De Caldas
+Viceministra de Educación Superior
+Oscar Arango Gaviria
+Alejandra Ramirez López
+Coordinador de la Mesa de Gobernabilidad y Paz
+Directora de Fomento para la Educación Superior
+-SUE-
+Magda Méndez Cortés
+Equipo de la Red de Instituciones Técnicas
+Directora de Calidad de la Educación Superior
+Profesionales y Tecnológicas y Universitarias
+Públicas REDTTU:
+Edgar Hernán Rodríguez Ariza
+Subdirector de Apoyo a la Gestión de las
+Gustavo Rubio Lozano
+Instituciones de Educación Superior
+Rector Instituto Agrícola -ITA-
+Wilfer Orlando Valero Quintero
+Ludy Esperanza Carrillo Candelo
+Subdirector de Desarrollo Sectorial
+Rectora Instituto Superior de Educación Rural -
+ISER-
+Jenny Vargas Guataquira
+Coordinadora de Fomento al Acceso y
+Felipe Ortíz
+Permanencia
+Director Ejecutivo -REDTTU-
+Equipo de Trabajo Ministerio de Educación
+Equipo Universidad Nacional de Colombia:
+Nacional:
+Centro de Pensamiento y Seguimiento al Diálogo
+Alexander Castillo Cobo
+de Paz
+Claudia Marcela Galvis Beltrán
+Erika Lucia Villamil Fajardo
+Diseño De Portada
+Ivan Darío Rodríguez Bustamante
+Oficina Asesora de Comunicaciones - Ministerio
+Manuel Antonio Cruz Pineda
+de Educación Nacional
+Monika Kellner Nowogroder
+Paula Andrea Triana Romero
+Santiago González Torres
+Plan Rural de Educación Superior
+Viceministerio de Educación Superior
+Personas que participaron de la construcción
+Ministerio de Educación Nacional
+de este documento:
+Jaime Vargas Vives
+Bogotá D.C., julio de 2018
+Felipe Cesar Londoño López
+2
+Ministerio de Educación Nacional
+CONTENIDO
+INTRODUCCIÓN
+7
+CAPÍTULO 1: Diagnóstico
+9
+1.1 Cobertura de educación superior en territorios rurales.
+11
+1.2 Tránsito inmediato a programas de educación superior por parte de población
+rural.
+21
+1.3
+Pertinencia de la educación superior en territorios rurales.
+25
+1.4 Principales experiencias regionales
+38
+1.4.1 Los Centros Regionales de Educación Superior (CERES)
+39
+1.4.2 Estrategias de regionalización de las IES
+42
+1.4.3 Universidades de Paz
+42
+CAPÍTULO 2. Plan Rural de Educación Superior
+44
+2.1 Enfoque
+44
+2.2. Objetivos
+50
+2.2.1 Objetivo General
+50
+2.2.2 Objetivos Específicos:
+50
+2.3. Líneas de Acción
+51
+2.3.1 Modelos educativos adaptables y flexibles
+53
+2.3.2
+Acceso y permanencia de la población rural a la educación superior
+61
+2.3.3
+Fortalecimiento de capacidades para el desarrollo rural del territorio y la
+consolidación de la paz
+62
+2.4 Estrategias
+64
+2.4.1 Alianzas Rurales de Educación y Desarrollo - ARED
+64
+2.4.2
+Educación para el Trabajo y el Desarrollo Humano (ETDH)
+66
+CAPÍTULO 3: Ruta de Implementación del Plan Rural
+68
+3.1 Ruta de implementación
+74
+3.2 Elementos de la ruta de implementación
+76
+CAPÍTULO 4: Estrategias de sostenibilidad del Plan Rural
+87
+4.1 Sostenibilidad Financiera.
+89
+3
+Plan Rural de Educación Superior
+4.2 Sostenibilidad del aseguramiento de la calidad en territorios rurales.
+92
+4.3 Sostenibilidad a través del fortalecimiento de las capacidades locales.
+95
+CAPITULO 5: Actores y Aliados
+98
+5.1 Actores y aliados relevantes para el desarrollo rural desde la Educación
+Superior
+98
+5.2 Marco normativo.
+110
+BIBLIOGRAFÍA
+112
+Anexo 1. Alianzas Rurales para la Educación y Desarrollo
+117
+ÍNDICE DE TABLAS
+Tabla 1. Bachilleres 2016 según sector del establecimiento educativo y zona de residencia
+del estudiante.
+12
+Tabla 2. Distribución de establecimientos educativos según categorías de desempeño en las
+pruebas SABER y tipo de ruralidad del municipio, 2016.
+14
+Tabla 3. Evolución de la matrícula total en educación superior según el tipo de ruralidad del
+municipio donde se oferta el programa.
+18
+Tabla 4. Evolución de la matrícula total en educación superior según el tipo de ruralidad del
+municipio donde se oferta el programa y metodología.
+19
+Tabla 5. Evolución de la matrícula de pregrado según el tipo de ruralidad del municipio
+donde se oferta el programa
+20
+Tabla 6. Distribución de los estudiantes matriculados en programas ofertados en municipios
+rurales y rurales dispersos según nivel de formación y carácter de la IES, 2016
+20
+Tabla 7. Tasa de tránsito inmediato a educación superior según la zona de residencia del
+estudiante, 2016.
+22
+Tabla 8. Tasa de tránsito inmediato a educación superior en 2016 de los bachilleres 2015
+residentes en zonas rurales según nivel de formación y origen de la IES.
+23
+Tabla 9. Estudiantes de grado once en 2015 residentes en zonas rurales que ingresan a
+educación superior en 2016 - Que se movilizan de municipio
+25
+4
+Ministerio de Educación Nacional
+Tabla 10. Distribución de los estudiantes de educación superior matriculados en 2016 según
+sexo y tipo de municipio
+27
+Tabla 11. Matrícula atendida en IES o programas de alta calidad por tipo de municipio, 2016.
+28
+Tabla 12. Tasa de vinculación de los graduados de educación superior y tipo de municipio,
+2010 y 2016.
+29
+Tabla 13. Población rural en Educación Superior 2016, por núcleo básico de conocimiento
+del programa de formación
+36
+Tabla 14. Indicadores y metas acorde a cada a cada línea de acción. Fuente: Elaboración
+propia
+85
+Tabla 15. Algunos Actores, línea de cooperación y sector o área para la Cooperación
+Internacional.
+90
+ÍNDICE DE FIGURAS
+Figura 1. Porcentaje de desempeño en pruebas SABER 11 por tipo de ruralidad.
+15
+Figura 2. Concentración de la matrícula de educación superior, 2016.
+16
+Figura 3. Distribución de la matrícula en educación superior a nivel regional
+17
+Figura 4. Distribución de los estudiantes atendidos en programas ofertados en municipios
+rurales y rurales dispersos según nivel de formación.
+21
+Figura 5. Tasa de tránsito inmediato a educación superior por departamento y zona de
+residencia del estudiante, 2016 para departamentos que están por encima de la tasa nacional
+para la zona rural.
+24
+Figura 6. Distribución de los estudiantes matriculados en programas de educación superior
+ofertados en municipios rurales y rurales dispersos, según área de formación.
+26
+Figura 7. Distribución de mujeres matriculadas en programas de educación superior
+ofertados en municipios rurales y rurales dispersos, según área de formación en 2016.
+27
+Figura 8. Distribución de la población.
+30
+Figura 9. Población rural en Educación Superior 2016, por PDET.
+31
+Figura 10. Población rural en Educación Superior 2016, por Departamento
+32
+5
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=329;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/93/91/MEF_PR_INF07.pdf;True;True;pdf;"La educación
+Mineducación
+es de todos
+Aspectos pedagogicos del MEF Tejiendo Saberes
+Elementos que componen la estructura curricular de las áreas en el MEF
+Las estructuras curriculares
+Elementos integradores
+Herramienta pedagógica que tiene una institución
+educativa y, en particular, el docente o tutor para
+La línea temática del ciclo y los ejes integradores,
+orientar el proceso de enseñanza y aprendizaje.
+Estos últimos se articulan, a su vez, con los ejes de
+competencia propios de las áreas académicas.
+Cuenta con la integración de procesos de
+educación y formación.
+ÁREAS: Matemáticas, Lenguaje, Ciencias sociales,
+Ciencias Naturales y Competencias Ciudadanas
+CLEI 1 al 6.
+Los ejes integradores
+Construyeron a partir de competencias integradoras,
+las cuales encierran las diferentes dimensiones de
+Las líneas temáticas
+construcción del proyecto de vida de las personas.
+Competencia de cada área con los ejes integradores,
+!
+estos son:
+Actúan como hilos conductores que interrogan y/o
+evocan perspectiva de vida al saber disciplinar (Vasco,
+2
+La afectividad (lenguaje, competencias ciudadanas
+Carlos; Bermúdez, Ángela; Escobado, Hernán; Negret,
+y sociales).
+Juan Carlos y León, Teresa. 1999).
+Desarrollo y productividad (lenguaje, matemáticas y
+ciencias naturales).
+Promoción acciones de participación y convivencia para
+Participacion y responsabilidad social (lenguaje,
+que en cada ciclo cada área desarrolle reflexión y
+competencias ciudadanas y sociales).
+sentido desde la temática propuesta para el ciclo a lo
+Calidad de vida (Matemáticas, ciencias naturales
+largo del proceso.
+y lenguaje).
+UNIVERSIDAD
+gitei
+NACIONAL
+DE COLOMBIA
+La educación
+Mineducación
+es de todos
+Elementos estructura curricular de las areas en el modelo
+Ejemplo del área de matemáticas la manera como se expresan estos elementos en la
+estructura curricular de cada área desde la mirada de un ciclo, en uno de sus ejes:
+Ciclo 3
+Línea temática
+La reintegración: un espacio para conocer mis talentos de cara a mi entorno y mi comunidad.
+Propósito de la línea temática
+Identificar los campos de desempeño en los que puedo desarrollar mi potencial de aprendizaje para resolver
+problemas del entorno inmediato o prestar algún servicio a mi comunidad.
+Eje integrador
+Desarrollo y productividad.
+Identificar las actitudes y desempeños básicos para desenvolverse en los diferentes entornos productivos
+Propósito del eje integrador
+(competencias laborales generales).
+Desempeño
+Formulo relaciones entre las unidades básicas y sus múltiplos y submúltiplos.
+Concepto
+Magnitud física.
+Enseñanzas
+El Sistema Internacional de Unidades consta de siete unidades básicas, las cuales tienen múltiplos y submúltiplos
+Proposición
+que se expresan mediante prefijos.
+Reconozco el sentido del uso de los múltiplos y submúltiplos de las unidades de medida como uno de los
+De motivación
+desempeños básicos que requiero para desenvolverme en diferentes entornos productivos.
+Criterios de
+De conocimiento
+Comprendo qué son los múltiplos y submúltiplos de las unidades básicas.
+evaluación
+Aplico procedimientos para formular relaciones entre las unidades básicas y
+De procedimiento
+UNIVERSIDAD
+sus múltiplos y submúltiplos.
+gitei
+NACIONAL
+DE COLOMBIA
+La educación
+Mineducación
+es de todos
+Didactica Y formación por competencias
+Avanzar hacia el desarrollo de una
+Pedagogía Conceptual
+didáctica por competencias que
+Reconoce procesos neurosicológicos
+favorezca la enseñanza y el
+aprendizaje de las personas jóvenes,
+adultas y mayores al respetar los
+procesos de estructuración mental,
+garantizando que esta población
+Fases Secuenciales
+desarrollen competencias
+afectivas, cognitivas y expresivas
+que permitan desenvolverse de
+forma adecuada en los diferentes
+Fase afectiva
+entornos (familiar, social,
+productivo, etc.)
+Fase cognitiva
+Fase expresiva
+UNIVERSIDAD
+gitei
+ri
+NACIONAL
+DE COLOMBIA
+La educación
+Mineducación
+es de todos
+Didactica Y formacion por competencias
+Fases
+Propósito
+Componentes de los procesos enseñanza- aprehendizaje
+1. Interés
+Despertar la curiosidad del estudiante por el aprehendizaje. Encontrar los aspectos interesantes, curiosos,
+divertidos e intrigantes de la temática a tratar, o de aquello que le genere disonancia al estudiante.
+Generar motivación por
+2. Sentido
+Afectiva
+Afectiva
+el aprehendizaje en los
+estudiantes
+Hacer que el estudiante aprecie el aprehendizaje en la medida en que le reportará ""ganancias"" para sí
+mismo o para sus intereses. Encontrar la utilidad, la importancia y la necesidad de aprehender-lo
+3. Expectativa
+Elevar la confianza de los estudiantes frente al tener éxito en el proceso de aprehender, mostrando el
+proceso para llegar al aprehendizaje. Si otros pueden aprenderlo, ¿por qué yo no?
+Fases
+Propósito
+Componentes de los procesos enseñanza- aprehendizaje
+1. Mecanismos cognitivos básicos: Percepción - memoria.
+Reconocer los conocimientos previos que tiene el estudiante acerca de la nueva enseñanza.
+2. Comprensión del conocimiento
+?
+Cognitiva
+Generar procesos de
+Explicar crítica, convincente y disciplinarmente (o contextualmente) ""los saberes"": ¿Cuál es la esencia y
+Cognitiva
+comprehensión en
+cuáles las particularidades del aprehendizaje?
+los estudiantes
+3. Estructuración del conocimiento
+Promover en el estudiante la formulación de estructuras o esquemas que expliquer lo que ha
+comprendido de la enseñanza (mapas conceptuales, cuadros comparativos y otros), que le permitan
+verificar lo que él ha comprendido o las ideas a las que ha llegado a partir de las enseñanzas dadas.
+UNIVERSIDAD
+gitei
+NACIONAL
+DE COLOMBIA
+La educación
+Mineducación
+es de todos
+Didactica Y formación por competencias
+Fases
+Propósito
+Componentes de los procesos enseñanza- = aprehendizaje
+1. Procedimiento:
+Presentar al estudiante un algoritmo - heurístico que le permita hacer uso o aplicar la enseñanza dada.
+2. Modelación:
+Explicar al estudiante cómo funciona ese procedimiento, mostrándole paso a paso su aplicación.
+Expresiva
+Manifestar dominio de
+Expresiva
+la competencia
+3. Simulación:
+Indicar al estudiante los errores que se pueden cometer al usar el procedimiento, y los tips o
+recomendaciones para evitarlos.
+4. Ejercitación:
+Evaluar la aplicación que hace el estudiante de los procedimientos dados en diversas situaciones,
+verificando si ha adquirido la competencia.
+UNIVERSIDAD
+gitei
+NACIONAL
+DE COLOMBIA
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=189;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/76/f2/MEN_PTA_C7_ANEXO2_ENCUENTRO.pdf;True;True;pdf;"ENCUENTRO DE MENTORÍA-
+ACOMPAÑAMIENTO SITUADO
+JNA MIRADA AL EJERCICIO DE LA CIUDADANÍA, DESDE
+A PARTICIPACIÓN ACTIVA EN EL AULA: PERSPECTIVAS
+PARA LA OBSERVACIÓN REFLEXIVA Y EL DIÁLOGO
+PEDAGÓGICO.
+El futuro
+Gobierno
+es de todos
+de Colombia
+Tip
+Todos a Aprende
+Mineducación
+Fase de exploración (20 min): Introducción y actividad 1-
+Identificación de habilidades prosociales en el grupo.
+Fase de estructuración (15 min): Se presentan algunos
+referentes reflexiones sobre los retos de formar para la
+ciudadanía y el cierre de brechas socioeducativas.
+CONTENIDO
+Fase de práctica (35 min): En mesas de trabajo, se desarrollan
+las actividades propuestas para el enriquecimiento del diálogo
+pedagógico sobre el cierre de brechas a nivel socioeducativo.
+Fase de transferencia (30 min): Se socializan los resultados de
+las actividades propuestas para fortalecer la reflexión y el
+diálogo pedagógico.
+Fase de cierre (20 min): Cada mesa construye una copla como
+cierre y compromiso para aportar en la construcción de una
+I
+cultura ciudadana, equitativa, justa y democrática. .
+Mineducación
+Distinguir las prácticas
+pedagógicas que promueven
+Objetivo
+el cierre de brechas de
+género, económicas, étnicas
+y/o circunstancias sociales
+particulares.
+Mineducación
+Referencia elementos clave de los Estándares Básicos de
+Competencias Ciudadanas para promover la reflexión
+sobre los derechos, el respeto a las diferencias, el trabajo
+en equipo y el desarrollo de habilidades, desde la
+Desempeños
+primera infancia, que contribuyan en la consolidación de
+una cultura ciudadana.
+Esperados
+Promueve una mirada al aula, desde la ciudadanía
+teniendo en cuenta los siguientes aspectos: la
+convivencia pacífica, la pluralidad, la identidad y la
+valoración de las diferencias, la participación y la
+responsabilidad democrática.
+Enriquece el acompañamiento pedagógico en cada una
+de sus etapas con reflexiones críticas sobre las brechas
+socioeducativas que pueden darse en el aula.
+Mineducación
+:
+MOMENTO DE
+EXPLORACIÓN
+Mineducación
+MOMENTO DE EXPLORACIÓN:
+Actividad 1- - Identificación de habilidades prosociales en el grupo.
+1
+1111er
+A CADA MESA SE LE DA UNA FICHA
+CON UN NÚMERO
+O depositphotos
+Image ID: 183008342 www.depositphotos.com
+Cada mesa revisa el número de la ficha e identifica la mesa que tiene
+asignado ese número. Luego realiza un listado de las actitudes o
+comportamientos de las personas de ese grupo que promueven la
+convivencia pacífica.
+Todos a Aprender
+Mineducación
+MOMENTO DE EXPLORACIÓN:
+Luego de identificar los
+Identificar comportamientos
+comportamientos prosociales que
+promueven la convivencia pacífica, se
+prosociales, puede ser un aspecto
+hace un collage, pegando el material en
+la pared.
+importante en la reflexión crítica
+del ejercicio de la ciudadanía y la
+participación activa en el aula.
+Reconocer estos comportamientos
+en el grupo puede ayudar a que el
+colectivo reconozca las
+desigualdades que se dinamizan al
+interior y coadyuven en el cierre de
+brechas.
+Todos a Aprender
+Mineducación
+MOMENTO DE
+ESTRUCTURACIÓN
+Mineducación
+MOMENTO DE ESTRUCTURACIÓN:
+¿Qué significa la desigualdad social vista desde el
+ámbito educativo?
+EJEMPLOS PARA LA REFLEXIÓN
+Para reducir la brecha entre la educación que reciben hombres y mujeres, es necesario reconocer que existe tal brecha. Cuando hay
+tal reconocimiento, se logra una deconstrucción de discursos sexistas, un apropiado e incluyente lenguaje y una transformación de las
+prácticas docentes que colocan en desventaja el rol de las niñas con relación al de los niños.
+Reducir la brecha entre la educación que reciben personas con discapacidad y las que no, pasa por reconocer que existen brechas en la
+enseñanza para unos y otros; cuando hay tal reconocimiento, se potencia desde el principio de igualdad de oportunidades una
+enseñanza para todos en la que se reconocen las características particulares de los niños, niñas y adolescentes (NNA), se flexibiliza el
+currículo, se reflexiona sobre el discursos y el lenguaje que se promueve en el aula y se generan relaciones horizontales desde el
+trabajo colaborativo, etc.
+Para reducir las brechas entre la educación que reciben los NNA de Establecimientos Educativos urbanos y los rurales, hay que
+reconocer que existe esta brecha. Cuando se reconoce esto, se reconocen las particularidades del contexto para fomentar procesos
+pedagógicos situados, se invierte en formación docente y se flexibilizan las posibilidades educativas a partir de las características
+rurales. Etc.
+Todos a Aprender
+Mineducación
+MOMENTO DE ESTRUCTURACIÓN:
+Una educación equitativa, pasa como primera medida por reconocer que las brechas existen; caso contrario es
+improbable que esto suceda y al contrario de esto se continuará reproduciendo un sistema desigual. ¿Cómo
+pedirle a un NNA, que sea transformador de su realidad de puertas para fuera, si de puertas para dentro todo
+sigue igual? De ahí, que un aspecto importante de trabajar en el aula, sea el reconocimiento crítico y reflexivo
+de la labor docente sobre las desigualdades socioeducativas.
+Entre tanto, no se comprenda el aula como un espacio de construcción social que es heterogéneo y diverso,
+la escuela seguirá marcada por profundas desigualdades sociales.
+El espacio como una construcción social decanta en la manifestación de diversos
+factores que construyen entre otras cosas la realidad social. Uno de estos espacios
+de realidad donde se conjugan las dinámicas sociales, es el aula. El aula entendida
+como un espacio construido, reflejo de un contexto social se presenta como un
+escenario representativo de, divergencias, diversidades y desigualdades, pero
+también de oportunidades y sueños. Gómez (2017).
+Mineducación
+MOMENTO DE ESTRUCTURACIÓN:
+Es indispensable, que la institución educativa busque que
+los diferentes sujetos, se hagan conscientes de las
+condiciones de posibilidad e imposibilidad de su propia
+transformación, es decir, que no es suficiente que un
+maestro haga mención de la ""necesidad de cambio social""
+si no cambia sus formas de relacionamiento con los NNA,
+no es suficiente con promover ideas sobre la pobreza o la
+riqueza de la región o el país, si no se generan acciones que
+conduzcan hacia el objetivo transformador de cerrar las
+brechas y desigualdades sociales.
+Todos a Aprender
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=293;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/a0/9f/Actividad Entregable_L1R1_Mod_4.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Conexión emociones
+Competencias socioemocionales para
+el desarrollo integral y la salud mental
+de niños, niñasy adolescentes
+Secretarías de Educación
+Módulo 4
+Actividad entregable
+Fundación
+Saldarriaga
+Concha
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Momento 5 - Puesta en Marcha (prácticas propias)
+Fantasía de un conflicto
+Actividad entregable
+Lea atentamente la siguiente situación.
+""Se encuentra caminando por la calle y ve, a lo lejos, a alguien que cree que
+conoce. Se da cuenta que esa persona es alguien con la que tiene muchos
+problemas. A medida que se encuentra más cerca se pone más nervioso
+porque no sabe cómo reaccionar cuando se cruce con ella. Se le ocurren
+algunas alternativas...""
+En un documento de texto, escriba:
+¿Cuáles son sus alternativas?
+Tómese unos minutos para recrear en su imaginación qué es lo que
+pasaría.
+Luego imagine que esa persona se ha ido.
+¿Qué siente?
+¿Está satisfecho con la manera como se ha comportado?""
+Escriba qué motivaciones lo empujaron a escoger su actuar y qué tan
+satisfecho se siente.
+2
+El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Fundación
+Saldarriaga
+Concha
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=289;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ab/e0/TranscripciónPodcast_Mod1_L2R1.pdf;True;True;pdf;"Secretarías de educación
+Emociones
+Inclusión y equidad para trayectorias completas
+Conexión vital
+Este recurso es una transcripción del podcast para personas con dificultades
+de agudeza auditiva.
+Gobierno de Colombia: El futuro es de todos.
+Fundación Saldarriaga Concha.
+Conexión inclusión
+Inclusión y equidad para trayectorias completas.
+Secretarías de educación.
+Apreciados secretarias y secretarios de educación, gracias por haber
+recorrido este camino y por fortalecer la inclusión, de manera atenta
+solicitamos su atención y la toma de posibles apuntes reflexivos si lo
+considera necesario.
+Con mucha alegría extendemos nuestro agradecimiento al tiempo y a la
+participación que nos brindaron en este módulo O.
+A continuación, lo invitamos a escuchar atentamente las cinco claves que un
+Secretario de Educación ha tenido en cuenta para la toma de consciencia con
+su equipo de colaboradores frente a la inclusión y equidad.
+""Si queremos hacer un buen proceso de toma de consciencia desde la
+Secretaría de Educación debemos tener en cuenta estas claves"":
+Realizar procesos de sensibilización con todos los colaboradores de la
+Secretaría de Educación, ejercicios y actividades que parten de su propia
+experiencia ayudan a que todos tomemos mayor conciencia respecto a las
+personas con discapacidad.
+Fomentar el respeto por los derechos de las personas con discapacidad,
+hace parte de una labor constante de comunicación, reflexión y
+aprendizaje.
+Romper con los estereotipos y prejuicios que se tienen en la atención a las
+personas con discapacidad. Capacitar a los colaboradores en atención a los
+usuarios con discapacidad es una estrategia oportuna.
+Promover la toma de conciencia respecto de las capacidades y
+aportaciones de las personas con discapacidad, en todos los que hacemos
+parte de la Secretaría de Educación ayuda a romper barreras.
+Alentar a toda la comunidad de la Secretaría de Educación a crear y
+promover una cultura de respeto a la diversidad, inclusión y equidad, es
+parte del proceso de toma de consciencia.
+1
+Secretarías de educación
+Emociones
+Inclusión y equidad para trayectorias completas
+Conexión vital
+Estas fueron las cinco claves que un secretario de educación, desde su rol en
+la Secretaría, ha puesto en marcha. Ahora, lo invitamos a reflexionar sobre sus
+acciones para tomar conciencia y ser parte del cambio hacia la transformación
+de imaginarios, actitudes y comportamientos.
+Agradecemos nuevamente su tiempo y atención, esperamos verlos con
+esta misma dedicación en el siguiente módulo. iHasta pronto!
+2
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=360;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/d0/db/HISTORIA_MEF_PDF_LIGERA_compressed.pdf;True;True;pdf;"COLOMBIA
+POTENCIA DE LA
+Educación
+VIDA
+Estrategias Flexibles,
+Modelos Diversos
+Ministerio de Educación Nacional
+Dirección de Cobertura y Equidad
+Subdirección de Permanencia
+Elementos para la historia de los Modelos
+Educativos Flexibles (MEF) en Colombia
+Índice
+Elementos para la historia de los modelos
+educativos flexibles (MEF) en Colombia
+3
+¿Cómo surgen lo que hoy conocemos
+como MEF en Colombia?
+4
+Modelos educativos que replican la estructura
+general de la Escuela Nueva
+7
+1.
+Postprimaria Rural
+7
+2.
+Aceleración del Aprendizaje
+8
+3.
+Caminar en Secundaria
+9
+4.
+Educación Media Rural
+10
+Colofón
+10
+Bibliografía
+11
+Elementos para la historia de los modelos
+Estrategias Flexibles, Modelos Diversos
+educativos flexibles (MEF) en Colombia
+Elementos para la historia de los modelos
+educativos flexibles (MEF) en Colombia
+Clara Helena Agudelo y Jesús Alirio Naspirán Patiño Ministerio de Educación Nacional
+Como su nombre lo indica, en Colombia los modelos educativos flexibles (MEF) son propuestas
+alternativas de flexibilidad en la oferta, orientadas a brindar atención pertinente y de calidad
+a
+la población que por diversas razones no puede ser beneficiaria del sistema educativo regular.
+Dentro de esta población se encuentra la que habita las zonas rurales y rurales dispersas,
+los niños, niñas y adolescentes en condición de extraedad, la población adulta, la población
+en condición de enfermedad, la población víctima del conflicto armado interno, los grupos
+étnicos y, en general, toda la población que por su condición de vulnerabilidad requiere ser
+atendida con metodologías y materiales educativos específicos y pertinentes para su condición.
+Es así como cada Modelo Educativo, dependiendo de la población a la que va dirigido,
+desarrolla componentes pedagógicos, metodológicos, didácticos y operativos, en el marco
+de los actuales referentes de calidad como lo son los Estándares Básicos de Competencia,
+los lineamientos curriculares y las orientaciones pedagógicas emitidas por el Ministerio de
+Educación Nacional, para establecer una atención de calidad en la educación y garantizar
+la permanencia de los estudiantes en el sistema escolar.
+Pensar en el origen de lo que hoy llamamos modelos educativos flexibles es rememorar
+la evolución de la educación del país a la altura de los años setenta, en un país que para
+entonces priorizaba la estructuración y el desarrollo de proyectos educativos de largo
+alcance, una vez ""superado"" el impacto en zonas rurales de casi 20 años de guerra fratricida.
+Colombia, para entonces le apostaba a la educación como factor de desarrollo, para lo cual,
+priorizaba la inversión en este ámbito como un escenario para la construcción de futuro a
+partir de la generación de ofertas pertinentes desde la comprensión de la diversidad regional,
+marcando diferencia entre la oferta rural y la urbana, con la premisa de que ""el desarrollo
+económico no puede divorciarse del desarrollo social"" (Pastrana,
+1982, citado por Sierra-Garzón, 2017, p. 71).
+En tal sentido, los 70 están caracterizados por la prestación
+del servicio en educación básica secundaria y media para
+la población rural a través de la creación y fortalecimiento
+de los Institutos Técnicos Agrícolas (ITA), las Concentracio-
+nes de Desarrollo Rural (CDR), los núcleos e internados
+escolares rurales, los Colegios Agropecuarios y de Pro-
+moción Social, y los Institutos Nacionales de Educación
+Media Diversificada (INEM). En un alto porcentaje de
+estos establecimientos educativos existieron internados
+escolares, que permitían la atención de alumnos de otros
+municipios y departamentos.
+3
+Elementos para la historia de los modelos
+Estrategias Flexibles, Modelos Diversos
+educativos flexibles (MEF) en Colombia
+Lo anterior exige además que, en el caso de las escuelas rurales, se generen las condicio-
+nes para asegurar los cinco grados de básica primaria, en desarrollo del compromiso que
+asumen los países en la reunión internacional de ministros de educación de 1961, realiza-
+da en Ginebra, Suiza, donde se produjo una declaración en apoyo de la organización de
+escuelas rurales con un solo maestro y con manejo de varios grados a la vez.
+¿Cómo surgen lo que hoy conocemos
+como MEF en Colombia?
+Cada Modelo Educativo Flexible tiene su propia historia, pero,
+en términos generales, el soporte de estos está en el origen
+de la Escuela Nueva, que nace a partir de las experiencias de
+las escuelas unitarias que empezaron a funcionar en 1961 en
+Pamplona, Norte de Santander. Estas escuelas desarrollaron
+una metodología educativa flexible, ideada por docentes
+rurales, con base en las fichas o guías de trabajo que venía
+promoviendo la Unesco como herramientas para facili-
+tar la consolidación de una oferta educativa completa
+en escuelas rurales y así dar solución a los problemas
+presentados en las zonas dispersas y de difícil acceso,
+donde un solo docente debía atender niños de diferentes
+grados en una misma aula.
+En esa región se creó la primera escuela demostrativa, luego fue concebida
+como centro de capacitación de maestros y supervisores, con el liderazgo
+del Ministerio de Educación Nacional y con el apoyo, entre otros, del Instituto
+Superior de Educación Rural de Pamplona. En el marco de este programa se consolidaron
+las estrategias, instrumentos y materiales para fortalecer las escuelas multigrado o escuelas
+unitarias de la zona rural.
+Una apretada secuencia de la evolución de la Escuela Nueva en el país se sintetiza de la
+siguiente manera:
+1967
+En 1967 el MEN promueve la expansión del modelo Escuela Nueva
+a través de los Centros Regionales de Capacitación y conforma una
+unidad coordinadora al interior del Ministerio cuyas funciones son
+la producción de materiales educativos, la estructuración de los
+procesos de capacitación, la ejecución del plan de asistencia técnica
+y el seguimiento al desarrollo del modelo. El equipo técnico que
+conformó la unidad estuvo integrado por profesionales del nivel
+central y de las regiones.
+4
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ef/3d/CPE_M2S9_PDF2.pdf;True;True;pdf;"GITEI
+UNIVERSIDAD
+NACIONAL
+GRUPO DE INVESTIGACION TECNOLOGÍA
+DE COLOMBIA
+PARA EDUCACIÓN Y LA INNOVACION
+PARA IINNOVACION
+RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+SENA
+Computadores
+GO
+A
+para
+MINTIC
+60
+MINEDUCACIÓN
+26
+GOBIERNO DE COLOMBIA
+Educar
+RURALTIC
+Caso 1
+En la Escuela el Paraíso, se entregaron 5 computadores en el año 1998, para que los
+estudiantes de primaria tuvieran sus clases de informática. Al pasar los años, estos
+equipos se fueron convirtiendo en obsoletos, pues se volvieron lentos, y tanto estudiantes
+como maestros estaban aburridos de trabajar siempre con los mismos programas. 10
+años después, en el 2008, la Alcaldía del pueblo, junto con el rector, gestionó la compra
+de equipos nuevos para dotar las escuelas de la zona, y es así como compraron para la
+escuela el Paraíso 7 computadores, ya que ahora tenían más niños que en años
+pasados. Sin embargo, los computadores anteriores no fueron recogidos por la dirección
+administrativa de la escuela. Para ubicar los nuevos computadores, sacaron los
+computadores y los guardaron en el cuarto de san alejo que tiene la escuela. 9 años
+después, la escuela fue beneficiada nuevamente, esta vez con la entrega de tabletas y
+portátiles nuevos, ahora tienen 12 computadores obsoletos, guardados en un cuarto,
+deteriorados, algunos hasta rotos y consumidos por el polvo.
+¿Qué acciones deben emprenderse para eliminar de la institución los aparatos
+electrónicos que se encuentran obsoletos?
+Caso 2
+En la escuela ""Aprendiendo a Educarnos"" ubicada en una zona rural del macizo
+colombiano, se encontraba Miguel González, profesor de informática realizando el
+inventario de los equipos que habían perdido su vida útil y que se estaban almacenando
+en el patio de la escuela. En ese momento se acercó una persona que se identificó como
+gestor de residuos electrónicos y le dijo que esos equipos tienen elementos peligrosos,
+por lo que él le cobraba 30.000 pesos y se encargaba de quitarle ese problema al docente
+gestionándolos adecuadamente.
+¿El señor González obró de forma adecuada? ¿Qué debe y que no debe hacer el Sr.
+González?
+1
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Caso 3
+Doña Vitelvina es la directora de una sede educativa de gran tamaño, la cual se ha
+beneficiado de la donación de 150 computadores TRC a principio del año 2012. El
+pasado viernes le anunciaron que por un convenio de la Gobernación a la cual pertene-
+ce su institución, harán un evento de entrega de terminales, en el cual le harán la entre-
+ga de 3000 tabletas. Este evento será en el coliseo del Colegio y contará con presencia
+del Presidente de la República, y el Ministro TIC.
+Dada esta situación la rectora entra en pánico y decide pedirle al vigilante el sr. Eusebio
+Gómez que por favor le desaparezca los computadores TRC mientras pasa el evento.
+El sr. Eusebio notó que en la parte de atrás del patio de la zona de niños pequeños hay
+un terreno libre cerca al río en donde pueden enterrarlos.
+Teniendo en cuenta el caso, indique si la Sra. Rectora y el sr. Eusebio obraron de la
+forma correcta, o indique cual es la manera adecuada de manejarlos.
+Caso 4
+En la sede educativa ""Amanecerá y veremos"", una directora muy consciente del impacto
+de los residuos electrónicos en la comunidad educativa tiene 30 portátiles que se
+encuentran obsoletos, para los cuales no tiene un lugar de almacenamiento seguro, por
+lo que, al preocuparse por los posibles riesgos de explosión, almacenamiento de
+vectores o degradación de los mismos, decidió contactar a don Marco A.
+El sr. Marco A es un reciclador del sector, el cual compra todos los aparatos electrónicos
+que venden en el barrio. Él explica que, con su proceso, garantiza la gestión de estos
+residuos.
+¿Cree ud. que la solución planteada por la rectora es la adecuada? SI/NO, explique
+su respuesta
+¿Considera que el señor Marco A. debe gestionar estos RAEE? Si/NO explique su
+respuesta
+2
+"

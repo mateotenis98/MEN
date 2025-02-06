@@ -1,0 +1,2798 @@
+﻿description;web_url;s3_object_path;exists_in_s3;exists_metadata_json;file_extension;textract
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/d4/ec/CPE_MOOC_PDF16.pdf;True;True;pdf;"RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+Computadores
+GITEI
+98
+UNIVERSIDAD
+DE COLOMBIA
+7AT
+e
+MINTIC
+O
+MINEDUCACIÓN
+O
+GOBIERNO DE COLOMBIA
+NACIONAL
+para Educar
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Manual del
+formador
+Módulo 4:
+Convivencia
+pacífica mediada
+por TIC
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Índice
+Aspectos generales
+1. Nombre y resumen del diplomado
+2. Orientaciones específicas del diplomado
+a. ¿Para qué sirve este manual?
+b. Enfoque del diplomado
+C. Producto final del Diplomado
+i.
+Criterios de aprobación de la Actividad Pedagógica de Aula
+d. Módulos y sesiones
+e. Secuencia didáctica
+f. Estructura de las fichas
+3. Recomendaciones generales
+4. Glosario
+Aspectos específicos
+5. Módulo 4: Convivencia pacífica mediada por TIC
+a. Objetivo principal
+b. Qué se espera de los participantes
+6. Actividades centrales del módulo 4: Convivencia pacífica mediada por TIC
+a. Fichas para el formador
+i.
+Sesión 23 a la 38
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+1. Nombre y resumen del diplomado
+El Diplomado para docentes en el uso pedagógico de las TIC en territorios de
+reconciliación - RuralTIC, busca la adquisición de conocimientos que permitan la
+implementación de actividades educativas por medio del uso de TIC y metodologías innovadoras
+en el aula, todo esto, encaminado a fortalecer las competencias propias de la educación para la
+paz convirtiendo a los participantes en modelos de convivencia, innovación y replicadores de
+estos modelos en sus instituciones educativas.
+Para lograr su objetivo, se propone integrar 4 ejes transversales: i) uso y apropiación de las TIC
+en la enseñanza, ii) metodologías innovadoras: aula invertida, aprendizaje colaborativo y
+gamificación, iii) educación para la paz: Cátedra de Paz, y iv) Gestión escolar y de la tecnología.
+Estos ejes serán las partes que conforman el cuerpo del diplomado teniendo siempre en cuenta
+las características de la educación en la ruralidad.
+Este diplomado consta de 80 horas presenciales, divididas en 40 sesiones de aproximadamente
+2 horas cada una. Cuenta con un total de 5 módulos en donde habrá una apertura, 3 módulos
+centrales que toman como base una metodología innovadora y una categoría de cátedra de paz,
+añadiendo las diferentes temáticas que los docentes trabajan en sus áreas y cursos; y finaliza
+con un cierre:
+Módulo 1: Sensibilización
+Módulo 2: Uso de TIC para el desarrollo sostenible (Contexto Natural)
+Módulo 3: TIC, identidad y diversidad (Contexto Cultural)
+Módulo 4: Convivencia pacífica mediada por TIC (Contexto Social)
+Módulo 5: Cierre
+Para la implementación del Diplomado el formador cuenta con una plataforma MOOC para
+realizar su proceso de autoformación y de preparación de las sesiones, así como una plataforma
+offline diseñada para que el participante visualice las actividades propuestas. Ambas plataformas
+tienen todo el material offline para el desarrollo de las 40 sesiones.
+2. Orientaciones específicas del diplomado
+a. ¿Para qué sirve este manual?
+Este manual expone una descripción de la estructura, enfoque y conceptos pedagógicos y
+metodológicos del Diplomado para docentes en el uso pedagógico de las TIC en territorios
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+de reconciliación, que el formador, deberá tener en cuenta para la correcta implementación del
+módulo 4: Convivencia pacífica mediada por TIC. Además, tendrá una exposición de los
+contenidos y las actividades de cada una de las sesiones especificando pautas, indicaciones y
+recomendaciones, así como bancos de herramientas para dispositivos y bibliografía lo cual
+asegura una visión integral. El diplomado está estructurado a partir de 5 módulos de
+implementación contando con un encuentro inicial, 3 módulos centrales y un cierre, obteniendo
+una duración de 20 semanas con 80 horas de desarrollo.
+b. Enfoque del diplomado
+Objetivo. Adquirir conocimientos para implementar actividades
+educativas mediadas por el uso de TIC metodologías innovadoras
+en el aula encaminadas a fortalecer las competencias propias
+de la educación para la paz, convirtiêndose en modelos de
+convivencia. innovación y replicadores de estos modelos en sus
+instituciones educativas
+Resolución de conflictos
+Convivencia pacífica
+Educación
+Desarrollo sostenible
+Escolar
+Gestión
+para la Paz
+Diversidad e identidad
+De la tecnología
+ENFOQUE
+Memoria histórica
+CONCEPTUAL
+y reconciliación
+Recursos
+naturales
+Metodología
+Líderes
+Actividad
+innovadora
+educativos
+Cátedra de la Paz
+RURALTIC
+Educación
+pedagógica
+Necesidades
+Gestión escolar
+rural
+de aula
+Cultura
+Gestión de la
+Diplomado para docentes en el uso
+pedagógico de las TIC en territorios
+DE
+tecnología
+de reconciliación
+Repositorio APA
+Motivación
+RED
+Cooperación
+Creatividad
+Metodologías
+TIC
+Comunicación
+innovadoras
+ENFOQUE
+Pensamiento
+OPERATIVO
+Multiculturalidad
+Aula invertida
+Brecha
+Aprendizaje
+digital
+colaborativo
+Gamificación
+1
+2
+3
+4
+5
+Módulo
+Módulo
+Módulo
+Módulo
+Módulo
+Sensibilización
+Uso TIC para el
+TIC identidad
+Convivencia pacifica
+Cierre
+desarrollo sostenible
+diversidad
+mediada TIC
+C. Producto final del diplomado
+Como producto final del diplomado, cada participante entregará el diseño de una Actividad
+Pedagógica de Aula (en adelante APA), que consiste en la planeación y ejecución de actividades
+que el docente puede aplicar desde las diferentes áreas, a través de la implementación de
+contenidos relacionados directamente con los elementos abordados en cada módulo del
+diplomado, estos son:
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=179;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/59/70/MEN_PTA_C2_LABORATORIO.pdf;True;True;pdf;"1.
+Mineducación
+Enlace del material del Laboratorio de Comunicación y Lenguaje Ciclo II.
+Encontraremos todo lo concerniente al Laboratorio.
+El futuro
+Gobierno
+es de todos
+de Colombia
+https://drive.google.com/drive/folders/1KIZYysJrpYg48
+VZuSMwFB vDPGNU9P4a?usp=sharing
+Todos a Aprender
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=344;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/f7/44/Tema2_M3_L1_R1.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Conexión emociones
+Competencias socioemocionales para
+el desarrollo integral y la salud mental
+de niños, niñas y adolescentes
+Secretarías de Educación
+Módulo 3
+Tema 2
+Fundación
+Saldarriaga
+Concha
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Tema 2
+Empatía: ponerse en el lugar del otro
+Conceptualización: Propender por el desarrollo de la empatía, trae incontables
+beneficios ya que articulada con el reconocimiento de las habilidades sociales,
+el desarrollo moral y la diversidad, aportan aprendizajes a lo largo de la vida
+en la construcción de las relaciones personales y en el ejercicio de una mejor
+ciudadanía.
+Se describen tres tipos de empatía: cognitiva, afectiva y conductual. La empatía
+cognitiva ""se refiere a la capacidad de uno para tomar la perspectiva de los
+demás, y ver el mundo a través de su perspectiva""; La empatía afectiva ""implica
+experimentar los sentimientos de otra persona""; y La empatía conductual
+""implica comunicación verbal y no verbal para indicar una comprensión de la
+resonancia emocional de la otra persona"".
+Estos tipos de empatía pueden ser aprendidos utilizando la literatura como
+herramienta para brindar oportunidades de pensar, sentir y actuar en el lugar
+de otros. Las historias, cuentos y relatos, permiten ilustrar situaciones y valorar
+formas posibles de actuar según las habilidades empáticas desarrolladas,
+ayudando a la autorregulación y a la práctica de la bondad, para responder a
+situaciones adversas de maneras menos agresivas o estresantes.
+El almuerzo en el ámbito escolar ha sido visto como un escenario en donde
+es posible el desarrollo de la empatía, allí se da la transmisión de valores,
+la regulación de emociones y la expresión de comportamientos. También
+se constituye como un escenario físico y social (dadas las interacciones y
+encuentros que allí se presentan, espacio de socialización para compartir
+con pares y amigos). Es a partir de la interacción de estas dimensiones que
+se produce el espacio social (concepto propio de Lefebvre, 1991), el cual
+está en constante cambio debido a las dinámicas sociales cotidianas que
+lo determinan. En este espacio las emociones son un estado subjetivo que
+median y articulan el escenario impregnando un sentido y un significado.
+Momento 1 - Juego de Conocimientos
+Controlar y pensar en la respiración.
+Sensibilización:
+El facilitador invita al grupo a realizar un ejercicio de respiración corto, para
+el que deben buscar una posición cómoda en un lugar amplio y silencioso,
+cerrar sus ojos y seguir con atención las indicaciones que se les brindaran,
+manteniendo un ritmo suave en su respiración en la búsqueda de tener
+2
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+conciencia de ella. Empiece haciendo un recorrido desde los pies a la cabeza
+tomando conciencia de cada parte del cuerpo. Inhale profundo y despacio y
+exhale despacio. Luego incline su cuerpo hacia delante, que su cabeza repose
+sobre sus piernas, toque con sus manos los pies, respire, cuente hasta seis
+(6). Aún con su cuerpo inclinado, extienda los brazos hacia atrás, sobre su
+espalda, respire contando hasta seis (6). Acomode nuevamente la postura del
+cuerpo para quedar sentado de forma recta, incorpórese despacio, respire.
+Vuelve sobre el ejercicio unas tres (3) veces. Realice este ejercicio durante
+cinco (5) minutos y repita cada vez que necesite minimizar la fatiga y recargar
+vigor para seguir trabajando.
+Actividad central
+De acuerdo con las investigaciones hacer pausas activas durante la ejecución
+de tareas mentalmente exigentes, disminuye la fatiga y ayuda a recuperar el
+vigor sobre la tarea. Comúnmente se realizan pautas de respiración (ejercicios
+controlados de respiración y relajación) como la realizada, pauta de descanso
+(ejercicio no controlados = libres) y pautas de actividad física (ejercicios físicos
+controlados). El facilitador pregunta al grupo ¿cuál de las pautas propuestas
+prefiere?
+A continuación, el facilitador pide a cada participante que diligencie la guía
+de trabajo iPor el otro!, en la que se pide que identifique una situación de
+su trabajo en la gestión de los equipos docentes de los establecimientos
+educativos, una situación con directivos de los establecimientos educativos y
+una con su equipo de trabajo que le hayan despertado interés empático por
+ayudar.
+Guía de trabajo iPor el otro!
+Gestión de los equipos docentes.
+Gestión de directivos de establecimientos educativos.
+Gestión del equipo de compañeros de trabajo.
+Cierre
+Se invita a los participantes, de manera voluntaria, a presentar el
+resultado del ejercicio pidiendo al grupo identificar situaciones similares y
+complementar algunos de los aspectos mencionados, orientando la reflexión
+al reconocimiento de la empatía como herramienta para acercarse a los otros y
+acompañarlos en la solución de situaciones problemáticas.
+Tiempo de ejecución: 40 minutos.
+Materiales para llevar a cabo la actividad: cartelera, marcadores, hojas
+blancas, lápices O esferos, guía de trabajo iPor el otro! para cada participante.
+3
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Momento 2 - Interacción y preguntas
+¿Qué podemos hacer?
+El facilitador debe invitar a los participantes a ""ponerse en situación"" es decir
+cada integrante debe imaginar que está llegando a una de las instituciones
+educativas de su territorio para llevar a cabo una visita de gestión, estando aún
+en la puerta, una profesora se le acerca muy preocupada y le relata la siguiente
+situación que el facilitador leerá:
+Me llamó Dora, mucho gusto doctor/ar. Soy docente de tercero de
+primaria, mi salón es el 302. Actualmente tengo 23 estudiantes, pero
+imagine que la coordinadora de la IE le dio ingreso a una estudiante
+con síndrome de Down que se llama Sara.
+Esto ha sido todo un reto doctor/ar: al principio los estudiantes la
+recibieron muy bien, fueron amables con ella y conmigo para ayudarle
+en sus actividades, pero Sara ha empezado a portarse muy mal,
+saca y tira todo de su maleta sin ningún propósito, y otras veces está
+largos periodos mirando por la ventana o al ver la puerta abierta, sale
+corriendo para esconderse en los rincones, y al encontrarla es difícil
+llevarla de nuevo al salón.
+Yo le he pedido a la coordinadora, me facilite una auxiliar pedagógica
+para que pueda ayudarle a la niña, o pedirle a la madre que se quede
+con ella en aula, de lo contrario tengo que pedir la retiren de mi salón
+y le den ingreso a una institución que pueda atender sus necesidades
+adaptativas.
+A mí me da mucho pesar sacar del aula a la niña porque ella es buena
+y le gusta aprender, si yo tuviera más tiempo, podría realizar un buen
+apoyo pedagógico para que ella desarrolle más habilidades, pero tengo
+otros 22 estudiantes que me necesitan, estoy muy cansada, me gustaría
+que me ayudará.
+Una vez se ha escuchado el relato, cada participante escribirá en una hoja la
+respuesta a los siguientes interrogantes:
+1.
+¿Qué piensa?
+4
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=205;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/8c/ba/Cavanzada_M4_2015.pdf;True;True;pdf;"Ministerio de
+Colombia aprende
+Educación Nacional
+La red del conocimiento
+Republica de Colombia
+Libertad y Orden
+educació
+n
+PRIVIDA
+Curso virtual Colegios que Mejoran
+Módulo 4. El colegio se compromete:
+Plan de mejora o acuerdo por la
+excelencia
+Desarrollado por Ministerio de Educación Nacional y Crear Media
+Ajustado por Universidad Nacional de Colombia, 2012
+Actualizado por Ministerio de Educación Nacional, 2015
+Licencia Reconocimiento-Compartirlgual 2.5 Colombia
+COO
+CC
+Tabla de contenido
+Introducción
+1
+Objetivo
+3
+1.
+El colegio y sus fines
+4
+2.
+La mejora de la educación
+9
+3.
+Plan de mejora o acuerdo por la excelencia
+12
+4.
+El Proyecto Educativo Institucional en el marco del plan de mejora
+15
+4.1. Sentido e intencionalidad del PEI
+15
+4.2. PEI y plan de mejora
+18
+5.
+Paso a paso del plan de mejora
+19
+5.1. Construir una visión compartida
+19
+Ejercicio 1: Actualizar la visión
+20
+5.2. Identificar los factores críticos
+20
+Ejercicio 2: Precisar los factores críticos
+23
+5.3. Priorizar los factores críticos
+24
+Ejercicio 3: Priorizar los factores críticos
+24
+5.4. Construir el plan de mejora
+24
+Formular objetivos de mejora
+25
+Ejercicio 4: Formular los objetivos de mejora
+26
+Alcanzar los objetivos a través de actividades
+27
+Ejercicio 5: Alcanzar objetivos a partir de actividades
+27
+Medir el logro de lo propuesto: indicadores
+28
+Ejercicio 6: Medir el logro de lo propuesto: Indicadores
+31
+Establecer el estado actual y fijar metas
+31
+Ejercicio 7: Establecer el estado actual y fijar metas
+34
+Asignar responsables y recursos requeridos
+34
+Ejercicio 8: Asignar responsables y recursos requeridos
+35
+Opciones de formación
+35
+6. Comunicar y preparar para el cambio
+37
+Ejercicio 9: Comunicación
+37
+Despedida
+38
+Referencias
+39
+Curso virtual: Colegios que Mejoran
+educacion
+Módulo 4. El colegio se compromete: Plan de Mejoramiento.
+PRIVADA
+Introducción
+Arribando a una de las últimas etapas de este proceso, se han constituido las
+condiciones para el cambio. Ya está organizado el equipo de trabajo, y
+adelantado el análisis de los resultados de la institución tanto de sus
+estudiantes, como de sus procesos académicos y administrativos. Es el
+momento de construir un plan de mejoramiento que oriente las acciones para
+fortalecer los procesos que han tenido éxito, e intervenir en los que aparecen
+limitaciones y debilidades.
+Aquí se establecerán nuevos marcos de acción para que la institución inicie el
+mejoramiento continuo. El equipo de trabajo ha tenido el reto de motivar e
+incentivar la participación de todos y ahora debe convocarla para responder a
+las metas de mejoramiento que deben construirse, a partir del análisis de
+resultados de la institución.
+Este módulo busca que el equipo de mejora, conjuntamente con la comunidad
+educativa, jerarquice necesidades, determine objetivos y metas de mejora,
+consolide acciones para este propósito y siente bases para hacer seguimiento al plan.
+1
+Curso virtual: Colegios que Mejoran
+educa.cion
+Módulo 4. El colegio se compromete: Plan de Mejoramiento.
+PRIVADA
+Realidad institucional
+Resultados:
+Visión
+Evaluaciones a estudiantes
+Futuro deseado
+Evaluación institucional
+Se deben tener en cuenta
+Pensar en la idea de:
+aspectos como:
+Solo en la medida en que el
+El futuro deseado está en
+colegio tenga clara una mirada
+correspondencia con el Proyecto
+sobre sus potencialidades y
+Educativo Institucional.
+limitaciones, es posible pensar
+En ese futuro deseado ha de
+en una nueva visión de conjunto.
+incorporarse todo aquello que
+Los resultados de la evaluación
+hace potente a la institución y
+son una buena herramienta para
+aquellos ámbitos que requieren
+valorar, analizar y proponer.
+de intervención.
+Los resultados implican mirar al
+La visión de futuro debe
+colegio como un todo y a las
+comprometer una posibilidad real
+relaciones entre sus partes (una
+en el tiempo, en las condiciones
+mirada sistémica).
+de la institución, con los actores
+educativos y con las metas de
+La capacidad crítica que tenga el
+calidad que esta se propone.
+colegio es una movilizadora de
+paradigmas y una generadora de
+Es una visión compartida. Por lo
+capacidad creativa.
+tanto, el equipo de trabajo debe
+promover el interés por participar
+en su construcción.
+2
+Curso virtual: Colegios que Mejoran
+educaccion
+Módulo 4. El colegio se compromete: Plan de Mejoramiento.
+PRIVADA
+Objetivo
+Apoyar la construcción del plan de mejoramiento institucional o acuerdo por la
+excelencia, a partir de conceptos y técnicas.
+3
+Curso virtual: Colegios que Mejoran
+educacion
+Módulo 4. El colegio se compromete: Plan de Mejoramiento.
+PRIVADA
+1. El colegio y sus fines
+En este módulo se desarrollará el plan de mejora, a partir de la visión. Antes de
+hacerlo, es importante recordar los fines de la educación, los cuales son base
+para la definición de los Proyectos Educativos Institucionales, y son por lo tanto
+un marco para la visión.
+La institución educativa es un ámbito social específico donde se desarrollan,
+transmiten, apropian y recrean, en espacios formales y no formales, un
+conjunto de concepciones, estructuras y prácticas sociales. Está organizada por
+niveles y provee formación en básica primaria, secundaria y media. Se concibe
+como un espacio de intercambio de representaciones simbólicas y percepciones
+a
+través de procesos de comunicación, negociación y regulación entre los
+diferentes actores educativos.
+La educación básica se concibe como el ámbito para socializar a las nuevas
+generaciones, permitirles el acceso a la cultura universal, nacional y local,
+formarlos para el ejercicio pleno de sus derechos ciudadanos y para el mundo
+de la vida y el trabajo, en un contexto donde el conocimiento se posiciona como
+factor determinante de las relaciones económicas, políticas y sociales.
+Intervención del experto
+Desde esta perspectiva, según la ""Declaración Mundial sobre Educación para
+Todos"", se plantea la educación básica como ""...el proceso que abarca todas las
+herramientas esenciales para el aprendizaje (lectura, escritura, cálculo, solución
+de problemas, etc.), así como los contenidos básicos de aprendizaje necesarios
+4
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/fc/b4/M2S4_R7.pdf;True;True;pdf;"ORIENTACIONES GENERALES PARA LA
+IMPLEMENTACIÓN DE LA CÁTEDRA DE LA PAZ
+EN LOS ESTABLECIMIENTOS EDUCATIVOS DE PREESCOLAR,
+BÁSICA Y MEDIA DE COLOMBIA
+Para ser enriquecidas por los docentes de Colombia
+GOBIERNO DE COLOMBIA
+MINEDUCACIÓN
+MINISTERIO DE EDUCACIÓN
+NACIONAL
+JUAN MANUEL SANTOS CALDERÓN
+Presidente de la República
+YANETH GIHA TOVAR
+Ministra de Educación Nacional
+LILIANA ZAPATA BUSTAMANTE
+Viceministra de Educación Preescolar, Básica y Media (E)
+MONICA RAMÍREZ PEÑUELA
+Director de Calidad para la Educación Preescolar, Básica y Media
+CAMILA GÓMEZ AFANADOR
+Subdirectora de Fomento de Competencias
+OLGA LUCÍA ZÁRATE MANTILLA
+Coordinadora Programas Transversales y Competencias Ciudadanas
+AUTORES:
+Enrique Chaux, Departamento de Psicología, Universidad de los Andes
+Ana María Velásquez, Facultad de Educación, Universidad de los Andes
+ISBN
+ISBN: 978-958-785-023-9
+AGRADECIMIENTOS
+Agradecemos a las siguientes personas por los muy valiosos
+comentarios y sugerencias a versiones previas de este documento:
+Nicna Camargo y Efraín Sánchez (Veeduría Distrital), Maria Emma
+Wills, Maria Juliana Machado y Maria Andrea Rocha (Centro de
+Memoria Histórica), Amada Benavides (Fundación Escuelas de Paz),
+José Fernando Mejía y David Sebastián Guáqueta (Convivencia
+Productiva), Carolina Valencia (Universidad Externado de Colombia),
+Alex Ruiz y Daniel García (Universidad Pedagógica Nacional),
+Andrea Bustamante (University of Missouri - St. Louis), Gloria lnés
+Rodríguez, Juanita Lleras, Charlotte Greniez, Paula Andrea Pineda,
+Catalina Ávila, Johann Streiker Díaz y Andrés Mejía (Universidad
+de los Andes), Silvia Diazgranados (Harvard University), Marieta
+Quintero (Universidad Distrital Francisco José de Caldas), Ángela
+Jaramillo (Pontificia Universidad Javeriana), Sara Victoria Alvarado,
+Ligia López, Myriam Salazar, Jaime Alberto Pineda, Jaime Alberto
+Carmona, Marco Fidel Chica, Julián Andrés Loaiza, Jhon Fredy
+Orrego, Ligia lnés García, Juliana Santacoloma, Juanita Alford y
+Daniela León (CINDE - Universidad de Manizales), Catalina Torrente
+(Mathematica Policy Research), Olga Lucía Zárate (Ministerio
+de Educación Nacional), Mario Alberto Velásquez (Secretaría de
+Educación de Antioquia), Iván Pinzón (Secretaría de Educación de
+Santander), Ramiro Ovalle (Secretaría de Educación del Valle), Laura
+Patricia Barragán, José Luis Sánchez y Rosario Jaramillo.
+INTRODUCCIÓN
+La firma del acuerdo de paz entre el Gobierno y las FARC nos permite comenzar a
+escribir una nueva historia en nuestro país. Es el punto de partida para que
+construyamos una Colombia con más y mejores oportunidades para todos y en la
+que la garantía de los derechos humanos, la resolución pacífica de conflictos y el
+reconocimiento de la diversidad y la pluralidad se conviertan en los verdaderos
+pilares de nuestra sociedad.
+En este contexto, la educación es, sin lugar a dudas, la herramienta más
+poderosa para cimentar esa paz con equidad que tanto soñamos. Por ello,
+formar ciudadanos respetuosos y transmitir en los establecimientos educativos el
+sentido de comunidad, es uno de los mejores aportes que podemos hacer al
+posconflicto.
+La educación para la paz debe surgir en el aula, en los escenarios de
+participación y en las familias para que todos estemos en capacidad de resolver los
+conflictos sin violencia. Es por esto que la formación para la ciudadanía debe ser una
+estrategia de país, que aporte a la paz y trascienda los espacios cotidianos en
+las diferentes comunidades y regiones del territorio nacional.
+Esta estrategia, promovida desde el sector educativo, responde al desafío de
+formar seres humanos con capacidad para el cuidado de sí mismo, de los
+demás y del medio ambiente. Un ciudadano con las competencias necesarias para
+la
+recuperación de la memoria histórica como elemento clave para generar procesos
+de perdón y reconciliación, con las actitudes para fortalecer la democracia, la
+participación y el respeto de las diferencias.
+Por lo anterior, la formación para la ciudadanía es la respuesta del sector
+educativo al reto de concretar la implementación de la Cátedra de la Paz. Esta
+Cátedra busca generar reflexión y diálogo sobre el desarrollo sostenible, la
+cultura de la paz y el mejoramiento de la calidad de vida de la población.
+La Cátedra para la Paz cuenta con orientaciones, desempeños y secuencias
+didácticas fundamentales para su implementación y que hoy presentamos. Esta serie
+de materiales son producto del diálogo y el trabajo con universidades, docentes,
+investigadores y organismos de cooperación internacional.
+Sin embargo, somos conscientes que este es apenas el comienzo y que se
+requiere del esfuerzo de todos para que la paz se instale como parte de nuestra
+cultura. Esta serie de materiales, dirigida especialmente a docentes y directivos
+docentes, se plantea como una propuesta que debe ser enriquecida de forma
+permanente.
+Los invitamos a hacer uso de estos materiales para que desde el aula
+aportemos a la construcción de paz y la reconciliación, sembrando en nuestros niños
+y jóvenes el sentido de comunidad y la capacidad de resolver los conflictos de
+forma pacífica.
+YANETH GIHA TOVAR
+Ministra de Educación Nacional
+Ministerio de Edcucación Nacional
+1.
+¿QUÉ ES EDUCACIÓN PARA LA PAZ?
+Existen concepciones muy diversas frente a lo que es la Educación para
+la Paz. Según la UNESCO, es el ""proceso de promoción de conocimientos,
+habilidades, actitudes y valores necesarios para lograr cambios de
+comportamiento que permitan a niños y niñas, jóvenes y adultos
+prevenir los conflictos y la violencia, tanto manifiestos como estructurales,
+resolver los conflictos pacíficamente y crear las condiciones propicias
+para la paz, ya sea en un nivel intrapersonal, interpersonal, intergrupal,
+nacional O internacional"" (UNESCO, 2000). Según Gavriel Solomon (2002),
+""la educación para la paz tiene muchos significados divergentes para
+diferentes individuos en diferentes lugares. Para algunos, la educación
+para la paz es principalmente un asunto de cambio de mentalidad; el
+propósito general es promover comprensión, respeto y tolerancia frente
+a los que eran enemigos en el pasado (...). Para otros, es principalmente
+un asunto asociado con cultivar un conjunto de habilidades; el propósito
+general aquí es adquirir una disposición no violenta y habilidades de
+resolución de conflictos (...) Para otros, especialmente en países del Tercer
+Mundo, educación para la paz es un asunto asociado con los Derechos
+Humanos, mientras que para países más ricos es frecuentemente un
+asunto de ambientalismo, desarme y promoción de una cultura de paz"".
+(Salomon, 2002, p. 4).
+A pesar de que la mayoría de estas concepciones tienen sustentos
+conceptuales y prácticos sólidos y relevantes, aquí no se abarcarán
+todas. Además, por razones de claridad y para evitar confusiones, es
+fundamental aclarar a qué tipo de aproximación nos vamos a referir en
+este documento. Algunas de las definiciones de Educación para la Paz se
+centran en aspectos específicos, mientras que otras la conciben como
+algo más amplio que abarca problemáticas sociales más estructurales.
+A continuación se presentan tres tipos de aproximaciones, una con un
+enfoque muy específico, otra con un enfoque muy amplio, y otra con un
+enfoque intermedio que será la que se adoptará en este documento:
+Enfoque específico: Convivencia Pacífica
+En su perspectiva más específica, la Educación para la Paz se refiere a la
+formación que busca contribuir directamente a la convivencia pacífica, es
+decir, a la promoción de relaciones constructivas, incluyentes, cuidadosas,
+sin agresión, ni discriminación O maltrato, tanto entre los estudiantes y
+en la comunidad escolar, como en la sociedad en general. Este enfoque
+incluye algunos de los temas que serán tratados en la siguiente sección
+6
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=77;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/9e/e3/DOCUMENTO ESCUELA DE PARES.pdf;True;True;pdf;"FORMACIÓN INTEGRAL DE
+PARES ACADÉMICOS
+Curso en modalidad B-Learning
+IES COLOMBIA
+REPUBLICA
+TODOS POR UN
+MINEDUCACIÓN
+NUEVO PAÍS
+PAZ EQUIDAD EDUCACIÓN
+VICEMINISTERIO DE EDUCACIÓN SUPERIOR
+DIRECCIÓN DE CALIDAD PARA LA EDUCACIÓN SUPERIOR
+SUBDIRECCIÓN DE ASEGURAMIENTO DE LA CALIDAD DE LA EDUCACIÓN SUPERIOR
+Ministra de Educación Nacional
+Yaneth Giha Tovar
+Viceministra de Educación Superior
+Natalia Ruiz Rodgers
+Directora para la Calidad de la Educación Superior
+Adriana María Colmenares Montoya
+Subdirectora de Aseguramiento de la Calidad de la Educación Superior
+Nancy Consuelo Cañón Suavita
+Coordinadora del grupo de Registro Calificado
+Andrea Milena Silva Cardona
+Autores
+Doctores Rómulo Campos Gaona, Luis Eduardo Peláez Valencia, Jorge Luis Bris Cabrera,
+Carlos Hernán González Campo y la doctora Martha Leonor Marulanda Ángel.
+Colaboradores
+Politólogo Camilo García Pérez
+I
+MAIN
+Este material se elaboró en conjunto con el equipo
+de trabajo del Centro de Innovación Educativa
+Regional CIER Centro de la Universidad Nacional
+de Colombia.
+Todos los derechos reservados
+Prohibida la reproducción total o parcial,
+el registro o la transmisión por cualquier medio
+de recuperación de información, sin autorización
+previa del Ministerio de Educación.
+Ministerio de Educación Nacional
+Calle 43 No 57 14 Bogota D.C - Colombia
+ISBN 978-958-5424-54-8
+Prólogo
+El Ministerio de Educación Nacional MEN a través de la Subdirección de Aseguramiento de la
+Calidad de la Educación Superior, tiene como meta fundamental el fortalecimiento del Sistema
+de Aseguramiento de la Calidad de la Educación Superior en el país. Para este propósito,
+la Subdirección ha venido consolidando herramientas que apoyen la labor de los diferentes
+actores del Sistema, como lo son los Pares Académicos y en este caso, para ejercer su función
+de verificación de condiciones de calidad para los trámites de Registro Calificado que requieran
+las Instituciones de Educación Superior ante el MEN.
+En este contexto, se desarrolló el proyecto de Pares Académicos, basado en estudios técnicos
+de diagnóstico acerca del que hacer del Par. El primero de los estudios fue realizado en el año
+2012 por la Universidad Industrial de Santander UIS, y se enfocó en sugerir acciones tendientes
+al mejoramiento de la Gestión Integral del Par en cuanto a la estructura y manejo del Banco de
+Pares, la evaluación integral, los protocolos de visitas y la reglamentación.
+Durante la vigencia 2014, la empresa CONSENSO S.A.S. desarrolló otro estudio denominado
+""Percepciones y expectativas sobre el rol de Pares Académicos"", el cual abarcó aspectos
+socio académicos en relación con el papel de los Pares, en el que se evidenciaron deficiencias
+formativas de los mismos y la necesidad de mejorar las condiciones por parte del MEN para el
+ejercicio del rol del Par.
+Finalmente, durante el último trimestre de 2015 y con el apoyo de la Universidad Nacional de
+Colombia, se revisaron las experiencias internacionales en materia de selección, capacitación y
+conformación de los equipos de Pares evaluadores, al igual que las tendencias internacionales
+en materia de condiciones o recomendaciones, sugiriendo la modificación de los procesos y
+procedimientos para la formación de Pares Académicos para el ejercicio de su función académica.
+Con estos antecedentes, el Ministerio de Educación Nacional, con el apoyo de la sala de
+coordinadores de la Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la
+Educación CONACES, elaboraron el presente documento que recoge el bagaje académico que
+durante más de tres años poseen en razón del ejercicio como integrantes de las Salas de la
+CONACES así como resultado de su función como docentes, investigadores y directivos en el
+contexto de las Instituciones de Educación Superior colombianas. La Escuela establece tres
+objetivos fundamentales: formación y capacitación continua, actualización de procedimientos
+de verificación y mejoramiento de la función del par académico. Asimismo, se incorporaron
+nuevos momentos de actuación del Par, relacionados con el informe previo, la visita y el informe
+final. Por último se establecieron principios fundamentales que fortalecen y representan la
+excelencia y la calidad de nuestra Educación.
+De la mano de lo anterior, se ha puesto en marcha, la Norma Técnica NTPA - MEN 2016
+elaborada con el apoyo del Instituto Colombiano de Normas Técnicas y Certificación ICONTEC,
+que tiene como objetivo principal el fortalecimiento de la función del Par en cinco aspectos
+fundamentales: su rol, sus principios, su actuación, su comportamiento y sus competencias.
+Estoy segura que estas estrategias se constituirán en referentes de mejora para el Sistema
+de Aseguramiento de la Calidad de la Educación Superior; aunque somos conscientes que
+poseemos grandes retos en pro de conseguir que Colombia sea la más educada en el 2025.
+Kelly Johana Sterling
+Subdirectora de Aseguramiento de la Calidad de Educación Superior
+Ministerio de Educación Nacional
+FORMACIÓN INTEGRAL DE
+2
+PARES ACADÉMICOS
+Curso en modalidad B-Learning
+Presentación editorial
+La presente publicación es el producto del trabajo conjunto entre el Ministerio de Educación
+Nacional - Subdirección de Aseguramiento de la Calidad de la Educación Superior y la sala
+de coordinadores de la Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la
+Educación CONACES, quienes unieron esfuerzos para presentar al sector una de las estrategias
+para el fortalecimiento de las competencias y ejercicio del rol de Par Académico, en el contexto
+del Sistema de Aseguramiento de la Calidad de la Educación Superior colombiano.
+Durante el segundo semestre del 2016, se diseñó y estructuró uno de los componentes del
+Subproyecto de Pares: la Escuela de Formación de Pares Académicos. La idea principal que
+guió este esfuerzo fue la de contribuir al mejoramiento de la función del Par Académico. Para
+este propósito, fue fundamental el trabajo y esfuerzo de los doctores Rómulo Campos Gaona,
+Luis Eduardo Peláez Valencia, Jorge Luis Bris Cabrera, Carlos Hernán González Campo y la
+doctora Martha Leonor Marulanda Ángel - Coordinadores de las Salas de evaluación de la
+CONACES de Agricultura, Silvicultura, Pesca y Veterinaria; Tecnologías de la Información y las
+Comunicaciones TIC; Ingeniería, Industria y Construcción; Administración y Derecho; y Ciencias
+Naturales, respectivamente, quienes fueron apoyados por los profesionales Andrea Milena Silva
+- Secretaria Técnica de la sala de Coordinadores, la gestora del SACES Elizabeth Castro, el
+politólogo Camilo García Pérez y esta Coordinación.
+El Centro de Innovación Educativa Regional (CIER) de la Universidad Nacional de Colombia
+aportó su experiencia en la virtualización y el conocimiento formativo para la construcción del
+curso, favoreciendo el desarrollo de una metodología pedagógica clara sobre los principales
+aspectos y competencias del rol del Par Académico en modalidad b-learning. La fase virtual,
+contenida en el presente documento, se desarrolla en 60 horas a través de la plataforma
+Colombia Aprende del MEN, con una dedicación de dos horas diarias, para un total de dos
+meses. La fase presencial, con una duración de 8 a 10 horas, sólo se brinda a quienes aprueban
+la fase virtual, por la Subdirección de Aseguramiento de la Calidad de la Educación Superior y
+la Sala de Coordinadores de la CONACES
+Una vez el par académico culmina estas dos etapas, recibe una certificación que le permitirá
+hacer parte del Banco de Pares del Ministerio de Educación Superior y por ende ser responsable
+del desarrollo de visitas de verificación de condiciones de calidad de los trámites de Registro
+Calificado que requieren las Instituciones de Educación Superior.
+Sin duda esta publicación y su desarrollo práctico será una gran contribución al mejoramiento
+de la Calidad de la Educación Superior en Colombia.
+Nancy Consuelo Cañón Suavita
+Coordinadora equipo de Registro Calificado
+FORMACIÓN INTEGRAL DE
+PARES ACADÉMICOS
+3
+Curso en modalidad B-Learning
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=289;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/cf/bd/Infografia Descargable_L2_R1_M0.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Conceptos claves para el programa
+de formación virtual Igualdad y equidad -
+Secretarías de Educación
+Glosario técnico:
+Ambiente virtual de aprendizaje: espacio electrónico en donde convergen educadores y educandos
+a través de diversos medios de comunicación sincrónica y asincrónica, con diferentes experiencias,
+cultura, conocimientos, intereses y valores, pero que tienen en común la construcción y reconstrucción
+de conocimientos, organizados didácticamente a través de un sistema de administración del aprendizaje
+(plataforma web), para ser aprendidos por los educadores a la distancia.
+Aula virtual: entorno telemático en página web que permite a los estudiantes participar en actividades
+educativas a distancia en forma virtual.
+Autoaprendizaje: es considerado aprendizaje autodirigido es aquel en que el estudiante determina
+el momento, el espacio y el ritmo en que habrá de realizar sus estudios formales de alguna materia o
+contenido temático.
+Aprendizaje a distancia: es cualquier forma de estudio que no se encuentre bajo la supervisión continua
+o inmediata de tutores, pero que no obstante cuenta con la orientación, planificación e instrucción de una
+organización educativa.
+Aprendizaje en línea (E-learning): término muy usado en la literatura en inglés para designar cursos
+sustentados en alguna tecnología electrónica.
+Glosario de contenido:
+Accesibilidad: medidas pertinentes para asegurar el acceso a espacios y servicios de las personas
+con discapacidad, en igualdad de condiciones con las demás. En la institución educativa, incluye la
+identificación y eliminación de obstáculos y barreras de acceso, movilidad, comunicación y participación en
+todas aquellas experiencias necesarias para el desarrollo del estudiante, así como el fortalecimiento de su
+autonomía e independencia. (MEN, 2017a).
+Discapacidad: la persona o estudiante con discapacidad se define aquí como un individuo en constante
+desarrollo y transformación. que cuenta con limitaciones significativas en los aspectos físico. mental,
+intelectual o sensorial que, al interactuar con diversas barreras (actitudinales, derivadas de falsas
+creencias, por desconocimiento, institucionales, de infraestructura. entre otras), estas pueden impedir su
+participación plena y efectiva en la sociedad, atendiendo a los principios de equidad.
+Educación Inclusiva: proceso permanente que reconoce, valora y responde de manera pertinente a la
+diversidad de características de los estudiantes, cuyo objetivo es promover su desarrollo, aprendizaje y
+participación, en un ambiente de aprendizaje común, sin discriminación o exclusión alguna. (MEN, 2017a).
+Equidad: hablar de equidad en educación significa pensar en términos de reconocimiento de la diversidad
+estudiantil. Un sistema educativo con equidad es un sistema que se adapta a esta diversidad y está
+pensando en dar a cada estudiante lo que necesita en el marco de un enfoque diferencial: en educar
+de acuerdo a las diferencias necesidades individuales de orden social, económico, político, cultural,
+lingüístico, físico y geográfico; más allá de enfoques asistencialistas, compensatorios y focalizados"".
+a
+Fundación
+Saldarriaga
+Concha
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=181;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/7e/cc/MEN_PTA_C3_ANEXO11_PROBLEMAS.pdf;True;True;pdf;"problemas
+de
+lingüística
+general
+II
+émile
+benveniste
+sigio
+veintiuno
+editores
+linguística
+traducción de
+JUAN ALMELA
+PROBLEMAS DE
+LINGUÍSTICA GENERAL
+II
+por
+ÉMILE BENVENISTE
+X
+siglo
+veintiuno
+editores
+siglo veintiuno editores, s.a. de C.V.
+CERRO DEL AGUA 248, DELEGACIÓN COYOACÁN, 04310, MEXICO, D.F.
+siglo veintiuno de españa editores, s.a.
+PRINCIPE DE VERGARA 78 2° DCHA. MADRID, ESPAÑA
+portada de anhelo hernández
+primera edición en español, 1977
+decimoquinta edición en español, 1999
+© siglo xxi editores, s.a. de C.V.
+isbn 968-23-0029-0 (obra completa)
+isbn 968-23-0333-8 (volumen 2)
+primera edición en francés, 1974
+© éditions gallimard, parís, francia
+título original: problèmes de linguistique générale, 2
+derechos reservados conforme a la ley
+impreso y hecho en méxico/printed and made in mexico
+INDICE
+Prefacio
+9
+I. TRANSFORMACIONES DE LA LINGÜÍSTICA
+1. Estructuralismo y linguística
+13
+2. Este lenguaje que hace la historia
+32
+II. LA COMUNICACIÓN
+3. Semiología de la lengua
+47
+4. El lenguaje y la experiencia humana
+70
+5. El aparato formal de la enunciación
+82
+III. ESTRUCTURAS Y ANÁLISIS
+6. Estructura de la lengua y estructura de la sociedad
+95
+7. Convergencias tipológicas
+107
+8. Mecanismos de trasposición
+117
+9. Las transformaciones de las categorías lingüísticas
+130
+10. Para una semántica de la preposición alemana vor
+141
+IV. FUNCIONES SINTÁCTICAS
+11. Fundamentos sintácticos de la composición nominal
+147
+12. Formas nuevas de la composición nominal
+164
+13. Estructura de las relaciones de auxiliaridad
+178
+V. EL HOMBRE EN LA LENGUA
+14. El antónimo y el pronombre en francés moderno
+199
+15. La forma y el sentidó en el lenguaje
+217
+VI. LÉXICO Y CULTURA
+16. Difusión de un término de cultura: latín orarium
+243
+[7]
+8
+ÍNDICE
+17. Génesis del término scientifique
+249
+18. La blasfemia y la eufemia
+256
+19. Cómo se formó una diferenciación léxica en francés
+260
+20. Dos modelos lingüísticos de la ciudad
+274
+PREFACIO
+Para sus Problemas de lingüística general, Emile Benveniste
+eligió veintiocho artículos entre sus publicaciones de 1939 a
+1964, y los clasificó en seis partes: transformaciones de la lin-
+güística, la comunicación, estructuras y análisis, funciones sin-
+tácticas, el hombre en la lengua, léxico y cultura.
+Ahora bien, de 1964 acá ha publicado numerosos estudios
+importantes en diferentes compilaciones y publicaciones perió-
+dicas, a veces de difícil acceso.
+El inmenso interés despertado por los Problemas de lingüisti-
+ca general, traducidos bien pronto al inglés, el italiano y el es-
+pañol, suscitó en buen número de amigos y discípulos el deseo
+de que la empresa siguiera adelante y apareciese un nuevo vo-
+lumen. Cuando expusimos, con M. Lejeune, este anhelo a Emile
+Benveniste, estuvo gustosamente de acuerdo y nos autorizó para
+escoger entre sus artículos recientes (de 1965 a 1972). Reuni-
+mos así veinte estudios (los dos primeros en forma de conversa-
+ciones), repartidos bajo las mismas seis grandes rúbricas del
+primer volumen, bajo la estrecha vigilancia de Émile Benvenis-
+te en persona.
+M.DJ. MOINFAR
+[9]
+I. TRANSFORMACIONES DE LA LINGUISTICA
+1. ESTRUCTURALISMO Y LINGUÍSTICA
+PIERRE DAIX. En los últimos treinta, y aun cuarenta, años ha vi-
+vido usted la transformación de la lingüística y de paso su ac-
+ceso a una especie de posición central en las ciencias humanas,
+de ""ciencia piloto"", como dicen. Quisiera preguntarle qué es
+lo que le parece que caracteriza esta evolución, esta transfor-
+mación, desde el punto de vista de la lingüística. Pero, de no
+tener usted inconveniente, me gustaría, a fin de situar mejor las
+cosas, hacerle una pregunta personal correspondiente a una que
+fue planteada a Jakobson en mi revista. ¿Qué lo condujo a
+usted a la lingüística?
+ÉMILE BENVENISTE. Tuve la suerte de abrazar muy joven la ca-
+rrera científica, en gran medida bajo la influencia de un hombre
+que fue un gran lingüista, que contribuyó mucho a formar los
+linguistas y modelar la lingüística durante -diríamos- los vein-
+te o treinta primeros años de este siglo: mi maestro Antoine
+Meillet. Su encuentro resultó decisivo para mi en vista de mi
+extrema juventud cuando estudiaba en la Sorbona y de que sin
+duda me atraía mucho más la investigación que la rutina de
+la enseñanza. Meillet enseñaba estrictamente gramática com-
+parada. Aquí hay que remontarse algo atrás, pues a través suyo
+es la enseñanza de Ferdinand de Saussure la que fue trasmiti-
+da en parte a los discípulos de Meillet. Esto es muy importante
+para quienquiera trace de algún modo la biografía intelectual
+de la lingüística francesa, con todo y que el Saussure que enseñó
+durante diez años en la École des Hautes Études no fuese el
+Saussure de quien tanto se habla en todas partes hoy en día.
+P. D. Era en cierto modo el comparatista.
+É. B. Era estrictamente el comparatista, extremadamente joven y
+1 Conversación de Pierre Daix con Emile Benveniste, Les Lettres françaises, núm.
+1242 (24-30 de julio de 1968), PP. 10-13.
+[13]
+14
+TRANSFORMACIONES DE LA LINGÜÍSTICA
+precoz, quien apenas a los 21 o 22 años fue adivinado y adopta-
+do por alguien que sabía conocer a los hombres, Michel Bréal.
+Nos remontamos con ello al verdadero nacimiento de la lingüis-
+tica en Francia. Bréal adivinó lo que podía ser un Saussure, lo
+que era ya. Se había afirmado con un verdadero golpe de genio
+en gramática comparada y había renovado la restitución de las
+formas del indocuropeo.
+P. D. ¿En qué época pasaba esto?
+É. B. Exactamente en 1878. Saussure fue profesor a los 24 años
+en la École des Hautes Études, donde enseñó del 81 al 91. De
+Paris volvió a Ginebra, a los 34 años, un poco a disgusto, aban-
+donando una carrera brillante que se le abría en París y que
+Bréal hubiera de fijo seguido apoyando. Durante aquel tiempo,
+formó a varios hombres eminentes, de una misma generación,
+en particular a los dos principales: Antoine Meillet y Maurice
+Grammont. Los formó en cuanto a la disciplina comparativa,
+es decir, el análisis y la comparación de cierto número de len-
+guas de la misma cepa, y la restitución sistemática de los esta-
+dos antiguos, que la comparación de las lenguas históricas per-
+mite alcanzar. Tal es la disciplina y, pudiera decirse, el hori-
+zonte, en que la linguística se desarrolló como ciencia histórica,
+como ciencia comparativa y como ciencia enderezada a la res-
+titución de estados prehistóricos. Y todos los itinerarios de la
+gramática comparada eran por naturaleza rigurosos y perseguían
+sin cesar mayor rigor. Fue lo que me atrajo personalmente. Era
+el carácter de las leyes que la lingüística estaba ya en condiciones
+de formular y, al tiempo, el horizonte que abría sobre la ex-
+tensión posible del método a otras familias de lenguas. Y efec-
+tivamente, puede decirse que la gramática comparada, tal como
+fue modelada en particular por Saussure, tal como la desenvol-
+vió Meillet a su zaga, ha servido de modelo a los intentos para-
+lelos que se siguen haciendo hoy por hoy en otras familias de
+lenguas. Cuando ahora se razona acerca de las lenguas de Ocea-
+nía y se procura constituir su genealogía, o cuando se empren-
+de el mismo trabajo en el inmenso dominio amerindio, siempre
+es en mayor o menor medida el modelo indoeuropeo el que guía
+las indagaciones, el que permite organizarlas.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=289;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/84/f6/Infografía Pasos PIP.pdf;True;True;pdf;"per
+8
+C
+a que
+Pasos para la Elaboración del
+Todos Somos
+Plan de Implementación Progresiva PIP
+capaces
+SEin
+Secretarías de Educacion Inclusivas
+PASO
+CONCENTRACIÓN
+3.80
+DE MATRÍCULA
+¿Cuál es el porcentaje
+de EcD matriculados?
+¿Qué diferencias hay
+entre la matrícula
+de hombres y mujeres
+¿Cuáles Instituciones
+PASO
+con discapacidad?
+PANORAMA DE LOS
+concentran mayor
+PASO
+ESTUDiANTES
+PORCENTAJE
+¿Cuál es el porcentaje
+1
+CON DiSCAPACIDAD
+PASO
+menor o ninguna PcD?
+DE ESTUDiANTES
+que representan
+2.8
+CON DiSCAPACIDAD
+los EcD sobre
+BRECHAS
+ESCOLARIZADOS
+el total de la matricula?
+DE GÉNERO
+PASO
+PASO
+BRECHAS
+OFERTA EDUCATIVA
+DE EDAD
+POR TiPO
+B.11
+¿Cuál es la oferta de educación
+5
+DE DiSCAPACIDAD
+y tipos de apoyos que se les ofrece?
+¿En qué edades hay
+¿Cuáles son los principales
+OFERTA EDUCATIVA
+PASO
+más y menos PcD?
+logros, retos y necesidades
+PARA ADULTOS
+de las IE inclusivas en la ETC?
+CON DiSCAPACIDAD
+10
+PASO
+¿Qué diferencias existen
+BRECHAS
+en la matrícula de PcD entre
+6.8
+GEOGRÁFICAS
+zonas rurales y urbanas?
+¿Qué estrategias se adelantan a
+PASO
+OFERTA EDUCATIVA
+nivel territorial para promover
+iNiCiAL o DE
+12
+el acceso oportuno de niños
+PRiMERA iNFANCiA
+y niñas con discapacidad en
+¿En qué
+educación formal?
+niveles/grados
+PASO
+BRECHAS
+hay mayor y menor
+PASO
+7.8
+EN LOS NiVELES
+matrícula de PcD?
+EDUCATÍVOS
+13
+OFERTA
+EDUCATIVA
+SUPERiOR
+TRAYECTORIA EDUCATIVA
+¿Cuáles instituciones
+PASO
+OFERTA EDUCATIVA
+PASO
+Y DESERCIÓN
+ofrecen servicios
+DE ESTUDiANTES
+PARA ESTUDiANTES
+educativos especiales
+CON DiSCAPACiDAD
+8
+¿En qué consiste
+CON DiSCAPACIDAD
+o segregados?
+actualmente
+esa atención?
+Qué porcentaje representan los EcD
+¿Quién la oferta?
+IE que atienden a EcD.
+OFERTA ESPECIAL. SEGREGADA
+PASO
+que desertaron respecto al total
+Personal de apoyo.
+de la matrícula del 2017?
+o DE REHABiLiTACiÓN PARA
+14
+Articulación con otros sectores.
+PERSONAS CON DiSCAPACIDAD
+Oferta educativa para PcD.
+G
+GOBIERNO DE COLOMBIA
+E MINEDUCACIÓN
+Saldarriaga
+Concha
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=189;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/5a/35/MEN_PTA_C7_ANEXO1_AUTO_COEVALUACION.pdf;True;True;pdf;"La educación
+Mineducación
+es de todos
+Todos a Aprender
+ANEXO 1
+¿Cómo se promueve la autoevaluación y coevaluación en su EE?
+ACTIVIDADES QUE SE REALIZAN PARA
+QUE LOS ESTUDIANTES SE AUTOEVALÚEN
+ACTIVIDADES QUE SE REALIZAN PARA
+QUE LOS ESTUDIANTES SE COEVALÚEN
+Luego de este listado de actividades, considera que se debe trabajar en algo para
+fortalecer estos tipos de evaluación SI NO
+¿por qué?
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=159;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/d8/01/Contratación Servico Público Educativo ETCs D 1851-2015.pdf;True;True;pdf;"Preguntas y Respuestas sobre
+Contratación
+Servicio Público
+Educativo por
+parte de ETC's.
+Decreto 1851 de 2015
+MINEDUCACIÓN
+TODOS POR UN
+NUEVO PAÍS
+PAZ EQUIDAD EDUCACIÓN
+Preguntas y Respuestas sobre
+Contratación
+Servicio Público
+Educativo por
+parte de ETC's.
+Decreto 1851 de 2015
+Preguntas y Respuestas sobre
+Contratación del servicio educativo
+5
+Decreto 1851 de 2015
+E
+I
+Ministerio de Educación Nacional modificó la
+normatividad vigente para cerrarle el paso a las malas
+prácticas y a través del Decreto 1851 de 2015 fija requisitos
+más estrictos con el fin de garantizar calidad, oportunidad
+y transparencia de los contratos que las Entidades
+Territoriales Certificadas -ETC-, realizan para suplir la
+necesidad de cupos escolares en su territorio.
+Aquí encontrará respuesta a diversas inquietudes sobre
+esta nueva norma.
+Consulte y descargue el texto completo del Decreto 1851
+de 2015 mediante el cual ""se reglamenta la contratación
+del servicio público educativo "" expedido el 16 de
+septiembre de 2015 en http://www.mineducacion.gov.co/
+normatividad/1753/w3-article-353928.html
+Preguntas y Respuestas sobre
+6
+Contratación del servicio educativo
+Decreto 1851 de 2015
+¿Cuál es el objetivo del decreto
+Lo anterior implica que al no presentarse
+1851 del 16 de septiembre de 2015?
+en la ETC el fenómeno de insuficiencia o
+limitaciones en el sector educativo oficial
+R/. El Ministerio de Educación establece
+la contratación que se realice carece de
+y ajusta las reglas, los principios y los
+fundamento legal y de necesidad, y podría
+requisitos bajo los cuales las Entidades
+estarse configurando una inadecuada
+Territoriales Certificadas en Educación,
+ejecución de los recursos públicos, lo que
+es decir Secretarías de Educación
+puede tener consecuencias de tipo fiscal,
+Departamentales, Distritales o
+disciplinario y penal.
+Municipales, pueden contratar el servicio
+educativo con otras instituciones cuando
+¿Por qué el país debe acudir
+tienen limitaciones o requieren atender
+a esta figura de contratación?
+un mayor número de estudiantes dentro
+de su territorio y no lo pueden hacer en
+R/. Porque existen situaciones
+los colegios oficiales.
+excepcionales o transitorias que
+generan falta de cupos (insuficiencia)
+¿En qué casos las Entidades
+o limitaciones en el sector oficial, por lo
+Territoriales Certificadas -ETC-
+que se ha requerido de la participación
+(Departamento, Distrito
+de terceros (los contratistas) para atender
+o Municipio), podrán
+a toda la población.
+celebrar contratación
+del servicio educativo?
+¿Hace cuánto tiempo el país recurre
+a esta estrategia de Contratación?
+R/. La ETC puede hacer uso del decreto
+1851 de 2015 mediante el cual el
+R/. Por la alta dispersión geográfica
+Ministerio reglamenta la manera de
+poblacional del país se ha recurrido a
+realizar contratos para la prestación
+terceros para el cumplimiento de este
+del servicio educativo demostrando la
+derecho, particularmente con las iglesias
+falta de cupos en los colegios oficiales o
+y confesiones religiosas mediante lo que
+se conoció como la Educación Misional
+limitaciones, para garantizar el servicio
+educativo con calidad y oportunidad.
+y que luego se llamó Educación Misional
+Contratada. En la historia reciente, el artículo
+200 de la Ley 115 de 1994 establece la
+¿Qué pasa si una ETC contrata
+posibilidad de prestar el servicio educativo
+sin tener y sin demostrar
+público a través de terceros.
+insuficiencia o limitaciones
+de sus colegios?
+¿Cuál es la magnitud de
+los contratos de servicio
+R/. La normatividad señala en forma
+recurrente y clara que las ETC, podrán
+educativo en el país?
+contratar a través de entidades no
+R/. Las ETC suscriben alrededor de 1000
+oficiales de reconocida trayectoria e
+contratos que cubren el 9.4% de la
+idoneidad, cuando se demuestre la
+matrícula oficial desde transición hasta
+insuficiencia en los colegios oficiales para
+grado 11. La participación máxima de la
+garantizar en forma efectiva el acceso y la
+contratación en el servicio educativo se
+permanencia de los niños, niñas y jóvenes
+dio en 2.008 cuando llegó al 12.1%, sin
+en el sistema educativo, sin detrimento
+embargo, los procesos de ampliación
+de velar por la cobertura e infraestructura
+de planta docente, construcción
+en los servicios educativos estatales.
+de infraestructura educativa y los
+Preguntas y Respuestas sobre
+Contratación del servicio educativo
+7
+Decreto 1851 de 2015
+mayores requisitos para demostrar la
+R/. Las ETC lo podrán realizar con
+insuficiencia o las limitaciones del sector
+entidades sin ánimo de lucro, estatales
+oficial han generado una reducción
+o colegios particulares, que acrediten
+progresiva de esta contratación.
+una reconocida trayectoria e idoneidad,
+ya que los requisitos de calidad y
+¿Existe alguna restricción en cuanto
+oportunidad establecidos en la nueva
+al tipo de población que puede ser
+reglamentación buscan que el servicio
+atendida mediante el Decreto 1851?
+educativo sea de calidad, se impartan los
+contenidos académicos en los mismos
+R/.Si, el decreto no permite la contratación
+tiempos que a los estudiantes de los
+para la atención de jóvenes y adultos,
+colegios oficiales, gracias a un adecuado
+población carcelaria, adolescentes
+proceso de planeación de la contratación.
+del Sistema de Responsabilidad
+Penal Adolescente -SRPA-, modelos
+¿El servicio educativo puede ser
+educativos flexibles, ya que para ellos
+contratado en forma permanente a
+hay reglamentación específica.
+través del decreto 1851 de 2015?
+R/. No. Esta contratación se considera
+¿Se puede contratar la atención
+una medida de carácter excepcional
+de estudiantes en extraedad?
+y su aplicación requerirá que las ETC
+R/. La contratación del servicio educativo
+demuestren previamente la insuficiencia
+está concebida para atender a los
+o las limitaciones para prestar el servicio
+estudiantes en edad escolar, es decir de
+en los establecimientos educativos
+5 a 16 años. No obstante, si la población
+estatales de su jurisdicción.
+en extraedad aún no cumple el requisito
+para ser atendida bajo los modelos de
+¿Qué tipo de contratos pueden
+educación para jóvenes y adultos, podría
+ejecutar las Entidades Territoriales
+ser atendida con la autorización de la
+bajo el decreto 1851 de 2015?
+Secretaría de Educación.
+R/. Las ETC podrán celebrar:
+¿Se puede contratar la atención
+a) Con el propietario de un
+de población con Necesidades
+establecimiento educativo privado
+Educativas Especiales (NEE)?
+de reconocida trayectoria e idoneidad
+durante un año lectivo
+R/. La atención a esta población debe
+enmarcarse en la política de inclusión
+b) Con un contratista seleccionado a
+del Ministerio. Eventualmente, se puede
+través de un proceso de licitación
+contratar con un oferente que cuente
+para administrar uno o varios
+con las condiciones pedagógicas y de
+establecimientos educativos de
+carácter oficial
+infraestructura para esta población,
+pero de manera inclusiva. Lo que
+c) Con iglesias o confesiones religiosas
+no se debe hacer es contratar un
+para atender uno o varios
+establecimiento especializado para
+establecimientos educativos oficiales.
+atender exclusivamente a esta población.
+La ETC aporta la infraestructura física,
+el personal docente, directivo docente
+¿Con qué entidades se
+vadministrativo y la iglesia o confesión
+puede contratar el servicio
+religiosa aporta los componentes
+educativo regulado por
+que la entidad territorial no pueda
+el decreto 1851 de 2015?
+suministrar
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/5b/8c/M2S4_R4.pdf;True;True;pdf;"DAYAN
+Seguro https://www.theflippedclassroom.es
+outsep
+Inicio
+Quienes somos
+Vision
+Experience
+Recursos Tecnologia y FC Libros Cursos
+A
+2
+a
+The flipped woods
+A
++
+4/+/ 10+ 29)
+EXPERIENCIAS Y RECURSOS PARA DAR = LAVUELTA 'ALACLAS
+48+ 13c)(35-189)
+CONOCE NUESTRAS NOVEDADES
+CONSIGUE LA C
+65
+INTERNACIONA
+LEARN
+Flippad
+Certifica
+Level -I
+7017
+13
+Certificaciones
+FLIPPED LI
+N
+Distintas
+ces
+CERTIFICACIÓN EN
+CERTIFICACIÓN a
+Impartido per dan Berger
+Uso de cooldes
+Exis
+acegiación
+de
+E
+mancionación
+cookies
+ACEPTAR
+N
+O
+P
+W
+ES
+all
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=191;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/e7/e5/MEN_PTA_C8_ANEXO6_LECTURA.pdf;True;True;pdf;"Anexo 6. Lectura. El Agua
+EL AGUA
+El agua es uno de los elementos más importantes de la Tierra: de hecho, cubre las tres cuartas
+partes de nuestro planeta y, sin agua, ningún ser vivo podría vivir.
+La cantidad total de agua en la Tierra es, más o menos, siempre la misma, pero no está
+siempre en el mismo sitio.
+La mayor parte del agua está en los mares y océanos, en los ríos y los lagos, pero también
+hay agua por debajo del suelo: de allí la sacamos los hombres, cavando agujeros que
+llamamos pozos.
+Con el calor del sol, el agua se evapora y asciende por la atmósfera: al llegar a cierta altura,
+con el frío, el vapor se vuelve a condensar en gotitas de agua, formando así las nubes.
+Esas nubes se desplazan, empujadas por el viento. Si llegan a algún lugar más frío (por
+ejemplo, si una montaña les obliga a subir aún más alto) o si las gotitas, al juntarse, aumentan
+demasiado su volumen, se produce la lluvia: las gotas caen al suelo.
+Si la capa de aire donde llega la nube es muy fría, las gotitas de agua se cristalizan en copos
+de nieve.
+A veces, entre la nube y el suelo se cuela una capa de aire helado: las gotas de agua que caen
+de la nube, al cruzar ese aire tan frío, se congelan y caen en forma de granizo.
+Al caer al suelo, el agua de la lluvia o de la nieve, cuando ésta se derrite, va resbalando o se
+filtra dentro del suelo, siempre hacia abajo.
+De esta forma, a través de los ríos el agua vuelve al mar y el ciclo vuelve a empezar.
+Las mayores precipitaciones se producen en torno al Ecuador y en las zonas templadas
+cercanas a los océanos, pero hay zonas donde apenas llueve: son zonas áridas.
+No siempre llueve de la misma forma: hay lloviznas, chubascos, aguaceros, trombas de agua
+y tampoco llueve igual todos los años: a veces pasan varios meses sin llover, es la sequía.
+Otras veces llueve tanto que los ríos se desbordan y provocan inundaciones.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=291;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/bf/6b/Transcripcion_L1_R2_M1.pdf;True;True;pdf;"Establecimientos Educativos
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Gobierno de Colombia: El futuro es de todos.
+Fundación Saldarriaga Concha.
+Reconociéndome - Reconociendo al otro (Autoconocimiento)
+Hola soy Jerry, en los siguientes minutos con unas sencillas actividades vamos
+a ver que tanto me conozco y reconozco a quienes me rodean.
+iVen acompáñame!
+Ahora te pregunto.
+¿Te conoces a ti mismo?
+Para ayudarnos a contestar esta pregunta vamos a la siguiente sección.
+Entonces acompañame a transitar por estas 4 casillas. En ellas, iremos
+descubriendo las actividades que nos ayudaran a resolver esta pregunta.
+Comencemos con nuestra primera parada.
+Parada número uno, autoconocimiento.
+El autoconocimiento es reconocido como la capacidad que tiene una persona
+para reflexionar y tener conciencia sobre sus pensamientos, acciones,
+emociones y sus comportamientos pasados, para generar un cambio. (Bem
+1972 citado por Lieberman 2004).
+Momento 1: Juego de conocimiento, Actividad: Creando una historia.
+Momento 2: interacción y preguntas, Actividad: Encuentra la definición.
+Momento 3: reto de equipo, Actividad: La maleta de mi vida.
+Momento 4: procesamiento y aclaración de conceptos, Actividad:
+Recuento de mi historia.
+Momento 5: Juego de concurso - prácticas propias, Actividad: ¿Quién soy
+yo?
+Momento 6: compromisos y evaluación, Actividad: Actividad central.
+1
+Establecimientos Educativos
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Parada número dos, autoconocimiento como factor protector
+La habilidad cognitiva que tiene el ser humano de conocer sus propios
+estados mentales, asumir el compromiso y el interés por dar cuenta
+de sus motivaciones, razones, creencias y emociones asociadas a sus
+comportamientos, facilita el crecimiento de su capacidad para afrontar la vida,
+y en esa medida protegerse y crecer.
+Momento 1: juego de conocimiento, Actividad: Esperanzas y miedos.
+Momento 2: Interacción y preguntas, Actividad: Autorreflexión por medio
+de autobiografías.
+Momento 3: Reto de equipo, Actividad: Construyamos nuestra historia.
+Momento 4: Procesamiento y aclaración de conceptos, Actividad: El
+cuidado de otros.
+Momento 5: Juego de concurso - prácticas propias, Actividad: Desarrollo
+de autobiografías audiovisuales.
+Momento 6: Compromisos y evaluación, Actividad: Actividad central.
+Parada número tres, reconocimiento de las características del otro
+(sin juzgar)
+Aceptar la diversidad humana como poseedores de características,
+comportamientos y cualidades diferentes, que requieren ser respetadas y no
+juzgadas, es un elemento enriquecedor en los procesos de adaptación social a
+los que se ven abocados los grupos humanos.
+Momento 1: Juego de conocimiento, Actividad: Positivo y negativo.
+Momento 2: Interacción y preguntas, Actividad: Preguntas y respuestas.
+Momento 3: Reto de equipo, Actividad: ¿A quién invito?.
+Momento 4: Procesamiento y aclaración de conceptos, Actividad:
+Tomando la perspectiva de uno de nosotros - EMPATÍA.
+Momento 5: Juego de concurso - prácticas propias, Actividad: La lupa para
+entender mejor.
+Momento 6: Compromisos y evaluación, Actividad: Actividad central.
+2
+Establecimientos Educativos
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Parada número cuatro, 4. Conociendo las emociones
+Aprender a reconocer y manejar las propias emociones se convierte en una
+capacidad a desarrollar y fortalecer para afrontar situaciones problemáticas
+personales en contextos sociales adversos de manera resiliente.
+Momento 1: Juego de conocimiento, Actividad: Conociendo las
+emociones.
+Momento 2: Interacción y preguntas, Actividad: ¿Cómo veo mis
+emociones?.
+Momento 3: Reto de equipo, Actividad: Adivina la emoción.
+Momento 4: Procesamiento y aclaración de conceptos, Actividad:
+Repasando las emociones.
+Momento 5: Juego de concurso - prácticas propias, Actividad:
+Reconocimiento de mis emociones.
+Momento 6: Compromisos y evaluación, Actividad: Actividad central.
+3
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/be/c3/M4S29_R1.pdf;True;True;pdf;"R CEPIndalo
+LA RESILIENCIA EN LA EDUCACIÓN
+Dra. Elvia Marveya Villalobos Torres
+Universidad Panamericana. Facultad de Pedagogía
+Coordinación Editorial
+mvillalo@mx.up.mx
+Lic. Edith Castelán García
+Universidad Panamericana. Facultad de Pedagogía
+Coordinación Bolsa de Trabajo y Graduados
+ecastela@mx.up.mx
+eCEPIndalo
+1
+1. Introducción
+Reflexionar hoy sobre la resiliencia nos permite conceptualizarla y valorarla con una perspectiva
+renovadora, concibiéndola como la capacidad de la persona humana de sobreponerse a los riesgos
+de la existencia no sólo superándolos sino desarrollando al máximo su potencial, proceso realizable
+a través de la construcción de una Pedagogía preventiva resiliente.
+R CEPIndalo
+2
+2. Concepto de resiliencia
+Del campo de la psicología y la psiquiatría se transfirió a la pedagogía el concepto de resiliencia,
+así como sus imbricaciones en el desarrollo de las personas ante la adversidad y el caos, que es lo
+que prevalece hoy día. Hoy se asiste a una aparente descomposición de lo social, enraizado en lo
+personal y lo familiar.
+La resiliencia en esencia es la capacidad de recuperarse, sobreponerse y adaptarse con éxito
+frente a la adversidad y de desarrollar competencia social, académica y vocacional pese a estar
+expuesto a acontecimientos adversos, al estrés grave o simplemente a las tensiones inherentes al
+mundo de hoy.1 En la actualidad todo docente y estudiante, y de hecho toda persona, niño, joven,
+maduro o anciano, requiere desarrollar resiliencia.
+La resiliencia en educación es la capacidad de resistir, es el ejercicio de la fortaleza, como la
+entienden los franceses: ""courage"" para afrontar todos los avatares de la vida personal, familiar,
+profesional y social. El término ""resiliente"" se ha adoptado en cierta forma en lugar de: invulnerable,
+invencible y resistente. La acepción de ""resiliente"" reconoce el dolor, la lucha y el sufrimiento
+implícitos en el proceso. El concepto de la resiliencia se aleja del modelo médico del desarrollo
+humano basado en la patología y se aproxima a un modelo pedagógico proactivo basado en el
+bienestar, el cual se centra en la adquisición de competencias y eficacia propias. Es necesario
+explorar las fuentes de la fortaleza personal, considerando que la perfección de la fortaleza es la
+constancia, la capacidad de acometer y resistir. El proceso de adquirir resiliencia es de hecho el
+proceso de la vida, dado que toda persona requiere superar episodios adversos de estrés, trauma y
+rupturas en el proceso de vivir, sin quedar marcado de por vida y ser feliz. Y de esta forma resulta
+coincidente con la Pedagogía al reconocerse que ésta es la ciencia que enseña a vivir bien la vida,
+aceptando el sufrimiento que conlleva.
+El término resiliencia tiene su origen en el latín, resilio que significa volver atrás, volver de un salto,
+resaltar, rebotar. El término se utiliza en física. Expresa la
+cualidad de los materiales a resistir la presión, doblarse con flexibilidad, recobrar su forma original,
+no deformarse ante presiones y fuerzas externas y su capacidad de resistencia al choque.
+Para la educación el término implica, lo mismo que en física, una dinámica positiva, una capacidad
+de volver hacia adelante. Sin embargo la resiliencia humana no se limita a resistir, permite la
+reconstrucción. La resiliencia en educación está concebida como un resorte moral, y se constituye
+en una cualidad de una persona que no se desanima, que no se deja abatir, que se supera a pesar
+de la adversidad.
+La educación compleja de hoy es un proceso que presenta las mismas características del
+pensamiento y del hombre de nuestra época: multidimensional, abierto siempre a una
+transformación cada vez más compleja que le exige cumplir con su tarea existencial: instaurar su
+diferencia y construir su singularidad. Es necesario escuchar menos sobre la susceptibilidad que se
+tiene ante el daño y más sobre la capacidad de sobreponerse a las experiencias de la adversidad:
+el estrés, el trauma y el riesgo en la vida personal, que incluye abusos, pérdidas y abandono, o
+simplemente las tensiones comunes de la vida.
+CEPIndalo
+3
+3. Resiliencia y educación
+Factores de riesgo: son cualquier característica o cualidad de una persona o comunidad que se
+sabe va unida a una elevada probabilidad de dañar la salud
+física, mental, socio emocional o espiritual.
+Factores protectores: son las condiciones o los entornos capaces de favorecer el desarrollo de
+personas o grupos y, en muchos casos, de reducir los efectos de las circunstancias desfavorables.
+Factores protectores externos: se refieren a condiciones del medio que actúan reduciendo la
+probabilidad de daños: familia extensa, apoyo de un adulto significativo o integración laboral y
+social.
+Factores protectores internos: están referidos a atributos de la propia persona: autoconcepto,
+seguridad y confianza en sí misma, facilidad para comunicarse, empatía.
+Personas resilientes: son las que a pesar de estar insertas en una situación de adversidad, o verse
+expuestos a un conglomerado de factores de riesgo, tienen la capacidad de utilizar aquellos
+factores protectores para sobreponerse a la adversidad, crecer y desarrollarse adecuadamente,
+llegando a madurar como personas competentes, pese a los pronósticos desfavorables.
+La resiliencia no debe considerarse como una capacidad estática, puede variar a través del tiempo
+y las circunstancias. Es el resultado de una armonía entre
+factores de riesgo, factores protectores y la personalidad del ser humano. La persona puede ""estar""
+más que ""ser"" resiliente. La naturaleza de la resiliencia
+es eminentemente dinámica, así como el autoconcepto y puede considerarse como la adaptación
+psicosocial positiva.
+La resiliencia es una técnica de intervención educativa, sobre la cual es necesario desarrollar una
+reflexión pedagógica: la resiliencia permite una nueva epistemología del desarrollo humano,
+enfatizando el potencial humano. En esencia es una nueva mirada sobre viejos problemas del
+hombre. El riesgo siempre ha estado presente y, desde una Pedagogía preventiva es necesario
+estudiar todos los factores protectores, que se les pueden brindar a las personas para afrontar el
+riesgo y salir avantes de él.
+El estudio del ""riesgo"" en la vida de los profesores y de los alumnos y la detección de una infinidad
+de ""factores de riesgo"" han contribuido a crear una sensación de desaliento respecto de los niños y
+jóvenes. Incluso se ha llegado a pensar que los riesgos generalizados en la vida de los niños, (sin
+duda una realidad) condenan inexorablemente a una creciente cantidad de jóvenes a desarrollar
+consecuencias negativas: deserción escolar, bajo aprovechamiento, adicciones.
+Los estudiantes resilientes encontraron a un docente favorito que se convierte en un modelo de rol
+positivo para ellos; un maestro especial que ejerce una
+fuerte influencia en sus vidas, brindándoles calidez, afecto, trato con tono humano, sobre todo les
+enseña a comportarse compasivamente. Innegablemente a los estudiantes resilientes les gusta la
+escuela y la convierten en su ""hogar fuera del hogar"", en un refugio de su ámbito familiar
+disfuncional. Las escuelas con directivos y maestros resilientes son exitosas y tienden a mantener
+estándares académicos elevados, a suministrar retroinformación eficaz que ayuda a los estudiantes
+ofreciéndoles posiciones de confianza y responsabilidad. Los educadores conscientes de su
+responsabilidad en su gobierno de clase pueden fomentar la resiliencia en sí mismos, en el aula y
+entre los estudiantes. La clave fundamental es que la escuela sea capaz de ofrecer los
+reforzadores de los factores protectores en la vida de los estudiantes y de los docentes. La
+responsabilidad del maestro es detectar a los estudiantes ""en riesgo"" y ayudarles a construir su
+resiliencia.
+En toda institución educativa el profesor tiene una función de guía, mediador y facilitador de
+aprendizajes significativos. La resiliencia está en relación directa
+con los ambientes de aprendizaje y cómo afectan a su desarrollo. Si el profesor genera un
+ambiente de aprendizaje amable y agradable con tono humano, logrará que los estudiantes estén
+motivados y puedan ver en su quehacer diario una realización personal. El humor. la fantasia, el
+4
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/75/35/M2S4_R6.pdf;True;True;pdf;"DAYAI
+po
+Verda
+x
+Seguro
+https://verdadabierta.com/lineas-de-tiempo/
+a
+Lunes, Abril 30 2018
+Desangre de lideres
+Especiales
+Líneas de tiempo
+Fuente ciudadana
+Contacto
+10
+VERDADABIERTA.COM
+años
+PROCESOS DE PAZ
+MEMORIA
+CRIMEN ORGANIZADO
+TIERRAS
+JUSTECIA TRANSICIONAL
+RESISTENTES
+VICTIMARIOS
+Líneas de tiempo
+Proceso de paz con las Farc
+Los líos de la Bellacruz
+La disputa por Las Pavas
+DIALOGOS DE PAZ
+EFROMOVICH Devuelba LOS baldios
+AGENCIA Nacional DE Tierras.
+RECUPERE LOS 7 PREDIOS: Hacienda.
+Lineas de tiempo
+Lineas de tiempo
+Lineas de tiempo
+Aquí podrá leer paso a paso, cómo se desarrollaron
+A través de este mapa interactivo. presentamos la
+Esta antigua finca. del sur de Bolivar. es un ejemplo
+las negociaciones entre el gobierno nacional y la
+historia de la hacienda La Bellacruz, que se volvió
+de las tensiones que hay en los territorios para lograr
+guerrilla de las Farc. que se extendieron...
+uno de los casos de restitución de
+la Reforma Rural Integral...
+Los golpes más duros de la Teófilo
+Proceso de paz con las Auc
+Proceso de paz con el Eln
+Forero
+CUERDO DE DIÁLOGOS PARA LA PAZ
+LOMBIA ENTRE EL GOBIERNO NACIONAL
+EJÉRCITO DE LIBERACIÓN NACIONAL
+EGACIÓN
+GACION
+o DE COLOMBIA
+ERACIÓN NACIONAL
+Lineas de tiempo
+Lineas de tiempo
+Lineas de tiempo
+Encuentre aquí una recopilación de los hechos más
+Estos son los hechos más relevantes de la
+X
+P
+6
+W
+THIS
+ES
+I
+all
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=187;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/56/01/MEN_PTA_C6_ANEXO6_PROPUESTA.pdf;True;True;pdf;"Anexo 6. Propuesta de organización Proyecto de aula para multigrado
+Tema en común con actividades diferenciadas
+1°
+2°
+3°
+4°
+5°
+6°
+7°
+Lenguaje
+Lenguaje
+Lenguaje
+Lenguaje
+Lenguaje
+Lenguaje
+Lenguaje
+La argumentación
+El docente inicia con una misma actividad para todos: visualización de un anuncio publicitario
+que se proyecta para todos los grados por equipos organizados por diferentes niveles de la
+siguiente manera. Grupos de 1° a 3°, grupos de 4° y 5° y grupos de 6° y 7°
+Clasificación de familias: biparental,
+La familia. Comentario y escritura a tres
+monoparental, adoptiva, sin hijos, de padres
+preguntas:
+separados, compuesta, homoparental,
+1. ¿Qué es para mí una familia?
+extensa.
+2. ¿Con quién (es) vivo?
+Conversación sobre cómo está constituida su
+familia.
+3. ¿Cómo es mi familia?
+Escritura sobre lo que comentaron en la
+conversación
+Anexo 6. Propuesta de organización Proyecto de aula para multigrado
+Tema en común: La argumentación
+Ciclos
+Contenidos
+1er ciclo
+Composición de la familia
+2° ciclo
+Roles de los miembros de la familia
+3er ciclo
+Papel de la familia
+Actividades a realizar:
+Conversaciones, descripciones, explicaciones y argumentaciones orales, dibujo libre, árbol
+genealógico, lectura de textos, secuencia argumentativa.
+Inicio para todo el grupo:
+Los estudiantes exponen sus ideas sobre cómo se compone la familia a partir de un debate
+guiado por el docente, en el que el profesor introduce en la conversación ciertos conectores
+que permiten in utilizando los estudiantes a partir de las siguientes preguntas:
+1. ¿Qué es para mí una familia?
+Ejemplo: Una familia es un grupo de personas pero es más que eso... La familia es un grupo de
+personas, sin embargo, está formada por... Una familia es un núcleo, por consiguiente, es la base
+de...
+2. ¿Conquién (es) vivo?
+3. ¿Cómo es mi familia?
+4. ¿Qué actividades realizan en familia?
+5. ¿Cómo se distribuyen las tareas de casa?
+El docente expone las palabras (conectores) que pueden usar cuando realicen sus comentarios
+orales y escritos:
+1er equipo: pero, aunque, entonces
+2° equipo: por lo tanto, sin embargo, ya que
+3er equipo: puesto que, por consiguiente, porque
+Se visualiza el anuncio publicitario y los niños, niñas y adolescentes hacen comentarios sobre la
+interpretación de los personajes y las situaciones que se presentan en el hogar del anuncio para
+compararlo con las familias de los estudiantes.
+Comentan por qué es importante hacer parte de la familia y se comparte el sentido dado por
+grupos mediante una composición utilizando diferentes materiales (recortes de revista y
+periódicos), texto escrito producido, dibujos, pinturas en temperas, colores, entre otros
+realizados por cada grupo en una hoja de papel blanco tamaño carta que será puesto en un
+Anexo 6. Propuesta de organización Proyecto de aula para multigrado
+muro ubicado en el aula para que todos puedan ver cómo está compuesta la familia de los
+niños, niñas y adolescentes del aula multigrado
+Desarrollo. Actividad para cada ciclo. Deben ser 3 equipos
+Equipo 1. (primer ciclo): Realizan un dibujo en el que se exprese cómo se distribuyen las tareas
+den el hogar. Cada dibujo debe in acompañado de un texto escrito en el que describen en una
+frase lo que hace cada integrante en casa
+Equipo 2. (segundo ciclo): Expliquen en un párrafo apoyado por imágenes recortadas quién se
+encarga de las siguientes tareas en el hogar: cocinar la comida, lavar la ropa, limpiar los baños,
+hacer la compra del mercado, recoger los juguetes, acompañarlos en las tareas dejadas en el
+colegio.
+Equipo 3. (tercer ciclo): Elaborar una carta a sus padres solicitando que las tareas del hogar se
+compartan de manera equitativa, justificando la petición o una historieta. Si se puede se solicita
+que se realicé un pequeño audiovisual elaborado a través del celular una solicitud para que las
+tareas del hogar sean equitativas. La duración debe ser máximo de 3 minutos.
+Cierre y evaluación. Puesta en común del trabajo de los equipos
+Cada uno de los equipos presentará lo que realizó
+Colocan todos los trabajos en un mismo lugar del aula para que todos puedan verlo y cada
+equipo expone sus trabajos ante los demás.
+Se evaluará el trabajo a partir de lo que cada equipo exprese en voz alta el trabajo de los otros
+equipos.
+Grados:
+Tema en común:
+Contenidos por ciclos o grados (según considere)
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=183;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/8e/db/ANEXO 2- EVALUACIO´N FORMATIVA_CICLO IV.pdf;True;True;pdf;"CDA-LA EVALUACIÓN FORMATIVA
+EN EL MARCO DE LA EDUCACIÓN
+INCLUSIVA
+El futuro
+Gobierno
+es de todos
+de Colombia
+iii
+Todos a Aprender
+Mineducación
+god
+Fase de exploración (25 min):
+Introducción y actividad de exploración.
+Fase de estructuración (20 min):
+Se presentan algunos referentes conceptuales sobre la
+evaluación inclusiva.
+CONTENIDO
+Fase de práctica (30min):
+En mesas de trabajo, se desarrollan las actividades propuestas.
+Fase de transferencia (25 min):
+Socialización de los trabajos realizados en cada mesa.
+Fase de cierre (20 min)
+Lectura de cuento y vídeo sobre la educación inclusiva.
+Todos a Aprender
+Mineducación
+Reconocer los elementos
+constitutivos y sentido de la
+Objetivo
+evaluación de los
+aprendizajes desde la
+perspectiva de la educación
+inclusiva
+Mineducación
+Brinda orientaciones al docente para el planteamiento de
+criterios de evaluación desde la perspectiva de educación
+inclusiva.
+Desempeños
+Reconoce las características de un currículo inclusivo:
+Esperados
+intercultural, que respeta y valora las diferencias y que
+contempla el desarrollo de diferentes capacidades en los
+estudiantes.
+Reconoce las características de la evaluación inclusiva y
+contribuye en su diseño didáctico.
+Todos a Aprender
+Mineducación
+MOMENTO DE
+EXPLORACIÓN
+ACTIVIDAD DE EXPLORACIÓN
+Se entrega a cada participante una hoja
+en blanco y se da la instrucción de
+dividirla en dos partes iguales. En una
+de las mitades, cada participante
+dibujará a un niño o niña.
+En la otra mitad de la hoja, el
+participante escribe las características
+que recuerde de ese niño o niña
+Mineducación
+CONOCIMIENTOS PREVIOS
+CARACTERÍSTICAS QUE SE PUEDEN TENER EN CUENTA
+Aspectos fisiológicos- (Edad y sexo)
+Situaciones relacionadas con alguna discapacidad.
+Grado de escolaridad
+Diversidad cultural
+Aspectos motrices- fina y gruesa (Excelente, Buena, regular,
+mejorable)
+Aspectos disciplinares dentro y fuera del aula (Excelente, Buena,
+regular, mejorable)
+Cumplimiento de las asignaciones O tareas (Siempre, casi
+siempre, algunas veces, nunca)
+Condiciones de salud
+Aspectos cognoscitivos que tengan que ver con las áreas de
+aprendizaje básico. (Los contenidos que se facilitan o dificultan)
+Motivaciones O preferencias de áreas específicas.
+Habilidades y conocimientos
+Ritmos y estilos de aprendizaje
+Gustos e intereses
+Aspectos socioemocionales (habilidades sociales, capacidad de
+Imagen tomada de Internet-
+adaptación, tolerancia a la frustración, autocontrol, etc.).
+Mineducación
+MOMENTO DE
+ESTRUCTURACIÓN
+Mineducación
+EVALUACIÓN FORMATIVA- EDUCACIÓN INCLUSIVA
+ODS-Objetivo de Desarrollo Sostenible, No. 4; ""Garantizar una educación inclusiva y equitativa
+de calidad y promover oportunidades de aprendizaje permanente para todos"" (ODS No. 4).
+La UNESCO, define la inclusión, ""como un proceso que ayuda a superar los obstáculos que
+limitan la presencia, la participación y los logros de todos los y las estudiantes y la equidad,
+""consiste en asegurar que exista una preocupación por la justicia, de manera que la educación
+de todos los y las estudiantes se considere de igual importancia."" (2017 pp. 13).
+La educación inclusiva en el decreto 1421 del 29 de agosto de 2017 se entiende como:
+""Un proceso permanente que reconoce, valora y responde de manera pertinente a la diversidad
+de características, intereses, posibilidades y expectativas de los niñas, niños, adolescentes,
+jóvenes y adultos, cuyo objetivo es promover su desarrollo, aprendizaje y participación, con
+pares de su misma edad, en un ambiente de aprendizaje común, sin discriminación o exclusión
+alguna, y que garantiza, en el marco de los derechos humanos, los apoyos y los ajustes
+razonables requeridos en su proceso educativo, a través de prácticas, políticas y culturas que
+0
+eliminan las barreras existentes en el entorno educativo""
+Todos a Aprender
+Mineducación
+EVALUACIÓN FORMATIVA- EDUCACIÓN INCLUSIVA
+En el Plan Nacional de Desarrollo:
+La educación inclusiva trasciende una respuesta educativa poblacional, generando ambientes
+de aprendizaje que promueven la participación efectiva de todos los estudiantes, desde sus
+características individuales y condiciones específicas. En este sentido, se apunta hacia una
+educación inclusiva soportada en los derechos humanos PND (2019).
+El Ministerio de Educación Nacional, por su parte:
+(...)es fundamental precisar que la educación inclusiva es una pieza clave de un proceso que va
+más allá de la dicotomía tradicional que existe entre inclusión y exclusión. La educación inclusiva
+no pretende adoptar posiciones obstinadas para definir quién o quiénes deben ser considerados
+como excluidos O incluidos. El único criterio existente trasciende esa dicotomía al posicionar el
+paradigma como garante de los Derechos Humanos y el principio según el cual entender y
+respetar la diversidad está estrictamente relacionado con una educación para todas y todos. MEN
+(2013).
+En la agenda internacional y nacional se marca el propósito de una educación inclusiva, esto
+0
+ratifica la necesidad de promover acciones puntuales para eliminar las barreras de acceso,
+permanencia, calidad y, por ende, reconocer las prácticas que obstaculizan los aprendizajes de los
+niños, niñas, adolescentes y jóvenes.
+Mineducación
+ELEMENTOS CLAVE PARA LA REFLEXIÓN
+Para pensar la evaluación, desde la perspectiva de la educación inclusiva, es
+importante reconocer algunos de los principios que se relacionan en el decreto
+1421 de 2017:
+Ajustes Razonables
+Currículo Flexible
+Diseño universal para el Aprendizaje
+Estos principios marcan una relación directa entre el aprendizaje, la enseñanza
+y la evaluación con un carácter formativo; centrando la atención en el
+aprendizaje y desarrollo del niño, un cambio de paradigma que coloca de
+presente el derecho que tienen todas las personas de aprender, educarse y
+desarrollarse de manera integral
+Mineducación
+ELEMENTOS CLAVE PARA LA REFLEXIÓN
+En una evaluación inclusiva, se entiende que todos los sujetos independientemente de
+sus características, aprenden, y que el aprendizaje es un factor trascendental en el
+desarrollo integral, es un derecho de cada niño, niña, adolescente o joven, y que como
+sociedad, familia, escuela y en el aula, tenemos la responsabilidad de atender a las
+características de cada uno, porque nadie aprende igual al otro.
+La valoración de los aprendizajes se hace a la medida de cada quien, a partir
+de lo que sabe, conoce, su experiencia y formas que tenga de relacionarse
+con el mundo
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=360;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/95/13/Documento recurso docentes PIAR y 1421.pdf;True;True;pdf;"Recurso de apoyo para docentes con relación a estudiantes con
+discapacidad.
+Cuando hay estudiantes con discapacidad en las aulas es importante
+tener en cuenta la siguiente información para guiar el proceso y
+garantizar los apoyos necesarios a cada uno de estos estudiantes.
+El proceso sería el siguiente: Primero, es necesario realizar una evaluación de las
+necesidades de cada estudiante e identificar los apoyos que se necesitan. Esto debe realizarse
+mediante la Construcción e implementación del Plan Individual de apoyos y ajustes
+razonables (PIAR) para cada uno de los estudiantes. Posterior a ello se realiza un Acta de
+Acuerdo con los compromisos que se adquieren frente las situaciones particulares requeridas
+por cada estudiante.
+Dentro de las responsabilidades de las secretarías de educación o la entidad que haga
+sus veces en las entidades territoriales certificadas se encuentra: Incluir en el plan
+territorial de formación docente la formación en aspectos básicos para la atención educativa
+a estudiantes con discapacidad de conformidad con lo previsto en la presente sección y,
+fortalecer este tema en los procesos de inducción y reinducción de los docentes y directivos
+docentes.
+Información pertinente: Decreto 1421 de 2017
+Atención educativa a la población con discapacidad
+La atención educativa a la población con discapacidad se enmarca en los principios de la
+educación inclusiva: calidad, diversidad, pertinencia, participación, equidad e
+interculturalidad, establecidos por la Ley 1618 de 2013 concordancia con las normas que
+hacen parte del bloque de constitucionalidad, así como en los fines de la educación previstos
+en la Ley 115 de 1994.
+Igualmente, se acogen los principios de la Convención de los Derechos de las personas con
+discapacidad, incorporada al derecho interno mediante la Ley 1346 de 2009, como
+orientadores de la acción educativa en las diferentes comunidades educativas, a saber: i) el
+respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las
+propias decisiones, y la independencia de las personas; ii) la no discriminación; iii) la
+participación e inclusión plenas y efectivas en la sociedad; iv) el respeto por la diferencia y
+la aceptación de las personas con discapacidad como parte de la diversidad y la condición
+humanas; v) la igualdad de oportunidades; vi) la accesibilidad; vii) la igualdad entre el
+hombre y la mujer; viii) el respeto a la evolución de las facultades de los niños y las niñas
+con discapacidad y de su derecho a preservar su identidad. Estos principios están enfocados
+1
+a favorecer las trayectorias educativas de las niñas, niños, adolescentes y jóvenes para su
+ingreso, permanencia, promoción y egreso en el sistema educativo.
+Algunas definiciones:
+1. Accesibilidad: medidas pertinentes para asegurar el acceso de las personas con
+discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la
+información y las comunicaciones, incluidos los sistemas y las tecnologías de la información
+y las comunicaciones, y a otros servicios e instalaciones. Estas medidas, incluirán la
+identificación y eliminación de obstáculos y barreras de acceso, de movilidad, de
+comunicación y la posibilidad de participar activamente en todas aquellas experiencias para
+el desarrollo del estudiante, para facilitar su autonomía y su independencia.
+2. Acceso a la educación para las personas con discapacidad: proceso que comprende las
+diferentes estrategias que el servicio educativo debe realizar para garantizar el ingreso al
+sistema educativo de todas las personas con discapacidad, en condiciones de accesibilidad,
+adaptabilidad, flexibilidad y equidad con los demás estudiantes y sin discriminación alguna.
+3. Acciones afirmativas: conforme a los artículos 13 de la Constitución Política y 2 de la
+Ley 1618 de 2013, se definen como: <<políticas, medidas o acciones dirigidas a favorecer a
+personas o grupos con algún tipo de discapacidad, con el fin de eliminar o reducir las
+desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan>>.
+En materia educativa, todas estas políticas, medidas y acciones están orientadas a promover
+el derecho a la igualdad de las personas con discapacidad mediante la superación de las
+barreras que tradicionalmente les han impedido beneficiarse, en igualdad de condiciones al
+resto de la sociedad, del servicio público educativo.
+4. Ajustes razonables: son las acciones, adaptaciones, estrategias, apoyos, recursos o
+modificaciones necesarias y adecuadas del sistema educativo y la gestión escolar, basadas
+en necesidades específicas de cada estudiante, que persisten a pesar de que se incorpore el
+Diseño Universal para el Aprendizaje, y que se ponen en marcha tras una rigurosa evaluación
+de las características del estudiante con discapacidad. A través de estas se garantiza que estos
+estudiantes puedan desenvolverse con la máxima autonomía en los entornos en los que se
+encuentran, y así poder garantizar su desarrollo, aprendizaje y participación, para la
+equiparación de oportunidades y la garantía efectiva de los derechos.
+Los ajustes razonables pueden ser materiales e inmateriales y su realización no depende de
+un diagnóstico médico de deficiencia, sino de las barreras visibles e invisibles que se puedan
+presentar e impedir un pleno goce del derecho a la educación. Son razonables cuando resultan
+pertinentes, eficaces, facilitan la participación, generan satisfacción y eliminan la exclusión.
+5. Currículo flexible: es aquel que mantiene los mismos objetivos generales para todos los
+estudiantes, pero da diferentes oportunidades de acceder a ellos, es decir, organiza su
+enseñanza desde la diversidad social, cultural, de estilos de aprendizaje de sus estudiantes,
+tratando de dar a toda la oportunidad de aprender y participar.
+2
+6. Diseño Universal del Aprendizaje (DUA): diseño de productos, entornos, programas y
+servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad
+de adaptación ni diseño especializado. En educación, comprende los entornos, programas,
+currículos y servicios educativos diseñados para hacer accesibles y significativas las
+experiencias de aprendizaje para todos los estudiantes a partir de reconocer y valorar la
+individualidad. Se trata de una propuesta pedagógica que facilita un diseño curricular en el
+que tengan cabida todos los estudiantes, a través de objetivos, métodos, materiales, apoyos y
+evaluaciones formuladas partiendo de sus capacidades y realidades. Permite al docente
+transformar el aula y la práctica pedagógica y facilita la evaluación y seguimiento a los
+aprendizajes. El diseño universal no excluirá las ayudas técnicas para grupos particulares de
+personas con discapacidad, cuando se necesiten.
+7. Educación inclusiva: es un proceso permanente que reconoce, valora y responde de
+manera pertinente a la diversidad de características, intereses, posibilidades y expectativas
+de los niñas, niños, adolescentes, jóvenes y adultos, cuyo objetivo es promover su desarrollo,
+aprendizaje y participación, con pares de su misma edad, en un ambiente de aprendizaje
+común, sin discriminación o exclusión alguna, y que garantiza, en el marco de los derechos
+humanos, los apoyos y los ajustes razonables requeridos en su proceso educativo, a través de
+prácticas, políticas y culturas que eliminan las barreras existentes en el entorno educativo.
+8. Esquema de atención educativa: son los procesos mediante los cuales el sector educativo
+garantiza el servicio a los estudiantes con discapacidad en todos los niveles de la educación
+formal de preescolar, básica y media, considerando aspectos básicos para su acceso,
+permanencia y oferta de calidad, en términos de currículo, planes de estudios, tiempos,
+contenidos, competencias, metodologías, desempeños. evaluación y promoción.
+9. Estudiante con discapacidad: persona vinculada al sistema educativo en constante
+desarrollo y transformación, con limitaciones en los aspectos físico, mental, intelectual o
+sensorial que, al interactuar con diversas barreras (actitudinales, derivadas de falsas
+creencias, por desconocimiento, institucionales, de infraestructura, entre otras), pueden
+impedir su aprendizaje y participación plena y efectiva en la sociedad, atendiendo a los
+principios de equidad de oportunidades e igualdad de condiciones.
+10. Permanencia educativa para las personas con discapacidad: comprende las diferentes
+estrategias y acciones que el servicio educativo debe realizar para fortalecer los factores
+asociados a la permanencia y el egreso de los niños, niñas, adolescentes, jóvenes y adultos
+con discapacidad en el sistema educativo, relacionadas con las acciones afirmativas, los
+ajustes razonables que garanticen una educación inclusiva en términos de pertinencia,
+calidad, eficacia y eficiencia y la eliminación de las barreras que les limitan su participación
+en el ámbito educativo.
+11. Plan Individual de Ajustes Razonables (PIAR): herramienta utilizada para garantizar
+los procesos de enseñanza y aprendizaje de los estudiantes, basados en la valoración
+pedagógica y social, que incluye los apoyos y ajustes razonables requeridos, entre ellos los
+curriculares, de infraestructura y todos los demás necesarios para garantizar el aprendizaje,
+la participación, permanencia y promoción. Son insumo para la planeación de aula del
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=201;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ab/81/GuiaDeNavegacion_EC2.pdf;True;True;pdf;"GUIA DE
+NAVEGACIÓN
+CICLO DE POLÍTICA PÚBLICA CON ÉNFASIS EN LA
+FORMULACIÓN Y EVALUACIÓN DE LA POLÍTICA
+Ministerio de
+Educación Nacional
+Calle43 No 57-14
+Bienvenidos
+Welcome
+MINEDUCACIÓN
+Escuela
+Corporativa
+Introducción
+Bienvenido al componente virtual del conversatorio ""Ciclo de Política Pública con Énfasis en la
+Formulación y Evaluación de la Política"", de la Escuela Corporativa del Ministerio de Educación
+Nacional. En este documento encontrará las indicaciones necesarias para usar los recursos
+virtuales dispuestos en la plataforma virtual del conversatorio.
+Organización de los conversatorios de la Escuela Corporativa del Ministerio
+de Educación Nacional en la plataforma virtual
+Al ingresar al conversatorio en la plataforma virtual de la Escuela Corporativa, el colaborador
+encontrará tres tipos de elementos: bienvenida al conversatorio, encuentro y aprendizaje
+organizacional.
+Estos elementos se organizan en la plataforma de la Escuela Corporativa de la
+siguiente manera:
+BIENVENIDA AL CONVERSATORIO
+APRENDIZAJE ORGANIZACIONAL
+1
+Contexto de la Escuela Corporativa del Ministerio de Educación Nacional.
+2
+¿Hablar de Política Pública es redundar?
+3
+¿Cuál es la Política Pública Educativa en Colombia?
+El enfoque diferencial. ¿Un reto para la política pública educativa?
+5
+Evaluar la política pública colombiana en educación ¿cómo vamos?
+Podrá volver a este menú haciendo clic en el icono
+2
+A continuación, se presenta la organización y contenidos de cada uno de
+estos elementos.
+Bienvenida al conversatorio
+Al hacer clic en el botón
+Smy
+(Bienvenida al conversatorio), el colaborador conocerá la
+información general del conversatorio, sus propósitos y cronograma. En este botón también
+podrá descargar la guía del participante y lecturas de apoyo, información necesaria para el
+desarrollo de los encuentros virtuales del conversatorio. También podrá descargar una guía
+para grabación de videos con dispositivos móviles.
+El botón de acceso Bienvenida al conversatorio aparece como se muestra a continuación
+BIENVENIDA AL CONVERSATORIO
+Encuentros
+Al hacer clic en el botón asociado al encuentro (indicado por el número en un círculo, como en
+el siguiente ejemplo:
+1
+el colaborador accederá a las preguntas y contenidos que articulan cada uno de los encuentros
+virtuales del conversatorio.
+1
+La Escuela Corportiva del Ministerio de Educación Nacional: una
+estrategia de gestión del conocimiento en la organización
+Ejemplo de botón de acceso a un encuentro
+Al hacer clic en el botón de acceso al encuentro correspondiente, el colaborador encontrará la
+descripción del encuentro y su propósito. Adicionalmente, encontrará tres botones para acceder
+a los recursos interactivos: uno para ingresar al encuentro (Encuentro virtual), otro para acceder
+a la actividad colaborativa propuesta por el encuentro (Actividad colaborativa) y un tercero para
+descargar la guía del participante correspondiente al encuentro que está realizando (Guía del
+participante).
+3
+Encuentro virtual
+Al hacer clic en el botón Encuentro virtual, ingresará al interactivo correspondiente al encuentro
+virtual.
+ENCUENTRO VIRTUAL 1
+Ejemplo de botón de acceso al interactivo asociado al encuentro
+En la pantalla de inicio, haga clic en el botón ingresar.
+Ministerio de
+Educacion Nacional
+Escuela
+Corporativa
+ingresar
+GOBIERNO DE COLOMBIA
+MINEDUCACIÓN
+Imagen de la pantalla de inicio del encuentro
+4
+Una vez en el recurso interactivo, navegue usando las flechas para avanzar y retroceder
+Estas flechas se encuentran en la parte superior derecha de la pantalla.
+Inicio
+Bienvenida al módulo
+Apreciados participantes, bienvenidos al encuentro
+Contexto de la Escuela Corporativa del Ministerio de
+Educación Nacional.
+Los invito a ser partícipes en el conversatorio como actores
+clave de la dinamización del proceso de gestión del
+conocimiento para comprender la importancia y el aporte
+que puede generar este conversatorio, dentro del
+contexto propio de la naturaleza de la Escuela Corporativa.
+GOBIERNO DE COLOMBIA
+6 MINEDUCACIÓN
+Escuela
+Corporativa
+Imagen del interactivo
+(En la parte superior derecha se observan las flechas de navegación)
+El interactivo del encuentro virtual presenta los campos de acción, los resultados de aprendizaje
+esperados para el encuentro y el mapa de aprendizaje de cada encuentro.
+Campos de acción:
+Es la relación entre procesos (planear, desarrollar, monitorear o evaluar) y proyectos (de las
+oficinas o niveles educativos) donde se ubica el quehacer de los colaboradores del Ministerio de
+Educación Nacional que participan de los conversatorios.
+Campos de ación
+Imagen del botón ""Campos de acción""
+5
+Resultados de aprendizaje:
+Los resultados de aprendizaje concretan los objetivos o propósitos del conversatorio en función
+de un conjunto de desempeños que se esperan como producto del mejoramiento personal,
+profesional o social que posibilita cada encuentro en particular y el conversatorio en su totalidad.
+En este sentido, orientan al participante y al facilitador en el reconocimiento de aprendizajes de
+un encuentro y un conversatorio en general.
+Resultados de aprendizaje
+Imagen del botón ""Resultados de aprendizaje""
+Mapa de aprendizajes:
+El mapa de aprendizaje presenta los temas y preguntas que articulan cada encuentro virtual.
+2.
+¿Qué comprende la
+¿Qué es
+gestión del conocimiento
+la escuela Corporativa?
+en el MEN?
+Ejemplo de mapa de aprendizaje
+Cada pregunta o temática que compone el mapa de aprendizaje se desarrolla a través de un
+video y una serie de actividades asociadas con la información presentada en el video. El video
+y las actividades le ayudarán a familiarizarse con los contenidos y conceptos necesarios para el
+desarrollo de cada conversatorio.
+Actividades
+Para interactuar con las actividades propuestas, al hacer clic en el icono
+podrá acceder a
+información adicional para saber cómo interactuar en cada actividad.
+-Una vez haya registrado su respuesta haciendo clic en el icono
+el interactivo le ofrecerá
+una retroalimentación que amplía la información y las referencias para la apropiación de los
+contenidos del encuentro.
+-Podrá realizar cada ejercicio cuantas veces lo desee haciendo clic en el icono o conocer las
+opciones adecuadas para la pregunta haciendo clic en el icono
+6
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=191;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/db/4a/MEN_PTA_C8_ANEXO2_NUMERICAS.pdf;True;True;pdf;"Laboratorio - El cambio y el pensamiento variacional
+ANEXO 2:
+ACTIVIDAD 2: Regularidades numéricas.
+Utilice el ""material de números"" para realizar las siguientes secuencias:
+o
+2 6 8 10 12
+Halle el patrón:
+Trabajo en equipo
+Completa la secuencia:
+1 3 5
+Halle el patrón:
+Utilice el ""material de figuras"" para crear otra secuencia numérica y
+socialice con un compañero para que él halle el patrón, y viceversa.
+-
+-
+-
+-
+-
+-
+-
+Trabajo en equipo
+E
+Halle el patrón:
+Con el equipo de trabajo realice una reflexión sobre la primera secuencia
+en relación con las siguientes preguntas y organice una presentación
+para socializar:
+Trabajo en equipo
+¿Qué cambia?
+¿Qué hace que cambie?
+¿Cómo cambia?
+¿Cuánto cambia?
+Busca otra forma distinta de representar la situación.
+1
+MEN.
+(2017). Cuadernillo del estudiante Grado 2, Situación 4, Centro 1 - Banderín de fiesta. Textos del Programa Todos a Aprender
+construidos en el marco del convenio PREST Póle regional pour l'einsegnement de la science et de la technologie, Ministerio de
+Educación Nacional y Universidad de los Andes, p 16.
+Laboratorio - El cambio y e pensamiento variacional
+ANEXO 2:
+MATERIAL DE NÚMEROS - PARA RECORTAR
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+Laboratorio - El cambio y el pensamiento variacional
+ANEXO 2:
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=163;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/a6/f4/EnfoqueEducacionInclusiva.pdf;True;True;pdf;"ENFOQUE DE EDUCACIÓN INCLUSIVA
+EN LA ACTUALIZACIÓN PEDAGÓGICA
+DE LOS EDUCADORES
+Marzo 2017
+TODOS POR UN
+MINEDUCACIÓN
+NUEVO PAÍS
+PAZ EQUIDAD EDUCACION
+ENFOQUE DE EDUCACIÓN INCLUSIVA EN LA ACTUALIZACIÓN PEDAGÓGICA DE LOS EDUCADORES
+Acuerdos Básicos
+Tabla de contenido
+1
+ENFOQUE DE EDUCACIÓN INCLUSIVA
+1
+1.
+Alcance de este documento
+4
+2.
+Objetivo general
+4
+3.
+Objetivos específicos
+4
+4.
+Concepto básico: ¿Qué entendemos por Educación inclusiva?
+4
+5.
+Conceptos asociados
+6
+5.1. Barreras:
+6
+5.2.
+Diseño Universal:
+6
+5.3.
+Apoyos, acomodaciones o ajustes razonables:
+6
+6.
+¿Cuáles son las dimensiones de la Educación inclusiva?
+6
+6.1.
+Dimensión A: Crear CULTURAS inclusivas
+7
+6.2.
+Dimensión B: Elaborar POLÍTICAS inclusivas
+7
+6.3.
+Dimensión C: Desarrollar PRÁCTICAS inclusivas
+7
+7.
+¿Cuáles son los principios de la Educación Inclusiva?
+8
+7.1.
+Participación:
+8
+7.2. Diversidad:
+9
+7.3. Interculturalidad:
+9
+7.4.
+Equidad:
+9
+7.5.
+Pertinencia:
+10
+7.6.
+Calidad:
+10
+8.
+¿Cuáles son los actores de la educación inclusiva?
+10
+8.1.
+Estudiantes
+10
+8.2.
+Las familias
+10
+8.3.
+Docentes y tutores PTA:
+11
+8.4.
+Directivos Docentes (rectores, coordinadores, directores rurales y directivos sindicales)
+11
+8.5.
+Personal de Apoyo
+11
+8.6.
+Otros miembros de la comunidad educativa
+11
+9. Gestión escolar
+11
+10.
+Aspectos claves para la formulación y desarrollo de proyectos con enfoque de Educación Inclusiva . 12
+2
+10.1.
+En la caracterización de los estudiantes
+12
+10.2.
+En la planeación y diseño de la propuesta:
+12
+10.3.
+En la evaluación y seguimiento al desarrollo de la propuesta:
+12
+10.4.
+En la documentación y sistematización de la propuesta:
+13
+10.5.
+Marco normativo:
+13
+11.
+Bibliografía de referencia
+15
+3
+ENFOQUE DE EDUCACIÓN INCLUSIVA EN LA ACTUALIZACIÓN PEDAGÓGICA DE LOS EDUCADORES
+Acuerdos Básicos
+En el marco de los cursos de actualización para educadores en servicio, el Ministerio de Educación Nacional -
+MEN- ha incluido como aspecto general el que los educadores implementen con enfoque de educación inclusiva
+sus propuestas de trabajo o proyectos. Por lo anterior se hace necesario unificar criterios que den cuenta del
+enfoque de educación inclusiva en el desarrollo de una propuesta de trabajo pedagógico o un proyecto aplicado
+en una Institución Educativa.
+1. Alcance de este documento
+Este documento es un referente sobre el enfoque de inclusión, dirigido a las universidades que orientan el
+proceso de actualización pedagógica de los educadores en servicio, a partir de elementos que les apoye a la hora
+de delimitar y elaborar sus propuestas de indagación, auto reconocimiento y mejoramiento.
+2. Objetivo general
+Definir unos criterios básicos sobre enfoque de educación inclusiva que sirvan de referente para las universidades
+que orientan el proceso de actualización pedagógica de los educadores en servicio de tal forma que se tengan
+en cuenta en la elaboración y acompañamiento de las propuestas pedagógicas y de indagación que se formulen
+y desarrollen.
+3. Objetivos específicos
+Unificar criterios sobre el enfoque de educación inclusiva que deben tener en cuenta los cursos de
+actualización para educadores en servicio, esto en el marco de la autonomía universitaria y de las propuestas
+de formación aprobadas por el MEN.
+Garantizar que los proyectos y propuestas de indagación de los educadores participantes, integren
+realmente los elementos básicos que permitan un enfoque de educación inclusiva en su práctica educativa.
+4. Concepto básico: ¿Qué entendemos por Educación inclusiva?
+La Educación Inclusiva es un proceso permanente que reconoce, valora y responde de manera pertinente a la
+diversidad de características, necesidades, intereses, posibilidades y expectativas de todos los niños, niñas,
+adolescentes, jóvenes y adultos, con pares de su misma edad, a través de prácticas, políticas y culturas que
+4
+eliminan las barreras para el aprendizaje y la participación; garantizando en el marco de los derechos humanos
+cambios y modificaciones en el contenido, los enfoques, las estructuras y las estrategias,
+El enfoque de derechos constituye la base de la educación inclusiva. Esto va estrictamente relacionado con la
+construcción de ciudadanía cuyo marco se compone del respeto, la defensa y la promoción de los derechos a
+través del desarrollo de unas habilidades y conocimientos necesarios para construir convivencia y participar
+democráticamente.
+El objetivo básico de la Educación inclusiva es lograr que las niñas, niños, adolescentes, jóvenes y adultos logren
+en su paso por la escuela:
+Aprender
+Desarrollarse
+Participar
+Tomar decisiones autónomas e informadas
+Ejercer sus derechos y asumir las responsabilidades de su ejercicio
+Dada la evolución de la atención a personas con discapacidad, es pertinente realizar algunas precisiones que
+permiten entender con claridad los alcances de la educación inclusiva.
+El concepto de educación inclusiva no es sinónimo de inclusión social. Como estrategia, hace parte de
+una multiplicidad de alternativas que buscan promover e implementar el proceso referente a la inclusión
+social. Sin embargo, el referente educativo es preponderante ya que, con frecuencia, la exclusión social
+y de manera más precisa el acto que conduce a excluir al otro, se convierten en un problema relacionado
+con la educación.
+El concepto de integración no es sinónimo de inclusión, en consecuencia, educación inclusiva y
+""necesidades educativas especiales"" (NEE) no son sinónimos. La integración hace referencia a un
+modelo educativo que antecede al de la educación inclusiva. Se trata de la visión propia de los años 80 y
+90, la cual estaba enfocada en atender a las personas en situación de discapacidad y/o con talentos y
+capacidades excepcionales bajo el término ""necesidades educativas especiales"" con el fin de
+involucrarlos y adaptarlos al contexto educativo, el cual fue replanteado por la UNESCO (2000) y
+cambiado por barreras para el aprendizaje y participación. La acción de incluir trasciende la integración
+y se orienta a considerar la riqueza propia de la diversidad puesto que cambia la mirada centrada en las
+""dificultades o déficit"" por una posibilidad de mirar el entorno, el cual debe ser el que se ajuste y adapte
+a las particularidades de todos y todas, identificando y trabajando en las barreras que existen para el
+aprendizaje y la participación. No se trata únicamente de atender a un grupo social específico por medio
+de acciones transitorias, sino de ofrecer a todos los niños, niñas, jóvenes y adultos un conjunto sólido de
+políticas institucionales que buscan desde el primer momento la igualdad de oportunidades.
+No es lo mismo referirse a una educación inclusiva que a una inclusión educativa. Esta última se acerca
+a la dicotomía conceptual tradicional mencionada en el punto anterior y alude más a una intención de
+incluir grupos particulares fuera del marco de una educación para todas y todos. La diferencia conceptual
+5
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=195;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/c3/68/ResenaDeLaEscuelaExpansivaEscuelaCompetitivaDosModosModernizacionAmericaLatina.pdf;True;True;pdf;"reseñas educativas
+una revista de reseñas de libros
+Martínez Boom, Alberto. (2004). De la escuela expansiva a la escuela
+competitiva: Dos modos de modernización en América Latina. Bogotá:
+Editorial Anthropos, Convenio Andrés Bello.
+xv+459 pp.
+ISBN 84-7658-684-1
+Reseñado por Olga Maya Alfaro
+Universidad Pedagógica Nacional. México DF
+16 Octubre 2005
+Ingredientes para un pensamiento
+crítico en América Latina
+Esta reseña tiene como propósito presentar un panorama del trabajo que realiza
+Martínez Boom en cuanto a las transformaciones de la educación como experiencia histórica en
+América Latina y su relación con los modelos de desarrollo que han contribuido la construcción
+de los estados nacionales. Las aportaciones que se hacen en este trabajo, sugieren repensar
+dichas transformaciones para que los protagonistas del fenómeno educativo propongan
+alternativas reflexivas, imaginativas y viables en los diferentes contextos de la región.
+El planteamiento de Martínez Boom provoca la de-construcción de saberes acerca de
+reformas de la modernización educativa. Coincido con el autor del prólogo¹ 1 cuando señala que
+la lectura de este libro confronta a quienes de alguna manera hemos participado en las
+estrategias de cambio que los países de la región han puesto en marcha a través de las reformas
+educativas durante los años noventa. Situación que no ha sido fácil cuestionar ante el
+agotamiento de los paradigmas de las ciencias sociales.
+Sin embargo el trabajo de Martínez Boom abre otras posibilidades al análisis y a la
+crítica fundamentada a través de la educación comparada, él mismo apunta que se inscribe en el
+cuestionamiento de corte neomarxista que hacen algunos investigadores acerca de la
+globalización, el neoliberalismo y sus impactos en la educación. Pero también se distancia de
+algunos al no aceptar las nociones de calidad educativa y profesionalización docente, por ser
+parte de lo significados que envuelven los discursos predominantes
+La dimensión histórica que recupera el autor permite comprender las mutaciones y
+confrontaciones que los sistemas educativos han tenido en los diferentes modelos de desarrollo
+económico, político y social, desde la década de los cincuenta del siglo pasado. La genealogía
+que propone Foucault, es el referente base que utiliza para analizar el origen y la dinámica de
+los
+acontecimientos y las condiciones que los han hecho posibles, más allá de voluntades y
+decisiones personales de los sujetos.
+De la escuela expansiva a la escuela competitiva
+2
+Esta investigación pretende demostrar como la modernización en sus expresiones
+expansiva y cuantitativa han orientado la racionalización de la educación desde una óptica
+sistémica ofreciendo ""respuestas flexibles a las presiones económicas que proceden de las
+agencias nacionales O internacionales O internacionales"" (p.15). En este sentido el autor se
+deslinda de los diagnósticos que han invadido y justificado el campo de las políticas educativas y
+propone un conjunto de problemas que cuestionan la lógica de los discursos que han
+predominado en la región e incita a pensar más allá de los que promueven y enfatizan.
+Por ello, su propuesta se encamina hacia la búsqueda de otros horizontes conceptuales
+que posibiliten ""un pensamiento como ejercicio de la diferencia, que va más allá de la simple
+crítica O de la aceptación del consenso, que no es otra cosa que la unanimidad frente al que
+dicta"" (p.39). En este sentido el análisis hace hincapié en la complejidad y heterogeneidad
+del
+fenómeno educativo como práctica social que se concreta en instituciones, sujetos y saberes,
+razón por la cual los países han construido de manera histórica la trama de la modernización en
+sus dos expresiones arriba señaladas.
+La obra se estructura en tres bloques articulados que reflexionan acerca de los siguientes
+aspectos:
+1.
+La consolidación de los sistemas educativas en cuanto a su acceso y masificación, en
+cuan a la posibilidad que tuvieron los sectores sociales de asistir a la escuela gracias al
+modelo de industrialización y de desarrollo que caracterizó a los diferentes países de la
+región entre los años cincuenta y setenta del siglo XX. Este fenómeno lo refiere el autor
+como la escuela expansiva, por su acceso y universalización.
+2.
+Las crisis estructurales que evidenciaron el agotamiento del modelo de desarrollo
+económico y la ineficiencia de los sistemas escolares. De ello se derivó lo que el autor
+denomina ""el giro estratégico"", el cual se ha caracterizado por los discursos que
+replantean las funciones de la escuela y del maestro, a partir de las necesidades básicas
+de aprendizaje y el desarrollo humano. Según el autor son desde la ""década perdida"" los
+paradigmas predominantes en las políticas educativas.
+3. La reconversión de los sistemas educativos enfocada a la calidad y la equidad en el
+marco de la globalización que impone la lógica del mercado y la competitividad.
+El
+autor lo denomina la escuela competitiva.
+La escuela expansiva
+El libro en sus primeros capítulos desarrolla el bloque que se refiere a la modernización
+que surge en los años cincuenta del siglo XX, la cual se caracterizó por el crecimiento y
+desarrollo social. Hace alusión a la teoría sociológica de la movilidad que fundamentó el
+concepto de educación hacia el ""mejoramiento económico y ascenso social"" (p.47), esta
+perspectiva deja ver al estado como regulador social e ideológico, el cual subrayó su papel para
+dirigir y poner en marcha reformas educativas que enfatizaron el lugar de la oferta.
+La escolarización estrategia por la cual el estado apostó para su consolidación
+regulatoria significó para los sistemas educativos de Latinoamérica su expansión en sentido
+horizontal y vertical, lo que implicó que entre los años cincuenta y setenta del siglo pasado,
+crecieran y se diversificaran en diferentes niveles educativos, además de abarcar diferentes
+poblaciones hasta entonces marginadas de los beneficios educativos. La relación entre
+escolarización, desarrollo social y trabajo, fue la clave de esta modernización.
+Asimismo las teorías de sistemas y de capital humano, sostiene el autor, nutrieron el
+concepto de educación para concebirlo como un sistema de inversión, posible de planificación
+y control acorde con los postulados sociales y económicos de la modernización de estas
+décadas.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=181;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/53/98/MEN_PTA_C3_ANEXO1_FICHAS.pdf;True;True;pdf;"EXPERIMENTACIÓN
+Estas avivan la curiosidad y el asombro de los
+niños y las niñas, al tiempo que les invita a la
+observación, la manipulación de objetos, la
+indagación, la escucha atenta, el planteamiento de
+hipótesis y preguntas que les permite comprender
+cómo funcionan las cosas y el mundo que habitan.
+En este sentido, las experiencias en torno a la
+investigación de los fenómenos naturales, la
+exploración de los seres vivos, las características de
+los objetos, el cuidado del medio ambiente, las
+leyes físicas y químicas entre otros aspectos, les
+lleva a comprobar O contrastar sus propias ideas.
+CONSTRUCCIÓN
+Estas invitan a descubrir las características,
+propiedades y atributos de los objetos al
+explorarlos, jugar a armar y desarmar, al
+transformarlos, encontrarle diversos usos,
+al
+tiempo
+que
+se
+impulsa
+la
+representación, la creatividad,
+la
+transformación por medio de una gran
+diversidad de elementos estructurados,
+desestructurados y de la naturaleza
+CUERPO, MOVIMIENTO
+EXPRESIÓN DRAMÁTICA
+Estas invitan al descubrimiento de las
+posibilidades corporales de los niños y las
+niñas, al promover situaciones en que se
+expresan al hacer gestos y voces a la vez que
+trepan, corren, saltan, recorren caminos,
+superan obstáculos, exploran movimientos.
+Fortalecen la conciencia corporal,
+el
+reconocimiento del otro, el reconocimiento
+del espacio, el manejo de la respiración, la
+manipulación de objetos, la expresión
+corporal, entre otros.
+SONIDO Y MÚSICA
+Potencian la sensibilidad, percepción y disfrute de
+los sonidos de la naturaleza y los objetos
+cotidianos, al tiempo que disfruta de las
+expresiones musicales. Permite a los niños y las
+niñas reconocer, diferenciar, comparar sonidos,
+timbres, ritmos, voces, altura, duración, intensidad,
+melodías, armonías, en el marco de la expresión
+corporal, la experimentación, a la vez provoca
+situaciones que promueven la creación de sus
+propias ritmos, melodías, voces, sonidos y
+expresiones musicales.
+GRÁFICA, PLÁSTICA
+Y VISUAL
+Estas impulsan la creación, la expresión, la
+representación, la apreciación y la comunicación de
+los niños y las niñas al interactuar con una gran
+variedad de materiales, en las que sus ideas,
+sentimientos, emociones, pensamientos y formas
+de comprender el mundo toman formas, colores,
+sabores, texturas, tamaños, volumen, entre otras,
+al mismo tiempo que promueve la observación,
+reconocimiento y valoración de las expresiones y
+representaciones de otros, de su cultura y de otros
+lugares.
+NARRATIVAS
+Provocan en los niños y las niñas el disfrute y
+acercamiento a la cultura oral y escrita de
+acuerdo con las particularidades y contextos
+de cada territorio. Promueve que los niños y
+las niñas se expresen de manera oral, gráfica,
+no verbal, corporal; al hablar, escuchar,
+contar, cantar, garabatear, representar, dar
+sentido y crear, por medio del disfrute de la
+literatura, el juego dramático y simbólico.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=179;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/b3/6c/MEN_PTA_C2_ANEXO5_FORMACION.pdf;True;True;pdf;"UNIVERSITAT DE BARCELONA
+Divisió de Ciències de l'Educació
+Facultat de Pedagogia
+Departament: Mètodes d'Investigació
+i Diagnóstic en Educació
+LA REFLEXIÓN EN LA FORMACIÓN DEL PROFESOR
+Realizada por:
+Marcos Antonio Latorre Beltrán
+Dirigida por:
+Dra. M. Luisa Rodríguez Moreno
+Para la obtención del Grado de Doctor en Ciencias de la Educación.
+Barcelona, Enero de 1992.
+Capítulo 8
+INVESTIGACIÓN Y FORMACIÓN DEL PROFESOR
+El profesor es como un jardinero que trata a las diversas plantas de
+forma diferente y no como un agricultor a gran escala que administra
+tratamientos estandarizados a plantas tan normalizadas como sea
+posible (Stenhouse, 1979, cit. en Hopkins, 1985).
+INTRODUCCIÓN
+En este capítulo nos proponemos examinar la relación entre la investigación
+educativa y los profesores o prácticos de la educación. Para conseguirlo, en
+primer lugar, se describen algunos aspectos conceptuales de la investigación
+educativa, si bien de forma muy breve, y se señalan y describen los principales
+enfoques de investigación educativa siguiendo la terminología propuesta por los
+profesores Pollard y Tann (1987): científico o positivista, macrosociológico,
+interpretativo e investigación acción.
+A continuación se considera la relación entre investigación y enseñanza; el papel
+que juega la primera en las diferentes concepciones de la segunda: la enseñanza
+como actividad técnica o como actividad reflexiva. Luego se considera el tema
+de la investigación y los profesores poniendo especial énfasis en los papeles que
+los profesores han venido jugando en la investigación. Se recogen algunos
+estudios y se señalan los principales papeles que el profesor ha realizado: como
+co-investigador, como sujeto de investigación, como colaborador en la política
+educativa o como colaborador en la diseminación y aplicación de la investiga-
+ción.
+Finalmente, se estudia el papel del profesor como investigador; cómo surge esta
+idea, dónde se fundamenta, etc. Se detallan los efectos que la investigación
+realizada por los profesores tiene sobre ellos mismos y en la comunidad
+educativa, y se hace un breve comentario sobre los cursos orientados a la
+indagación del profesor.
+254
+ASPECTOS CONCEPTUALES DE LA INVESTIGACIÓN EDUCATIVA
+No es nuestro propósito en este capítulo describir y desarrollar el tema de la
+investigación educativa desde planteamientos o perspectivas de los investigadores
+académicos, que nos llevarían a considerar aspectos tales como: la naturaleza de
+la investigación, sus paradigmas o modalidades, o las cuestiones epistemológicas
+y metodológicas de la investigación, labor que viene recogida en manuales, libros
+o monográficos de investigación educativa (por ejemplo: Bartolomé y otros,
+1982; Bisquerra, 1989; Cohen y Manion, 1985; De Miguel, 1988; Keeves, 1988;
+Wittrock, 1986), sino más bien, acercarnos a la investigación desde el punto de
+vista de los profesores. Es decir, considerar cuáles han sido las relaciones entre
+la investigación y los profesores, cómo se han desarrollado éstas, qué repercu-
+siones tiene la investigación en los profesores, qué enfoques de investigación son
+más cercanos al profesor, etc. Sin embargo, ello no quiere decir que no hagamos
+unas breves consideraciones sobre el significado y naturaleza de la investigación
+educativa, como marco de entrada en el tema.
+Conceptualizar o definir qué se entiende por investigación educativa resulta una
+tarea harto difícil. La noción de investigación ha ido cambiando con el tiempo
+y evolucionando hacia nuevos enfoques y modos de entender la educación. El
+significado de investigación educativa está vinculado a las distintas tradiciones
+de investigación que con el tiempo han ido surgiendo en el campo social. De tal
+forma que podemos encontrar tantas concepciones de investigación como de
+enfoques existentes de la misma. Asumimos la idea de Keeves (1988) de que
+existe una unidad de investigación educativa>> con diferentes enfoques
+mutuamente complementarios (en Arnal et al., 1990).
+Así pues, para acercarnos al significado de investigación educativa, una de las
+vías que nos facilita la tarea es considerar cómo es conceptualizada por los
+diferentes enfoques de investigación: cómo la definen, cuáles son los criterios de
+valor, cómo relacionan la teoría con la práctica, qué papel desempeñan los
+profesores, etc.
+255
+Enfoques de investigación educativa
+La mayor parte de los autores tienden a agrupar las orientaciones o perspectivas
+de investigación alrededor de dos o tres enfoques: cuantitativa versus cualitativa
+(Cook y Reichardt, 1986), o empírico analítica, interpretativa y crítica (Keeves,
+1988). No obstante, en este apartado vamos a seguir la clasificación que
+proponen Pollard y Tann (1987) debido a que nos parece que se ajusta mejor a
+los planteamientos que venimos defendiendo, sin que ello signifique que
+invalidemos las otras alternativas. Estos autores han identificado cuatro grandes
+enfoques de investigación educativa: el enfoque científico o positivista, el enfoque
+macrosociológico, el enfoque interpretativo y el enfoque de la investigación-
+acción.
+a) Enfoque cientifico-positivista
+Este es el modelo científico que tradicionalmente ha enfatizado el carácter
+empírico de la investigación, apoyándose en los mismos criterios de cientificidad
+propios de las ciencias naturales. Es el modelo clásico que ha servido a las
+ciencias físicas durante muchos años. Sus etapas más representativas son estas:
+-
+reconocer y definir un problema
+-
+acumular observaciones
+- clasificar los datos
+- plantear una hipótesis
+-
+diseñar un experimento para probar la hipótesis
+-
+analizar e interpretar los nuevos datos
+-
+formular explicaciones generalizables.
+Entre los rasgos más importantes que caracterizan este enfoque cabe señalar: a)
+la investigación se apoya en una hipótesis, b) ésta se debe poder comprobar y
+replicar, y c) los resultados que se obtienen proporcionan una explicación
+generalizable. Cuando la investigación se califica de científica>> usualmente lleva
+aparejada dos rasgos que se consideran cruciales: uno, que es <<sistemática>> en
+su realización y otro, que es <<objetiva>> en la interpretación de los datos recogidos
+y en las conclusiones extraídas (Pollard y Tann, 1987).
+256
+"

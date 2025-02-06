@@ -1,0 +1,3123 @@
+﻿description;web_url;s3_object_path;exists_in_s3;exists_metadata_json;file_extension;textract
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=335;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/cb/ba/ElSentidoDeLaEducacionModulo3.pdf;True;True;pdf;"MÓDULO 3
+EL SENTIDO DE LA EDUCACIÓN MEDIA
+La información presentada en este texto procede por completo del documento Informe
+Propositivo de la Oferta de Educación Media, elaborado el 8 de agosto de 2012 por
+QUALIFICAR, en el marco del Convenio de Cooperación NAJ 643, celebrado entre el
+Ministerio de Educación Nacional (MEN), la Organización de las Naciones Unidas para la
+Infancia (UNICEF) y la Organización Internacional para las migraciones (OIM).
+5.1. Sentido de la Educación Media
+El sentido revisa el carácter y los fines otorgados a de la Educación Media, que se concretan
+en las concepciones curriculares en torno a las cuales se organizan los procesos de
+aprendizaje.
+5.1.1.Fines de la Educación Media
+La Educación Media aparece como un nivel educativo sin identidad propia. Lo que se explica
+por la falta de una reflexión social, desde el nivel nacional al local, en la que confluyan las
+miradas educativa, social, cultural y productiva sobre lo que se espera sean los propósitos
+de la Educación Media en relación con la formación de los jóvenes y la contribución social
+y cultural, y no exclusivamente en materia de talento humano, al desarrollo territorial.
+La mirada de la Educación Media a sus actores beneficiarios, los jóvenes, como estudiantes
+sin su necesaria ubicación en un momento particular del desarrollo psicológico, afectivo,
+socialy cultural, ha de alguna manera incidido en que se desconozcan propósitos formativos
+más generales y se intente resolver las demandas en relación con su preparación específica
+para el trabajo.
+En el cuadro 6 se presentan los objetivos de la Educación Media que se han planteado
+desde el marco normativo colombiano y los desarrollos de política de los últimos años.
+Cuadro 6. Objetivos de la Educación Media en Colombia 1903-2010
+AÑO DE
+OBJETIVOS DE LA EDUCACIÓN MEDIA
+REFERENCIA
+Enseñar las nociones de orden moral e intelectual; a su vez,
+1903
+los principios aplicables a la industria, agricultura y comercio; e
+impulsar a la juventud por el camino de la industria.
+Suministrar una educación general; en ciertos sectores se orienta
+1962-1974
+a una formación profesional de nivel medio. Comprende en una
+mayor parte la educación de la adolescencia.
+I1I
+I
+MÓDULO 3
+AÑO DE
+OBJETIVOS DE LA EDUCACIÓN MEDIA
+REFERENCIA
+Complementar la formación integral; identificar intereses,
+aptitudes y habilidades; capacitarse prácticamente para continuar
+1974
+estudios superiores o desempeñar más eficientemente una
+determinada función en su comunidad; y adquirir una formación
+académica y vocacional de tipo general.
+1978-1982
+Complementar la primaria o preparar para el siguiente nivel
+educativo.
+El estudiante ha de adquirir en este nivel los conocimientos y
+1982
+destrezas básicos que, además de prepararlo para continuar
+estudios superiores, lo orienten hacia un campo de trabajo.
+Proporcionar a los estudiantes un mínimo de conocimientos y
+habilidades que aseguren una formación integral, física, psíquica,
+intelectual, moral, espiritual, social, afectiva, ética y cívica;
+1991-1994
+despertar interés y gusto por el conocimiento; brindar los saberes
+y condiciones para participar en la vida económica y política de la
+nación; hacerlos capaces de criticar; ponerlos en contacto con las
+realizaciones culturales y morales de la humanidad; y ofrecer los
+saberes y condiciones para acceder al campo productivo.
+Formar competencias laborales generales tanto en la Educación
+Media académica como técnica.
+2002
+Formar competencias específicas en la media técnica a través de
+alianzas con el SENA y el sector productivo.
+2003
+Formar competencias básicas en lenguaje y matemáticas.
+2004
+Formar competencias ciudadanas.
+Formar competencias en ciencias.
+Fortalecer competencias laborales como impulso a los procesos
+2006
+de articulación entre la Educación Media y la educación superior, y
+la educación para el trabajo y el desarrollo humano.
+Fortalecer competencias laborales como impulso a los procesos
+2010
+de articulación entre la Educación Media y la educación superior, y
+la educación para el trabajo y el desarrollo humano.
+Fuente: elaboración propia con base en la revisión histórica incluida en el informe analítico.
+I2I
+I
+MÓDULO 3
+Si bien los propósitos definidos por la Ley 115 de 1994 siguen vigentes, se incluyeron
+como hitos importantes los años en los que aparecieron los estándares curriculares y las
+políticas asociadas a emprendimiento y a articulación, en tanto precisan los resultados
+formativos esperados en términos de competencias.
+Esto contrasta con los propósitos que se plantea la Educación Media en otras latitudes
+(cuadro 7), en los que se destacan las siguientes tendencias:
+Orientación a la contribución social al desarrollo de sus sociedades, donde entra
+la formación de talento humano para la vida productiva, pero no como eje central,
+sino desde una mirada que permite a los jóvenes insertarse socialmente como
+ciudadanos y tener sentido de identidad nacional. Esto está presente en los países
+que tiene mejores resultados en las pruebas internacionales.
+Orientación a descubrir talentos e intereses de los jóvenes y a desarrollar
+competencias personales, sociales y emocionales. Se encuentra esta tendencia
+en los países desarrollados.
+Orientación a los procesos de aprendizaje y al logro educativo reflejado en la
+apropiación del conocimiento disciplinar O en el desempeño en competencias
+básicas, como lectura. Esto aparece más en los países latinoamericanos
+considerados en el informe analítico.
+Orientación a metas de cobertura, acceso y eficiencia, y a los factores asociados
+a la calidad, como formación de docentes y dotación, entre otros.
+Cuadro 7. Objetivos de la Educación Media en el estudio de casos internacionales
+Finlandia
+Singapur
+Hong Kong
+México
+Argentina
+USA
+Promover la
+Ayudar a los
+Proveer
+Como
+Incrementar
+Mejorar el nivel
+competitividad
+estudiantes a
+nueve años
+alumno se
+la cobertura
+de los logros
+del bienestar
+descubrir sus
+de educación
+autodetermina
+y mejorar el
+académicos de
+de la sociedad
+talentos, a
+universal
+y cuida de sí.
+desempeño
+las personas
+finlandesa.
+hacer lo mejor
+gratuita.
+escolar.
+menos
+de sí mismos
+Se expresa y
+favorecidas.
+Lograr el
+y a realizar
+Atender a las
+se comunica.
+Extender la
+desarrollo
+su potencial,
+diferentes
+cobertura
+Mejorar los
+económico
+desarrollando
+necesidades
+en los ciclos
+programas
+sostenible.
+así una
+de los alumnos
+básico y
+básicos
+pasión por el
+para construir
+orientado
+operados
+aprendizaje
+conocimientos
+por Agencias
+que dure toda
+y crecer como
+Locales.
+la vida.
+personas.
+Continuación siguiente página
+131
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/c6/08/CPE_MOOC_PDF1.pdf;True;True;pdf;"RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+Computadores
+GITEI
+98
+UNIVERSIDAD
+DE COLOMBIA
+7AT
+e
+MINTIC
+O
+MINEDUCACIÓN
+O
+GOBIERNO DE COLOMBIA
+NACIONAL
+para Educar
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Realimentacion al finalizar cada sesión
+Módulo
+Sesión
+Sugerencia de evaluación, coevaluación o heteroevaluación
+1
+1
+Reconocimiento de las relaciones individuales con el entorno cercano, relaciones familiares,
+de amigos, vecinos, antepasados.
+2
+¿Reconocen los elementos tecnológicos que se pueden usar a lo largo del diplomado? Esta
+pregunta permite evidenciar que la exploración de elementos tecnológicos está permitiendo
+reconocer dicha tecnología para usarla en las actividades sucesivas del diplomado
+2
+3
+El formador verificará que todos los participantes hayan contribuido con la elaboración del
+mapa conceptual a partir de las temáticas planteadas. Por otro lado termina la sesión
+retomando los tres conceptos trabajados, partiendo de la premisa ""Construyamos conceptos"":
+Dos o tres participantes que compartan qué entendieron por Aula Invertida y si tiene alguna
+otra modalidad
+¿La idea que tenía de conflicto es la misma que trabajamos en la sesión?
+Con una sola palabra defina que comprendió o afianzó del concepto de recurso natural.
+Luego se les pedirá que a través de aplausos califiquen la sesión: 1 aplauso sino se
+cumplieron los objetivos propuestos, dos aplausos, si falto tiempo para el desarrollo de las
+actividades y 3 aplausos si se logró alcanzar la propuesta descrita al principio de la sesión.
+Verificarán que todos los docentes hayan creado su carpeta y hayan guardado el mapa
+conceptual.
+4
+El formador invitará a retomar la línea del tiempo que han construido hasta el momento.
+Debatir, en 5 minutos, la importancia de realizar líneas de tiempo
+como forma de preservar la memoria histórica de los pueblos y, en especial, conservar,
+valorar y perdonar aquellos acontecimientos de su propia historia
+en relación con el medio ambiente. Calificar de 1 a 5 su participación y aprendizajes
+adquiridos durante la sesión.
+5
+El formador finalizará con la dinámica Tingo-Tingo-Tango, preguntando a los participantes
+sobre los aspectos clave de la sesión:
+Enumere dos o tres actividades propias de la metodología Aula Invertida que se puedan
+realizar con uso de TIC
+Cuáles son los documentos que componen la Cátedra de la Paz
+Comparta cuál es la categoría de la Cátedra de la Paz que estamos desarrollando en este
+módulo
+En qué consiste la evaluación por medio de rúbricas
+6
+El formador invitará a los participantes a rotar las diferentes actividades pedagógicas de aula
+propuestas para realizar una primera retroalimentación.
+Invitar a valorar el trabajo de sus compañeros y validar la pertinencia de las propuestas que
+cada uno hace, así como la inclusión de las TIC en las
+actividades propuestas, siendo de este modo un coevaluador, y a la vez autoevaluando su
+propuesta.
+7
+El formador tendrá en cuenta la participación de los docentes durante el desarrollo de la
+modelación de clase. Invitar a los docentes a autoevaluarse frente al diseño de su recurso
+educativo digital, de la siguiente forma:
+cara feliz: la elaboración del recurso fluyó de manera armónica en el grupo,
+cara seria: la elaboración del recurso presentó algunas dificultades,
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+cara triste: no fue posible ponerse de acuerdo para elaborar el recurso educativo digital
+8
+Completar con los docentes la rúbrica que diseñaron, indicando que puntos adicionarían para
+realizar la evaluación de la sesión, incluirlos y evaluarlos.
+9
+Socializar dos o tres videos realizados y realizar la retroalimentación compartiendo lo
+siguiente:
+¿Cómo se sintieron siendo youtuber?
+¿Consideran que es una estrategia válida para fortalecer aprendizajes en los estudiantes?
+¿Qué otras estrategias de reconciliación con el medio ambiente se pueden implementar a
+partir de lo reflexionado en la sesión?
+10
+Revisar el desarrollo de la sesión a la luz de los siguientes ítems:
+Implementación de la metodología Aula Invertida según los parámetros entregados en la
+primera sesión,
+Trabajo en equipo,
+Participación a nivel personal.
+Para ello emplearán los colores del semáforo: Verde para indicar que alguno de los puntos
+propuestos fue excelente, amarillo para indicar que fue aceptable y rojo para indicar que fue
+deficiente y que hay que emprender acciones de mejora para la siguiente sesión. Es un
+momento para identificar lo que falta por reforzar de la metodología propuesta, los recursos tic
+involucrados y trabajarlo en la siguiente sesión.
+11
+Como cierre de la sesión agradecer la realización de la feria de exposición, la cual fue
+evaluada a través de rúbricas a lo largo de la exposición. Escuchar algunas impresiones frente
+al ejercicio de elaboración de las cartografías e invitar a seguir haciendo ejercicios de memoria
+como oportunidad para el perdón y la reconciliación.
+12
+Toda la sesión es de carácter evaluativo, por lo tanto no se proponen acciones adicionales
+3
+13
+Es importante que durante el desarrollo de las actividades el formador recuerde a los
+participantes que existen momentos de evaluación durante toda la interacción: desde la
+participación individual frente a las actividades del grupo (autoevaluación) como la valoración
+del trabajo que implica la participación de los compañeros del equipo y de lo que se va
+construyendo (coevaluación). Así mismo, la guía de Aprendizaje colaborativo ofrecida desde
+el inicio del módulo, permite realizar una valoración de contenido y metodología de los
+productos elaborados hasta el momento. Identificar con los docentes las situaciones en que
+ocurrieron los momentos de evaluación mencionados.
+14
+Con la guía de aprendizaje colaborativo, se identifica la forma en que las actividades se han
+abordado durante la sesión, indagando en otras formas de hacerlo. Así mismo es necesario
+tomar como base la sección de Cátedra de la Paz relacionada con Diversidad y Pluralidad,
+para establecer las aproximaciones de su contenido con las actividades desarrolladas hasta el
+momento y las que pueden vincularse en la actividad pedagógica, la desarrollada actualmente
+o futuras que deseen planearse e implementarse.
+15
+A partir de las preguntas que se incluyen durante la actividad, verificar e invitar a responderlas
+a partir del contexto propio y local, logrando así reflexiones personales y en equipo para
+avanzar en el reconocimiento de aspectos que representan conflicto y procurar evidencias de
+cómo afrontarlos para resolverlos.
+16
+La evaluación de las actividades se realizará durante el desarrollo de las acciones, de manera
+que se reflexione de manera permanente el sentido de la metodología abordada, su
+integración a las temáticas de Cátedra de la Paz y el apoyo en TIC. Este proceso de
+evaluación está guiado por el formador para que se haga de manera individual y colectiva,
+durante y al final de cada actividad y al cerrar cada módulo.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=334;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/78/74/EMTA-Referentes de consulta(1).pdf;True;True;pdf;"Information
+GESTIÓN CURRICULAR
+PARA LA MEDIA TECNICA
+La educación
+Mineducación
+AGROPECUARIA
+es de todos
+REFERENCIAS DE CONSULTA
+Guía de Educación media con enfoque agropecuario, orientaciones generales para su
+fortalecimiento en las instituciones.
+Manual de formación de agentes educativos Proyectos Pedagógicos Productivos:
+https://www.mineducacion.gov.co/1759/w3-article-287836.htm
+https://www.mineducacion.gov.co/1759/w3-article-287839.html
+Secuencias didácticas de Competencias Socioemocionales enlace:
+https://www.mineducacion.gov.co/1759/w3-article-385321.html
+Guía 39: La cultura del emprendimiento en los establecimientos educativos y caja
+de herramientas:
+https://www.mineducacion.gov.co/1759/w3-article-287822.html
+Guía de orientaciones pedagógicas para la educación económica y financiera;
+entre otros:
+https://www.mineducacion.gov.co/1621/articles-
+340033_archivo_pdf_Orientaciones_Edu_economica_financiera.pdf
+Clasificación internacional uniforme de ocupaciones. Adaptada para Colombia:
+https://www.dane.gov.co/files/sen/nomenclatura/ciuo/CIUO_08_AC_2015_07_21.pdf
+Estas lecturas nos ayudarán a comprender mejor los aspectos que abordaremos en este
+diplomado.
+UNIVERSIDAD DE
+LASALLE
+SANTOTOMAS
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/e5/39/02Nat_03Eje_09.pdf;True;True;pdf;"RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+SENA
+60
+MINTIC
+6
+MINEDUCACIÓN
+60
+GOBIERNO DE COLOMBIA
+GITEI
+UNIVERSIDAD
+Computadores
+58
+NACIONAL
+DE COLOMBIA
+ZA
+GRUPO D INVESTIGACION TECNOLOCÍA
+para Educar
+DADA EDUCACIÓN INNOVACIÓN INNOVACION
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Módulo 2: Uso de TIC para el desarrollo sostenible
+Momento: Ejecución
+Sesión: 9
+Sostenibilidad ambiental
+Residuos de Aparatos Eléctricos y Electrónicos (RAEE)
+QR Scanner & Generator o CodeTwo QR Code Desktop
+Reader & Generator
+Manejo inadecuado de RAEE
+Dispositivos móviles personales, tabletas o computadores
+Herramientas ofimáticas
+Hipervínculos
+Conceptos clave
+(Apropiarse de ellos antes de la sesión)
+Herramientas TIC
+Códigos QR con las definiciones y sus nombres
+PDF Taller RAEE CPE
+PDF con los casos propuestos
+PDF con las preguntas de evaluación de los videos
+Lectura: ""Concientízate: campaña de recolección de residuos de aparatos
+Nivel explorador
+eléctricos y electrónicos""
+Competencia pedagógica
+Video: ""Profesor Super O recargado - Cap. 19 Residuos electrónicos""
+Video: ""CPE Sostenibilidad""
+Identifica nuevas estrategias y metodologías
+Video: ""Edutubers Colombia Aprende Cap. 1""
+mediadas por las TIC, como herramienta para
+Formato: Autorización de uso de nombre, imagen, videos, declaraciones y
+testimoniales del mayor de edad para uso público por parte de
+desempeño profesional.
+Computadores para Educar y el Gobierno de Colombia
+Infografía Flipped Classroom, dentro y fuera del aula
+Competencias TIC asociadas
+Recursos de apoyo
+(Preparar la sesión)
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+Actividad 1. Realimentar los conceptos trabajados durante las sesiones anteriores.
+Descripción. Relacionar a través de un juego de apareamiento realizado con códigos QR los siguientes conceptos:
+- Aula Invertida
+- Pensamiento crítico
+- Evaluación a través de rúbricas
+- Desarrollo sostenible
+Momentos sugeridos para desarrollar la actividad
+#1 15' ¿Qué hemos aprendido?
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+El formador ha de numerar a los participantes para indicarles que, de acuerdo al número que les
+Códigos QR con las definiciones y sus nombres
+Código QR de resumen
+correspondió, deberán escanear un código QR que revelará la instrucción a seguir para realizar el
+ejercicio de apareamiento con los siguientes conceptos:
+QR Scanner & Generator o CodeTwo QR Code Desktop
+Reader & Generator
+a. Conceptos o frases presentes en los materiales trabajados durante el módulo.
+b. El nombre del concepto (Aula Invertida/pensamiento crítico/rúbrica/desarrollo sostenible).
+Cada participante deberá buscar su pareja y entablar una conversación de un minuto para dialogar
+sobre la correspondencia del concepto y su significado, y luego buscará a quienes les haya
+correspondido el mismo tema para completar el diálogo. Finalizar elaborando un código QR que
+resuma el aspecto más importante del concepto trabajado. Escanear el código elaborado por los
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+otros participantes, con el fin de tener un panorama claro de todos los conceptos. En esta tarea, los
+participantes se apoyarán con los materiales trabajados en sesiones anteriores.
+Actividad 2. Implementar el taller ""Gestionando la basura electrónica de nuestro entorno"" (Taller RAEE)
+Descripción. A partir de la categoría de desarrollo sosteniblede la Cátedra de la Paz, modelar el taller ""Gestionando la basura electrónica de nuestro
+entorno"". propuesto por CPE, implementando otras estrategias que se pueden trabajar desde la metodología aula invertida con uso de TIC.
+Reflexionar sobre la importancia de reconciliarse con el entorno natural, que no solo se ha visto afectado por el conflicto, sino también por las
+acciones
+del
+ser humano que produce, pero difícilmente recicla o reutiliza, generando un impacto ambiental negativo.
+Trabajo autónomo: Entregar una infografía para retomar los pasos que debe seguir una clase invertida. A partir de la lectura de la infografía, preparar
+dudas o aportes que les suscite la imagen y socializarlas en la siguiente sesión.
+#1 20' Gestionemos la basura electrónica de nuestro entorno
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+Retomar los aspectos trabajados en la modelación de la clase a partir de la ruta metodológica de
+N/A
+pensamiento crítico. Para realizar la introducción al taller, tomar las diapositivas introductorias del
+PDF Taller RAEE CPE
+Taller RAEE de CPE, unido con la siguiente reflexión: El conflicto ha generado cambios
+ambientales significativos, lo que convierte al medio ambiente en una víctima más del conflicto,
+PDF con los casos propuestos
+frente a la cual se propusieron acciones de reconciliación. pero hay otros factores que también
+generan una huella ambiental significativa y afectan nuestra relación con el medio ambiente en la
+Diplomado para docentes en el uso pedagógico de las TIC en territorios de reconciliación
+RURALTIC
+cotidianidad. Por esta razón, el taller es un pretexto para reconocer que no solo hay actores
+externos que afectan el medio ambiente, sino que también cada uno, desde su contexto y desde
+sus acciones cotidianas, está promoviendo cambios en el ambiente, lo que requiere la reflexión y la
+implementación de acciones para mitigar el impacto.
+Organizar grupos de 4 personas, de manera libre y plantearles los siguientes casos:
+Caso 1:
+En la sede educativa El Paraíso, se entregaron 5 computadores en el año 1998, para que los
+estudiantes de primaria tuvieran sus clases de informática. Al pasar los años, estos equipos se
+fueron convirtiendo en obsoletos, pues se volvieron lentos, y tanto estudiantes como docentes
+estaban aburridos de trabajar siempre con los mismos programas. 10 años después, en el 2008,
+la
+alcaldía del municipio, junto con el rector, gestionó la compra de equipos nuevos para dotar las
+sedes educativas de la zona, y es así como compraron para la sede 7 computadores, ya que ahora
+tenían más niños que en años pasados. Sin embargo; los computadores anteriores no fueron
+recogidos por la dirección administrativa de la sede. Para ubicar los nuevos computadores,
+sacaron los antiguos y los guardaron en la bodega que tiene la escuela. 9 años después, la sede
+fue beneficiada nuevamente, esta vez con la entrega de tabletas y portátiles nuevos, ahora tienen
+12 computadores obsoletos, guardados, deteriorados, algunos hasta rotos y consumidos por el
+polvo.
+¿Qué acciones deben emprenderse para eliminar de la sede educativa los aparatos electrónicos
+que se encuentran obsoletos?
+Respuesta tentativa (para el formador): El almacenamiento de esos equipos está errado, pues
+deben estar debidamente inventariados y resguardados del calor, la humedad o de cualquier
+elemento que pueda generar un peligro.
+Deben solicitar al rector o director que se comunique con la Secretaría de Educación de su
+municipio para indagar quién es la persona encargada de realizar la recolección de estos
+elementos en la sede educativa. Si es una cabecera municipal grande, existe Eco cómputo,
+quienes hacen la recolección. Este trámite es gratuito. No deben pagar por solicitar la recolección
+de estos aparatos electrónicos en desuso.
+Caso 2:
+En la sede educativa Aprendiendo a Educarnos, ubicada en una zona rural del macizo colombiano,
+se encontraba Miguel González, docente de informática, realizando el inventario de los equipos
+que habían perdido su vida útil y que se estaban almacenando en el patio de la sede. En ese
+momento se acercó una persona que se identificó como gestor de residuos electrónicos y le dijo
+que esos equipos tienen elementos peligrosos, por lo que él le cobraba 30.000 pesos y se
+encargaba de quitarle ese problema al docente, para gestionarlos adecuadamente.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/c8/79/02Nat_01Ind_03.pdf;True;True;pdf;"RURALTIC
+Diplomado para docentes en
+el uso pedagógico de las TIC
+en territorios de reconciliación
+SENA
+Computadores
+para
+a MINTIC
+O
+MINEDUCACIÓN
+6
+GOBIERNO DE COLOMBIA
+GITEI
+UNIVERSIDAD
+NACIONAL
+Educar
+GRUDO INVESTIGACION
+DE COLOMBIA
+DADA EDUCACIÓN INNOVACION
+EDUCACIÓN TECHOLOCIA
+Módulo 2: Uso de TIC para el desarrollo sostenible
+Momento: Indagación
+Sesión: 3
+Mapa conceptual
+Herramientas ofimáticas
+Aula invertida o Flipped
+Xender
+Classroom
+Mindomo
+In-Class Flip
+Dispositivos móviles
+Recurso natural
+personales, tabletas o
+Conflicto
+computadores
+Conceptos clave
+(Apropiarse de ellos antes de la
+Herramientas TIC
+Infografía introductoria del módulo
+Plantilla para elaborar la Actividad Pedagógica de Aula (APA)
+Lectura: ""Monográfico: Flipped Classroom""
+Lectura: ""Flipped Classroom en aulas multinivel de escuela rural.
+Modelo pedagógico para des sarrollar una didáctica multigrado""
+Nivel explorador
+Infografía Flipped minuto a minuto
+Competencia pedagógica
+Infografía clase inversa antes. durante y después
+Infografía comparación entre clase tradicional y aula invertida
+Cuestionario ¿Qué aprendimos sobre Aula Invertida?
+Identifica nuevas estrategias y metodologías
+Páginas web: ""theflippedclassroom""
+mediadas por las TIC como herramienta para
+Página web: ""centrodememoriahistorica""
+Página web: ""verdadabierta""
+desempeño profesional.
+Lectura ""La serranía de La Macarena, el conflicto y el futuro en paz""
+Video: ""Así están destruyendo a la serranía de La Macarena""
+Video: ""Comunidades en defensa de la Serranía de La Macarena""
+Preguntas para el debate
+Tutorial Mindomo
+Competencias TIC asociadas
+Recursos de apoyo
+(Preparar la sesión)
+Actividad 1. Acercamiento a la metodología Aula Invertida y sus variables, para su apropiación efectiva en el aula a través de la construcción de un
+mapa conceptual.
+Descripción: Presentar a los participantes la metodología Aula Invertida, en inglés Flipped Classroom, con la cual se trabajarán las actividades del
+módulo, a través de la exploración grupal de tres infografías. Posteriormente, entregar dos lecturas de apoyo para trabajar en casa, acompañadas por un
+cuestionario de comprensión de las mismas e indicar los criterios de elaboración de la Actividad Pedagógica de Aula (APA) con uso de TIC, desde la
+metodología de Aula Invertida.
+Momentos sugeridos para desarrollar la actividad
+#1 20' Conozcamos la metodología ""aula invertida""
+Recomendaciones
+Recursos para la sesión
+Productos de la sesión
+El formador saluda a los participantes, recuerda los momentos más relevantes durante el
+Infografía introductoria del módulo (animada y pdf)
+N/A
+desarrollo de la sensibilización y da a conocer el contenido del módulo. Presenta con la infografía
+introductoria, los componentes en los que se basa el módulo, destacando principalmente el uso de
+Video: ""Explicación y desarrollo del APA
+TIC para planear e implementar una Actividad Pedagógica de Aula (APA), mediante la apropiación
+de la metodología de Aula Invertida, a través de un tema específico que es la categoría de uso y
+Plantilla para elaborar la Actividad Pedagógica de Aula
+desarrollo sostenible de los recursos naturales, presente en la Cátedra de la Paz.
+(APA)
+Antes de comenzar, el formador puede profundizar en la explicación de qué es un APA, para
+Lectura: ""Monográfico: Flipped Classroom""
+aclarar las dudas, para lo cual presentará un video explicativo del tema. Luego, se establece que,
+en este caso, la APA se desarrollará bajo los siguientes criterios:
+Lectura: ""Flipped Classroom en aulas multinivel
+1. Elegir un recurso natural biótico o abiótico.
+de escuela rural. Modelo pedagógico para
+2. Elegir la edad de la población a la que enfocarán el APA (niños de 5 a 9 años, de 10 a 12
+desarrollar una didáctica multigrado""
+años, de 12 años en adelante).
+3.
+Elegir el área de conocimiento en la que se implementará la categoría y la metodología
+Infografía Flipped minuto a minuto
+propuesta con uso de TIC.
+Una vez compartidos los criterios de elaboración de la APA, se entrega a los participantes la
+Infografía clase inversa antes, durante y después
+plantilla para elaborar la APA durante el transcurso del módulo. Para guiar esta elaboración, se
+retoma la infografía inicial del módulo y se comparten con los participantes las siguientes
+Infografía comparación entre clase tradicional y aula
+infografías para acercarse más al concepto, desde lo que serían momentos prácticos de una clase
+invertida
+bajo la metodología propuesta y como insumo esencial para proponer una APA basada en esta
+metodología.
+Cuestionario ¿Qué aprendimos sobre Aula Invertida?
+Conformar 3 grupos de trabajo y presentar las tres infografías compartiendo entre todos los
+Página web https://www.theflippedclassroom.es/
+participantes los elementos nuevos que aportan a su práctica pedagógica. El formador puede
+orientar la reflexión de cada grupo por medio de unas preguntas claves que le resulten pertinentes:
+Página web http://www.centrodememoriahistorica.gov.co
+1. ¿Cuál es la metodología que generalmente manejan en su clase?
+2. ¿Alguna vez han aplicado la metodología de aula invertida en su clase?
+Página web: https://verdadabierta.com
+3. Una vez revisadas las infografías, comparta que le aportan a su práctica pedagógica.
+App Xender (transferir archivos entre Android)
+a. Infografía No. 1
+Tomado de:https://www.theflippedclassroom.es/una-clase-flipped-minuto-a-minuto/
+Comienza la clase
+I
+0
+Evaluación inicial
+10
+Discusion de los resultados
+Juego sobre contenidos
+(nuevos O de repaso)
+10
+Respuesta a las preguntas de los
+alumnos (tanto de clase como online)
+Discusión de los trabajos en gran grupo,
+votaciones sobre el mejor enfoque
+10
+to
+15
+The
+Trabajo en pequeños grupos reto, problema, investigación,
+proyecto, asignación de tareas, roles y discusión
+b. Infografía No. 2
+La Clase Inversa
+The
+Durante
+Flipped
+Classroom
+EN CLASE
+Los estudiantes practican aplicando las
+cuestiones clave con feedback del profesor
+Objetivo
+Objetivo
+Objetivo
+Los estudiantes se preparan para
+Los estudiantes comprueban su
+participar en las actividades de clase
+conocimiento y extienden su aprendizaje
+Antes
+Después
+FUERA DE CLASE
+Tomado de: hhttps://www.theflippedclassroom.es/flipped-learning-y-el-desarrollo-del-talento-en-la-
+escuela/
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=187;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/d6/57/MEN_PTA_C6_ANEXO2_PREGUNTANDO.pdf;True;True;pdf;"Anexo 2. Preguntando
+i Qué significa la palabra Literacidad
+y multiliteracidad?
+i Qué tipo de textos utilizas para
+realizar ejercicios de lectura en el
+aula? Enuncia al menos tres
+i Qué significa ser un lector
+competente?
+i Qué comprendes por estrategias?
+Anexo 2. Preguntando
+Explica lo que para ti significa: Leer
+es recuperar el significado y dar un
+sentido
+Enuncia al menos tres características
+de la lectura crítica
+i Qué podemos hacer para que los
+estudiantes lean críticamente en
+internet?
+i Qué comprendes por Alfabetización
+lectora?
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=179;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/61/dc/MEN_PTA_C2_ANEXO4_JESUS_ANTONIO_AMEZQUITA.pdf;True;True;pdf;"INSTITUCIÓN EDUCATIVA JESUS ANTONIO AMEZQUITA
+Vereda Gaitán
+RIOBLANCO TOLIMA
+FORMATO PLAN DE DESARROLLO DE CLASE
+SEDE
+Jesús Antonio a
+DOCENTE
+FECHA
+Viernes 31 enero
+mezquita
+AREA
+P,P,P
+ASIGNATURA
+PERIODO
+Primero
+EDU FÍSICA-ETICA
+HUMANIDADES
+GRADO
+4°
+UNIDAD
+GUIA
+INTENSIDAD
+HORARIA
+CONTENIDOS
+LOGROS
+COMPETENCIA
+ACTIVIDADES
+TIEMPO
+EVALUACION
+UTILIZADO
+P.P.P
+Participar
+Participativo
+Realizaremos una
+45 Minutos
+Oral, escrita, participativa,
+Charla
+activamente en el
+charla amena en
+desempeño individual y en
+proceso de
+donde
+equipo.
+organizar su
+recordaremos el
+comunidad
+terreno de la huerta
+educativa.
+que semillas se
+sembraron, para
+que sirven las
+semillas, que nos
+producen las
+semillas.
+EDU FISICA
+Nombrar
+las
+Comunicativa
+Se realizaran
+90 Minutos
+Utilizaremos la evaluación
+1.1coordinacion
+principales partes
+Valorativa
+distintos ejercicios
+flexible, continua, formativa e
+dinámica general
+del
+cuerpo
+,caminar , trotar ,
+integral.
+corporal.
+comenzando de lo
+correr, etc.
+general a lo
+específico.
+1° Los valores
+Comprende que el
+Reconoce
+Se dará una charla
+45 Minutos
+Participativa
+(Agradecimiento)
+buen
+Asume
+con los niños en el
+Colectiva
+comportamiento es
+Conoce
+cual se les explicara
+Individual
+formación
+que es un valor,
+Gráficos
+personal.
+luego entraremos a
+hablar del valor del
+agradecimiento, y
+finalmente dibujan
+de acuerdo al tema.
+-4°Deberes
+Identifica los
+Interpretativa
+Se empezará
+45 Minutos
+Participativa
+morales
+principales deberes
+Argumentativa
+realizando una
+Individual
+morales.
+Propositiva
+charla con los
+Grupal
+chicos explicando
+Dinámicas
+así que son los
+Juegos
+deberes morales,
+luego se dará a
+conocer cada deber
+unoauno.
+(Deberes para con
+el creador).
+ESTANDAR
+ESTANDAR
+Produzco textos orales que
+responden a distintos propósitos
+comunicativos.
+CONTENIDOS
+LOGROS
+COMPETENCIA
+ACTIVIDADES
+TIEMPO
+EVALUACION
+UTILIZADO
+4° Unidad 1:
+Reconocer
+las
+COMUNICATIVA
+Los niños y las niñas
+45 Minutos
+Oral, visual, escrita,
+jVivamos un
+características de textos
+( interpretativa)
+Responderán en
+participativa.
+fascinante
+narrativos que hacen
+sus cuadernos las
+mundo
+de
+parte de nuestra
+preguntas de las
+narraciones!
+tradición oral y cultural.
+actividades básicas
+guía 2.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=373;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/5e/1f/Presentación SIUCE.pdf;True;True;pdf;"Sistema Nacional de
+Convivencia Escolar
+La educación
+Mineducación
+es de todos
+es de todos
+a
+""Por la cual se crea El Sistema Nacional de
+Convivencia Escolar y Formación para el Ejercicio de
+los Derechos Humanos, la Educación para la
+Sexualidad y la Prevención y Mitigación de la
+Violencia Escolar""
+20 DE 2013
+CONVIVENCIA
+ESCOLAR
+La educación
+Mineducación
+es de todos
+ÁMBITO DE APLICACIÓN
+Aplica en todos los establecimientos
+educativos oficiales y no oficiales de
+educación preescolar, básica y media del
+territorio nacional.
+A todas las instancias que conforman el
+Sistema Nacional de Convivencia Escolar.
+A la familia y a toda la sociedad.
+A los demás actores que participan en la
+Ruta de Atención Integral.
+La educación
+Mineducación
+es de todos
+¿ Cómo se materializa el Sistema Nacional de
+Convivencia Escolar?
+1.
+Articular acciones a nivel nacional
+Comité Nacional
+2.
+Emitir lineamientos nacionales
+de Convivencia
+Nacional
+3.
+Corresponsabilidad en vigilancia del Sistema,
+1. Convivencia Escolar.
+Escolar
+en especial de los comités territoriales
+4.
+Priorización de temas a partir de diagnóstico
+2.
+Derechos Humanos.
+Sistema
+3. Derechos Sexuales y
+Nacional
+Comité Territorial
+1.
+Fortalecer el funcionamiento de comités
+Reproductivos
+Distrital,
+territoriales adscritos a su jurisdicción.
+de Convivencia
+Convivencia
+Municipal,
+2.
+Activación de comités escolares de
+Escolar
+convivencia.
+4.
+Prevención y Mitigación
+Departamental
+3.
+Elaboración de acciones de promoción,
+de la violencia Escolar.
+Escolar
+prevención, atención y seguimiento en el
+territorio.
+5. Prevención y Mitigación
+del Embarazo
+Comité Escolar de
+Adolescente.
+Colegio
+1. Liderar estrategias que mejoren la
+Convivencia
+convivencia escolar y el ejercicio de los
+derechos humanos, sexuales y
+HERRAMIENTAS
+reproductivos.
+2.
+Desarrollar acciones de promoción,
+prevención atención y seguimiento.
+3.
+Efectuar el reporte en el Sistema de
+Información Unificado de Convivencia
+Escolar- SIUCE.
+Sistema de Información
+Unificado de Convivencia
+Ruta de Atención Integral para
+Convenios de Orientación Escolar.
+Escolar
+la Convivencia Escolar.
+Ruta de Atención Integral
+para la Convivencia Escolar
+Ruta de atención integral
+8
+Comité Nacional
+Comités Municipales,
+Promoción
+Distritales
+Departamentales
+Fomentar el meioramiento de la
+para la convivencia
+clima escolar
+con un entorno
+Comite Escolar
+para ejercicio real
+de Convivencia
+de Derechos
+Humanos, sexuales
+reproductivos
+Prevención
+escolar
+Intervenir oportunamente en los
+comportamientos que podrían
+afectar la realización efectivo
+SITUACIONES QUE AFECTAN
+de los derechos humanos
+LA CONVIVENCIA ESCOLAR
+sexuales reproductivos en
+EL EJERCICIO DE LOS
+Establecimiento Educativo
+contexto escolar
+DERECHOS HUMANOS.
+Comité Escolar
+SEXUALES Y REPRODUCTIVOS.
+de Convivencia
+Atención
+Asistir oportunamente los
+Manual de
+miembros de la comunidad
+Convivencia
+educativa
+frente
+que
+https://colombiaaprende.edu.co/sites/defau
+Convivencia
+Escolar
+ejercicio
+de
+los
+1. Pautas acuerdo de convivencia de toda la
+comunidad educativa
+Seguimiento
+It/files/files_public/2022-
+2. Medidas pedagógicas alternativas de solución
+Seguimiento evaluación de las
+conflictos manejados
+frente a las situaciones que afectan la Convivencia Escolar
+estrategias
+acciones de
+inadecuadamente situaciones
+promoción
+prevención
+atención
+esporádicas que inciden
+3. Consecuencias aplicables a los involucrados en
+por
+los actores
+negativamente en climo escolar.
+las situaciones que afectan la Convivencia Escolar
+No generan daños al cuerpo o
+Escolar.
+04/Infograf%C3%ADa_Ruta_0.pdf
+a la salud física mental.
+4. Directoria actualizado de otras entidades
+TIPO
+Situaciones de agresión escolar,
+TIPO
+1
+acoso escolar (bullying) y ciberacoso
+1 Media de manera pedagógico con las personas involucradas
+(Ciberbullying), que no revistan las
+características de la comisión de un
+2 Fijar formas de solucion de manero imparcial, equitativa justa y
+acciones para reparación los daños causados el restablecimiento
+delito que cumplan con cualquiera
+de los derechos lareconciliación.
+Sistema Nacional
+de las siguientes características
+3 Establecer compromisos y hacer seguimiento
+de
+TIPO
+convivencia escolar
+2
+a. Que se presenten de manera
+2
+repetida sistemática.
+TIPO ""
+1 Brindar atencion inmediata en salud fisica mental de los afectados
+b Que causen danos al cuerpo o g la
+2 Remitir la situación las autoridades administrativas cuando se requieran
+salud fisica mental sin generar
+medidas de de derechos
+incapacidad alguna para cualquiera
+de los involucrados.
+3 Adontar medidas de proteccion para los involucrados para evitar posibles
+TIPO
+acciones en contra
+3
+4 Informa de manera inmediata los padres, madres o acudientes
+5 Generar espacios para exponer precisar la acontecido
+88
+6 Determinar acciones restaurativas para la reparación de los danos causados.
+Situaciones que sean constitutivas de
+restablecimiento de los derechos y la reconciliacion
+presuntos delitos contra la libertad,
+integridad y formación sexual.
+Z EI Comite Escolar de Convivencia realizará el análisis del caso y
+seguimiento de las soluciones
+THE
+TIPO III
+1. Brindar atención inmediata en salud fisico mental de los afectados
+CD
+2 Informar de manero inmediato a los padres, madres acudientes.
+3 Informar de la situacion a la Policio Nacional (Policio de Infancia y Adolescencia).
+4 Citar los integrantes del Comite Escolar de Convivencia y ponerlos en
+PROTOCOLOS OTRAS ENTIDADES
+conocimiento del caso.
+La Policia Nacional deberá informar las autoridades administrativas competentes
+5 Adoptar las medidas propias para proteger la victima a quien se
+Adelantar la actuación imponer de las medidas de verificación
+le atribuye agresión y las personas que havan informado hagan parte de la
+prevención restablecimiento de derechos de las partes involucradas.
+situación presentada
+Realizar el reporte Sistema de Información Unificado de Convivencia Escolar
+Realizar seguimiento ala situación puesto baio conocimiento hasta que se
+6. Realiza el reporte en el Sistema de Informacion Unificado de Convivencia Escolar
+logre de los derechos de los involucrados
+restablecimiento
+La educación
+Realizar seguimiento por del Comité Escola de Convivencia de la autoridad
+Mineducación
+que asuma conocimiento comité municipal. distrital departamental de
+escolar que ejerzo jurisdicción sobre el establecimiento educativo.
+es de todos
+La educación
+Mineducación
+es de todos
+"
+...;https://eco.colombiaaprende.edu.co/masterclass/;s3://men-prod-clean-data/contenidos_formativos/ENGLISH_FOR_COLOMBIA_ECOWEB/masterclass/MC 15/MC15-Teaching_Techniques_and_Action_Steps[1]/MC15-Teaching_Techniques_and_Action_Steps[1].pdf;False;True;pdf;
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=199;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ec/68/Estrategias de facilitación.pdf;True;True;pdf;"virtual
+Educación
+educa
+Superior
+2005
+UNIVA 2005
+Del 20 junio
+Protector Minerio
+Ciudad Medico
+Estrategias para la Facilitación de Cursos Online
+Nicolás D. Patetta
+Buenos Aires, Argentina
+Resumen
+La Web ha sido presentada como una herramienta tecnológica que impulsa el cambio de
+los supuestos paradigmáticos sobre los procesos de aprendizaje e incrementa las
+posibilidades para las audiencias de adultos. Enseñar online requiere mucho más que la
+mera adquisición de habilidades informáticas. Se requiere adoptar nuevos enfoques
+pedagógicos, explorar nuevas estrategias instruccionales, definir nuevos roles para los
+participantes en el proceso de aprendizaje e implementar nuevos modelos para apoyar el
+aprendizaje.
+Las interacciones entre los estudiantes juegan un rol trascendental en un paradigma de
+aprendizaje centrado en los estudiantes y la motivación para estas interacciones es un
+desafío para el diseño instruccional.
+En este trabajo se sugieren distintas estrategias instruccionales para dinamizar cursos
+dirigidos a adultos en un ambiente online. Las mismas se fundamentan a partir de
+principios inherentes al proceso de aprendizaje en adultos y en técnicas para estimular
+la
+reflexión crítica.
+Algunas de estas estrategias han sido utilizadas en el diseño instruccional del curso de
+capacitación para profesores universitarios: El nuevo rol del docente en la enseñanza
+online: Técnicas de facilitación del aprendizaje, que obtuviera el segundo premio en la
+modalidad C del Il Certamen Intercampus convocado por CampusRed en 2004. El curso es
+de libre acceso y pueden observarse en los ámbitos de discusión utilizados en el curso
+realizaciones concretas de las estrategias propuestas.
+INTERNACIONAL
+DEPARTMENT
+virtual
+Educación
+educa
+Superior
+2005
+.
+UNAN 2005
+6
+Del 20 of 24 de junio
+Priode de Minerio
+Ciudad Mebico
+Índice
+Características de los Ambientes de Aprendizaje Online
+2
+El Cambio en el Paradigma Instruccional
+3
+Ambientes de Aprendizaje Online y el Proceso de Aprendizaje en Adultos
+5
+Estrategias de Reflexión Crítica para Facilitar el Diálogo Online
+10
+Referencias
+14
+virtual
+Educación
+educa
+Superior
+2005
+UNAN 2005
+Del 20 junio
+Priode de Minerio
+Ciudad Mebico
+Características de los Ambientes de Aprendizaje Online
+Si bien la Web brinda la posibilidad de crear ambientes de aprendizaje interactivos su
+importancia como herramienta tecnológica, aunque imprescindible, es secundaria. Ella es
+solamente un medio de transmitir y conducir el aprendizaje y la instrucción; que tiene el
+potencial de soportar la creación de entornos de aprendizaje significativos. Brinda
+oportunidades instruccionales que, para ser aprovechadas, deben sustentarse en principios
+instruccionales bien fundamentados (Batesteza y Patetta, 2003).
+Es necesario destacar que la introducción de innovaciones tecnológicas sin producir los
+cambios necesarios en las supuestos paradigmáticos instruccionales ha sido la principal
+fuente de fracasos en cualquier proceso de innovación. Con referencia a la introducción de
+la
+Web en el ámbito de la educación, las siguientes afirmaciones de Sigalés (2004, p.1)
+describen una situación común:
+A pesar del creciente interés de las universidades por la incorporación de las TIC a sus
+actividades docentes y de las numerosas experiencias iniciadas en los últimos años en el
+uso educativo de las TIC, sólo una pequeña parte de estas experiencias han cuajado
+realmente y han logrado transformar, con unos costes razonables, la formación
+universitaria. Cuando la formación es de tipo virtual, con actividades presenciales escasas
+o inexistentes, son necesarios cambios profundos en la organización de la docencia. En
+estos casos resultan elementos clave un diseño adecuado del entorno virtual en el que se
+va a desarrollar el curso, un cambio drástico en el enfoque de las actividades docentes y en
+la definición de los distintos roles que puede desarrollar el profesorado, y la creación de
+equipos interdisciplinarios que lleven a cabo integradamente el conjunto de tareas que
+conlleva el diseño y desarrollo de cursos virtuales de calidad.
+Esta ultima aseveración apunta al hecho de que los ambientes online deberían producir
+cambios reales en los paradigmas instruccionales. ""Enseñar online requiere mucho más
+que la mera adquisición de habilidades informáticas. Se requiere adoptar nuevos enfoques
+pedagógicos, nuevas estrategias para la motivación, nuevos roles para los participantes en
+el proceso de aprendizaje y nuevos modelos para apoyar el aprendizaje de los alumnos""
+(Batesteza y Patetta, 2004, p.1).
+Un ambiente online es un ambiente natural para un proceso de aprendizaje que requiera
+interacciones entre el instructor, quienes aprenden y los contenidos, y todas estas
+interacciones producidas en una forma colaborativa. Aunque los instructores continuarán
+definiendo los contenidos del curso y conduciendo los mismos, el uso de una metodología
+adecuada, sustentada en programas y herramientas de software, proveerá los elementos
+necesarios para construir una comunidad de aprendizaje. Esto significa una comunidad
+donde todos comparten responsabilidades con el instructor, aportan sus pensamientos e
+ideas y crean conocimiento en una forma activa. Dentro de este proceso se construye una
+red de interacciones entre instructor y participantes en la cual se adquiere el conocimiento
+colaborativamente.
+La transición desde los cursos cara a cara tradicionales hacia los cursos online implica
+cambios en los instructores y las instituciones educativas. Aparecen nuevas cuestiones
+relacionados con las relaciones personales que son reemplazadas por relaciones a través
+de una máquina: El instructor y los participantes en los procesos de aprendizaje tiene que
+crear sus propias personalidades electrónicas (Palloff et al., 2000).
+El Cambio en el Paradigma Instruccional
+Paradigma Centrado en el Instructor Vs. Paradigma Centrado en Quien Aprende
+virtual
+Educación
+educa
+Superior
+2005
+UNAM 2005
+Del junto
+Prode de Minerio
+Ciudad Medico
+La transformación que tiene lugar en la transición desde las clases tradicionales hacia las
+clases virtuales es profunda porque plantea un cambio en el paradigma instruccional y
+apunta a un nuevo rol de los instructores.
+Las clases tradicionales son consideradas como el principal espacio para adquirir los
+conocimientos donde los instructores juegan el rol de fuente y transmisores de información
+y conocimiento, y quienes aprenden asumen el rol de receptores pasivos. En este ambiente
+solo los estudiantes son vistos como receptores de los resultados del aprendizaje y la
+cultura identificada con el proceso de aprendizaje es competitiva e individualista. El
+aprendizaje enfatiza la adquisición de conocimientos con independencia del contexto en el
+cual será utilizado. Los instructores también son responsables de evaluar el proceso de
+aprendizaje y los resultados deseados en términos del aprendizaje. Esta situación
+instruccional define un paradigma centrado en el instructor en el cual la iniciativa, el control
+y responsabilidad permanece en manos del instructor (Reigeluth, 1999).
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=293;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/61/82/Tema3_M2_L1_R1.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Conexión emociones
+Competencias socioemocionales para
+el desarrollo integral y la salud mental
+de niños, niñas y adolescentes
+Secretarías de Educación
+Módulo 2
+Tema 3
+Fundación
+Saldarriaga
+Concha
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Tema 3
+Introducción al pensamiento creativo
+Conceptualización: La creatividad está relacionada con la capacidad de
+generar nuevas ideas, que sean originales, resolver problemas de diferentes
+maneras, y pensarse el contexto de una manera poco convencional. El proceso
+creativo implica entonces cuatro tipos de habilidades que ayudan a que
+esto suceda, la fluidez, que se refiere a la rapidez y cantidad de respuestas
+sobre una situación específica, la flexibilidad, que se refiere a la posibilidad
+de pensar diferente ante las mismas situaciones, si has obtenido resultados
+negativos utilizando las mismas técnicas, por qué no utilizar algunas nuevas, la
+originalidad, que se relaciona con la capacidad de innovar para cada individuo,
+y la elaboración que consiste en mejorar de manera progresiva o con detalles
+esa idea novedosa o creativa para mejorar su calidad (Aranguern, 2013).
+Un buen desempeño cognitivo articulado a un óptimo estado emocional
+produce un mayor rango de creatividad y por lo tanto desarrolla nuevos y
+novedosos pensamientos ante circunstancias de la vida diaria que nos generan,
+estrés, dolor, angustia, miedo, tristeza y nos llevan a encontrar soluciones
+nuevas que nos saquen con éxito de estas circunstancias, motivo fundamental
+del porqué la promoción del pensamiento creativo hace parte de la resiliencia.
+La promoción del pensamiento creativo no tiene ninguna edad límite, es decir,
+puede promoverse, aprenderse y utilizarse a lo largo de la vida, en la infancia
+y la adolescencia, la mayor plasticidad cerebral pone un gran nicho para su
+promoción, motivo por el cual es necesario, generar actividades lúdicas con
+fines pedagógicos que promuevan esta capacidad. Por ejemplo, el juego libre,
+el reconocimiento de capacidades propias, la relajación y la respiración, que
+ayudan a mejorar las interconexiones en el cerebro.
+En este punto se busca la creación de nuevas opciones de respuesta ante
+situaciones conflictivas o incómodas que lleven a los participantes a generar
+una real educación emocional, y mecanismos adaptativos y efectivos de
+respuesta ante un contexto y las emociones que este produce.
+Momento 1 - Juego de Conocimientos
+Creación de historia conjunta con dibujos
+Sensibilización:
+El facilitador indica al grupo como la actividad pretende identificar el
+pensamiento creativo con base en diferentes métodos de aprendizaje,
+específicamente en la educación virtual.
+2
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Actividad central
+Se le pedirá al grupo completo que se numeren con los números 1, 2 y
+3; luego los números ] se reúnen, los números 2 y los números 3. Cada
+grupo recibirá del facilitador su tarea. El grupo no. ] recibirá un vídeo
+para usarlo como herramienta y enseñar a sus compañeros del grupo
+no. 2 a bailar Bachata. Los participantes del grupo no. 3 tendrán la tarea
+de observadores, por lo que se dividen en los dos grupos para darse
+cuenta de cómo se enseña y cómo se aprende.
+El facilitador le presenta al grupo no.1 las condiciones para enseñar con
+el video:
+a. Solo pueden usar palabras habladas.
+b. Por medio de un manual escrito
+C. Solo mímica.
+Antes de empezar el ejercicio, se pueden proponer cambios de grupo
+privilegiando que quienes tienen habilidades para bailar estén en el
+grupo no. ] el que va a enseñar. Este grupo tendrá 10 minutos para
+preparar la actividad, teniendo en cuenta que deben preparar las tres
+formas de enseñanza sugeridas.
+Comienza el proceso de enseñanza en orden, 10 minutos para cada
+forma de aprendizaje. Entre tanto el grupo de observadores está atento
+en cada paso del proceso, desde la planeación hasta la ejecución.
+En plenaria se exponen las parejas de baile conformadas y los logros
+alcanzados, propiciando un momento divertido. Luego el grupo se
+organiza en círculo para escuchar los comentarios que tienen los
+observadores sobre el proceso, identificando cómo se sintieron con
+cada forma de enseñanza-aprendizaje
+Cierre
+La conclusión pretende privilegiar la experiencia de los grupos
+enseñando y aprendiendo, señalando las particularidades y las
+características individuales que están presentes y que facilitan O no
+aprender, crear, buscar diferentes maneras de llegar a las diferentes
+soluciones para lograr un reto. Es importante llevar al grupo a encontrar
+cómo pueden aplicar lo aprendido en sus trabajos, en sus hogares, en
+su estudio.
+Tiempo de ejecución: 90 minutos.
+3
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Materiales para llevar a cabo la actividad: Cartelera, marcadores, hojas
+blancas, lápices o esferos. Reproductor de audio para el video. Video de
+BACHATA.
+Recursos: Video https://www.youtube.com/watch?v=2WSnzSqH1FA
+Momento 2 - Interacción y preguntas
+Creatividad y pensamiento creativo en las emociones
+Sensibilización
+El facilitador, luego de hacer un ejercicio de respiración corto con el grupo
+pretendiendo su atención y relajación para escuchar la lectura que hará a
+continuación:
+Definiendo el pensamiento creativo
+El pensamiento creativo es muy importante para responder ante determinadas
+situaciones de la vida. En las últimas décadas nuevas investigaciones
+psicológicas orientadas a comprender y desarrollar las capacidades del
+individuo, especialmente las del intelecto, evidencian la importancia que tiene
+el pensamiento creativo, cuando el individuo se enfrenta a un problema que
+tiene que resolver. Las investigaciones acerca del funcionamiento de la mente
+y la personalidad humana han sido el objeto de estudio y han despertado el
+interés en el pensamiento creador en todas las épocas. Torrance (1977: 126)
+define el pensar creativo como:
+""Un proceso, el proceso de intuir vacíos o elementos necesarios que faltan, de
+formar ideas o hipótesis acerca de ellos, de someter a prueba estas hipótesis y
+de comunicar los resultados; posiblemente para modificar y someter de nuevo
+a prueba las hipótesis"".
+Esta actividad creadora mental, ha sido también definida como la iniciativa
+que se manifiesta en la habilidad de uno a abandonar la secuencia normal
+del pensamiento, para pasarse a una secuencia totalmente distinta, pero
+productiva.
+De acuerdo con lo anterior. se plantean algunas características que parecen
+diferenciar a las personas creativas de las que no lo son. Así se presenta a
+la persona creativa como bastante flexible en los patrones de pensamiento
+e interesada en ideas complejas. Además, tiene una personalidad amplia,
+interesada en lo inusual y tiende a ser sensible a lo estético.
+4
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=291;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/98/db/Guía preguntas1_M2_L1R2.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Conexión emociones
+Competencias Socioemocionales
+para el desarrollo integral yla salud
+mental de niños, niñasy adolescentes
+Establecimientos Educativos
+Módulo 2
+Guía de preguntas
+orientadoras
+Fundación
+Saldarriaga
+Concha
+Establecimientos Educativos
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Módulo 2 ""pensando de manera creativa, pensando críticamente""
+Actividad momento 2 - Interacción y preguntas
+Desarrollando nuestro potencial
+Guía de preguntas orientadoras
+Una vez finalice el diligenciamiento del formato ""Definiendo mis habilidades"",
+reflexione a partir de las siguientes preguntas:
+1. ¿Qué observaron en las explicaciones de los conceptos claves de los otros
+estudiantes?
+2. ¿Qué aspectos en común encontraron?
+3. ¿Qué aprendieron de ustedes mismos y de los demás?
+4. ¿Cómo pueden estos conceptos claves ayudarnos a tener mejores
+experiencias en el nuestro trabajo y en la vida?
+5. ¿Cómo pueden estos conceptos claves ayudarnos a entender y a
+comunicarnos mejor con los demás?
+6. ¿Cómo pueden estos conceptos claves ayudarnos a entender nuestros
+propios valores y creencia y los de los demás?
+2
+El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Fundación
+Saldarriaga
+Concha
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=191;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/69/75/MEN_PTA_C8_ANEXO7_CIRCULOS.pdf;True;True;pdf;"Anexo 7. Círculos de colores
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=378;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/88/c5/Encuentro_sincronico_modulo1.pdf;True;True;pdf;"ENCUENTRO SINCRÓNICO
+MÓDULO 1 - BIENVENIDOS
+La educación
+MODELO EDUCATIVO FLEXIBLE
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+Objetivos
+Socializar las generalidades del MEF haciendo énfasis en los
+A
+propósitos, los principios y los enfoques
+Presentar, por parte de los participantes, la experiencia
+B
+frente al desarrollo del módulo 1
+Resolver dudas frente a inquietudes que se
+C
+tengan de este módulo
+Momentos del encuentro
+Momento de apertura del encuentro
+Momento de profundización del encuentro
+Momento de la práctica
+Momento de cierre
+Duración: 2 horas
+t
+La educación
+MODELO EDUCATIVO FLEXIBLE
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+Construcción del mural de Padlet
++
+Propósitos
++
+Principios
++
+Enfoques
+La educación
+MODELO EDUCATIVO FLEXIBLE
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+CONTEXTO, ANTECEDENTES Y FUNDAMENTOS DEL MEF
+Modelo educativo flexible aprendo, avanzo y transformo:
+Nivelación y aceleración multigrado para niños, niñas y
+adolescentes extraedad de las zonas rural, rural dispersa y urbana
+CONTEXTO
+PROPÓSITO
+POBLACIÓN
+FUNDAMENTOS
+BENEFICIARIA
+Población en situación
+Principios
+Enfoques
+Garantizar la Acogida y
+Niños, niñasy
+de vulnerabilidad
+la Permanencia para
+adolescentes de diversas
+- Flexibilidad
+Enfoque de Derechos:
+(extraedad,
+- Asequibilidad
+que los niños, niñas y
+poblaciones entre 9 y 17
+desplazados,
+- Pertinencia
+- Accesibilidad
+adolescentes en
+migrantes, víctimas del
+- Interdisciplinariedad
+- Adaptabilidad
+extraedad de zonas
+conflicto armado,
+- Significatividad
+- Aceptabilidad
+rurales y urbanas
+campesina rural, otras)
+completen su
+Enfoque de Género
+trayectoria educativa
+Enfoque de
+Educación Inclusiva
+JI
+La educación
+MODELO EDUCATIVO FLEXIBLE
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+PROPÓSITO DEL MEF
+El modelo educativo flexible Aprendo, avanzoy trans-
+formo: Nivelación y aceleración multigrado para
+niños, niñas y adolescentes extraedad de las zonas
+rural, rural dispersa y urbana, busca nivelar el desface
+edad-gradoy desarrollar las competencias básicas de
+losy las estudiantes a los niveles de desempeño nece-
+sarios por conjuntos de grados, desde grado 1° al 9°
+Esto contempla promover de manera efectiva y res-
+ponsable, desde el ámbito educativo, el desarrollo de
+habilidades como leer, escribir, escuchar y hablar, es
+decir, el desarrollo de habilidades comunicativas
+dada la incidencia de las mismas tanto en el desarro-
+llo integral de las personas como en las afectaciones O
+beneficios para una sociedad
+t
+La educación
+MODELO EDUCATIVO FLEXIBLE
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+Los principios que retoma el modelo educativo flexible son los de
+PRINCIPIOS DEL MEF
+flexibilidad, pertinencia, interdisciplinariedad y significatividad
+Flexibilidad
+El MEF se sustenta, en primer lugar, en la flexibilidad metodológica.
+En este sentido, ofrece respuestas a los factores pedagógicos y del
+entorno que influyen en la deserción, la cobertura y la eficiencia del
+sistema educativo, atendiendo a las exigencias de identidad y
++
+arraigo de la población de niños, niñas y adolescentes en extraedad,
+en el contexto rural, rural disperso y urbano marginal.
+La flexibilidad significa también pertinencia académica, pues el
+MEF establece relaciones con los fines educativos, las necesidades
+del medio, el desarrollo individual y el desarrollo social y con los
+PEI/PEC, los PMI (a nivel institucional) y los PAM, así como con las
+políticas de calidad en las Entidades Territoriales en Educación,
+particularmente en el desarrollo de los Estándares Básicos de
+Competencias y de los Derechos Básicos del Aprendizaje.
+Siglas:
+*PEI.
+Proyecto Educativo Institucional
+*PEC.
+Proyecto Educativo Comunitario
+*PMI.
+Plan de Mejoramiento Institucional
+*PAM.
+Plan de Apoyo al Mejoramiento
+La educación
+MODELO EDUCATIVO FLEXIBLE
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+Pertinencia
+Es la condición que hace que el MEF responda a las
+necesidades actuales de una formación integral centrada en
+la autonomía, la interculturalidad, la democracia, la
+participación y la construcción social del conocimiento, para
+superar el distanciamiento entre escuela y comunidad, saber
+científico y saber cotidiano y entre los procesos formativos y
+la vida misma. Lo anterior implica establecer múltiples
+relaciones entre los niños, niñas y adolescentes, el
+establecimiento educativo y el entorno.
+MODELO EDUCATIVO FLEXIBLE
+La educación
+Mineducación
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+Interdisciplinariedad
+En primer lugar, se entiende en términos de la
+C
+integración de diversos conocimientos propios
+de las disciplinas que conforman el plan de
+estudios, a través de la definición de los ejes
+problémicos interdisciplinarios y el enfoque de
+trabajo por proyectos que, bajo un criterio
+pedagógico, didáctico y metodológico, orientan
+la elaboración del material educativo para dar
+respuesta a la formación de calidad para niños,
+niñas y adolescentes en extraedad. En segundo
+lugar, se entiende la interdisciplinariedad como
+la propuesta a los establecimientos para el
+desarrollo de ambientes educativos, campos
+formativos y ejercicios investigativos integrados.
+JI
+La educación
+Mineducación
+MODELO EDUCATIVO FLEXIBLE
+es de todos
+APRENDO, AVANZO Y TRANSFORMO
+ENCUENTRO SINCRÓNICO - MOMENTO DE APERTURA DEL ENCUENTRO
+Significatividad
+Entendida como la posibilidad de que los niños,
+niñas y adolescentes le encuentren sentido a lo
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=378;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/7f/b5/MEFyEE_base.pdf;True;True;pdf;"MODELOS EDUCATIVOS
+FLEXIBLES Y ESTRATEGIAS EDUCATIVAS
+Base para la construcción del MEF-Aprendo, avanzo y
+transformo
+La educación
+Mineducación
+es de todos
+MODELOS EDUCATIVOS FLEXIBLES
+¿Qué son los modelos educativos flexibles - MEF?
+Son estrategias de educación formal en los niveles de Preescolar, Básica y
+Media, con enfoque territorial, en las que se define una postura de educa-
+ción, ser humano y sociedad. Se caracteriza por la flexibilidad curricular,
+principio que hace referencia a la adecuación del currículo, a las particulari-
+dades de las poblaciones destinatarias. Responden a características, condi-
+ciones e intereses de la población a la cual se le ha vulnerado su derecho a
+la educación O que, por factores sociales, geográficos, personales, económi-
+COS, culturales, legales, étnicos, entre otros. Están dirigidos también a pobla-
+ción en riesgo de abandonar el sistema educativo O han desertado de este.
+De acuerdo con lo señalado, el propósito, es garantizar el derecho a una
+educación de calidad, pertinente y flexible para el desarrollo humano e in-
+tegral que promueva la Acogida, el Bienestar y la Permanencia en el siste-
+ma educativo de las personas para que logren completar sus trayectorias
+educativas completas, en coherencia con el Artículo 1° de la Ley General de
+Educación 115 de 1994
+Ministerio de Educación Nacional (2022). Información Modelo Educativo Flexible Caminar en
+Secundaria. Subdirección de Permanencia.
+La educación
+MODELOS EDUCATIVOS FLEXIBLES
+Mineducación
+es de todos
+Y ESTRATEGIAS EDUCATIVAS
+¿Cuáles MEF y estrategias educativas sirvieron de referentes para la construcción
+del modelo educativo flexible Aprendo, avanzo y transformo?
+Aceleración del
+Caminar en
+aprendizaje
+secundaria
+Leer en
+Círculos de
+Colombia
+aprendizaje
+Nivelemos
+La educación
+Mineducación
+es de todos
+MODELOS EDUCATIVOS FLEXIBLES
+Modelo educativo flexible Aceleración del aprendizaje
+?
+¿Qué es?
+Es un MEF que atiende la población extraedad entre los
+10 y los 15 años que no han podido terminar su primaria,
+permitiendo a los estudiantes avanzar varios grados en
+un año. Además, fomenta el desarrollo de competen-
+cias básicasy el aprendizaje significativo para impulsar a
+los estudiantes a continuar en el sistema educativo.
+Se caracteriza por:
+El fortalecimiento de la autoestima.
+La recuperación de la confianza.
+El trabajo sobre la base de las fortalezas de
+los estudiantes.
+El I fomento del aprendizaje significativo.
+El desarrollo de proyectos.
+El enfoque de competencias
+La duración promedio 1 año.
+*MEN. (2010). Guía Docente. Modelo Educativo Aceleración del Aprendizaje. Recuperado de:
+des.colombiaaprende.edu.co/ntg/men/archivos/Referentes_Calidad/Modelos_Flexibles/Aceleraci
+on_del_Aprendizaje/Guia_del_docente/Guia%20Docente.pdf
+La educación
+Mineducación
+es de todos
+MODELOS EDUCATIVOS FLEXIBLES
+Recursos de consulta MEF Aceleración del Aprendizaje
+Ir al enlace
+>
+Ir al enlace
+>
+Manual operativo:
+Módulos:
+La educación
+Mineducación
+es de todos
+MODELOS EDUCATIVOS FLEXIBLES
+Modelo educativo flexible Caminar en secundaria
+El MEF Caminar en secundaria, hace parte de las estrategias que permiten la aceleración y la nivela-
+ción de estudiantes de la zona rural. Esta estrategia educativa garantiza la acogida, la permanencia
+y
+el regreso de aquellos estudiantes adolescentes que, por encontrarse en extraedad, han abandona-
+do el sistema educativo; así mismo, brinda herramientas que permiten a esta población
+nivelarse,
+en
+cuanto a su edad y grado, para posteriormente poder continuar sus estudios.
+El MEF ""Caminar en secundaria"" se constituye para las Secretarías de Educación y los Establecimien-
+tos Educativos en una estrategia para la permanencia en la educación básica secundaria de los ado-
+lescentes y jóvenes de las zonas rurales; igualmente, puede contribuir a controlar la migración de jó-
+venes de la zona rural a los centros urbanos del país (MEN, 2010)..
+A través de:
+Características
+El trabajo y la productividad, gracias a la
+Modalidad: presencial y semi-presencial. El
+implementación de los Proyectos,
+desarrollo de Proyectos Pedagógicos
+Pedagógicos Productivos_-PPP
+Productivos.
+El desarrollo de competencias
+Duración promedio 2 años. Docente como
+La formación para la interculturalidad, que
+dinamizador del proceso de enseñanzay
+implica una actitud de valoración positiva
+aprendizaje.
+hacia la CO municación entre culturas y hacia
+la comprensión de lo diferente como ele
+mento enrique cedor a nivel individual y
+colectivo
+*MEN. (2010). Manual de Implementación Caminar en secundaria.
+La formación para el desarrollo de la
+Recuperado de:
+personalidad, a través de los espacios de
+http://redes.colombiaaprende.edu.co/ntg/men/archivos/Referentes_
+socialización que ofrece la escuela
+Calidad/Modelos_Flexibles/Caminar%20en%20Secundaria/Guias_
+el_docente/Manual%20Implementacion_baja.pdf
+La educación
+Mineducación
+es de todos
+MODELOS EDUCATIVOS FLEXIBLES
+Recursos de consulta MEF Caminar en secundaria
+Ir al enlace >
+Ir al enlace >
+Manual operativo:
+Módulos:
+La educación
+Mineducación
+es de todos
+MODELOS EDUCATIVOS FLEXIBLES
+Modelo educativo flexible Círculos de aprendizaje
+¿Qué es?
+Es un modelo educativo flexible que busca favorecer
+procesos educativos en básica primaria, así como pro-
+mover el acceso a niños y niñas que están por fuera
+del sistema educativo (en particular población despla-
+zada, migrante O en situación de vulnerabilidad).
+Se caracteriza por:
+El aprendizaje activo.
+El funcionamiento por medio de tutores que
+orientan y acompañan los procesos formativos.
+El fomento de competencias ciudadanas.
+El trabajo comunitario.
+El fortalecimiento de los procesos
+IL
+socioemocionales y de aprendizaje significativo.
+ESTRATEGIA DIDÁCTICA
+La educación
+Mineducación
+es de todos
+Y PEDAGÓGICA
+Estrategia didáctica y pedagógica Nivelemos
+¿Quées?
+Es una estrategia para apoyar a los docentes con ma-
+teriales y orientaciones tanto pedagógicas como di-
+dácticas, que permiten desarrollar procesos educati-
+vos los cuales refuercen los conocimientos con rela-
+ción a las áreas de Lenguaje y Matemáticas, desde
+grado transición a quinto.
+Se caracteriza por:
+Brindar recomendaciones didácticas y pedagógicas
+para los docentes en pro del mejoramiento del
+desempeño de los estudiantes en las áreas de
+matemáticas y lenguaje.
+Fortalecimiento de la autoestima y las prácticas
+sociales escolares.
+Edad promedio de la población a trabajar de 5 a 11
+años.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=181;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ea/a4/MEN_PTA_C3_ANEXO9_MEMORIA.pdf;True;True;pdf;"MEMORIA COLECTIVA
+Y MEMORIA HISTORICA*
+Maurice Halbwachs
+(...) La historia no es todo el pasado, pero tampoco es todo lo que queda
+del pasado. O, si se quiere, junto a una historia escrita, se encuentra una his-
+toria viva que se perpetúa o se renueva a través del tiempo y donde es posible
+encontrar un gran número de esas corrientes antiguas que sólo aparentemente
+habían desaparecido. Si no fuera así, ¿tendríamos derecho a hablar de memo-
+ria colectiva?, ¿y qué servicio podrían hacernos unos marcos que sólo subsisti-
+rían en estado de nociones históricas, impersonales y descarnadas? Los grupos,
+en cuyo seno antaño se elaboraron unas concepciones y un espíritu que reina-
+ron algún tiempo sobre toda la sociedad, retroceden pronto y hacen sitio a
+otros que sostienen a su vez, durante un período, el cetro de las costumbres y
+dan forma a la opinión según nuevos modelos. Podríamos creer que el mundo
+sobre el que, con nuestros abuelos, nos hemos inclinado se ha retirado de
+repente. Como apenas nos quedan recuerdos que salgan del círculo familiar
+del tiempo intermedio entre ése, muy anterior a nuestro nacimiento, y la
+época en que nuestro espíritu se verá poseído por los intereses nacionales,
+todo sucede como si, en efecto, hubiera habido una interrupción durante la
+cual el mundo de los ancianos se borró lentamente, mientras el cuadro se
+cubría de caracteres nuevos. Consideremos, no obstante, que no haya acaso
+un medio, ni un estado de los pensamientos o de las sensibilidades de antaño,
+*
+Traducción de un fragmento del capítulo II de La mémoire collective, París, PUF, 1968.
+Reis
+69/95 pp. 209-219
+MAURICE HALBWACHS
+del que no subsistan huellas y, más aún, todo lo necesario para recrearlo tem-
+poralmente (...).
+La vida del niño está más sumida de lo que se cree en medios sociales por
+los que entra en contacto con un pasado más o menos lejano, que es como el
+marco en el que están prendidos sus recuerdos más personales. En ese pasado
+vivido, mucho más que en el pasado aprendido por la historia escrita, podrá
+apoyarse más tarde su memoria. Si al principio no ha distinguido ese marco y
+los estados de conciencia en él situados, es muy cierto que, poco a poco, se
+operará en su espíritu la separación entre su pequeño mundo interno y la
+sociedad que le rodea. Pero como originalmente esos dos tipos de elementos
+han estado estrechamente fundidos, se le aparecen todos como formando parte
+de su yo de niño. No se puede decir que todos los correspondientes al medio
+social se le presentarán más tarde como un marco abstracto y artificial. En ese
+sentido, la historia vivida se distingue de la historia escrita: tiene todo lo nece-
+sario para constituir un marco vivo y natural en el que un pensamiento puede
+apoyarse para conservar y encontrar la imagen de su pasado.
+Pero ahora debemos ir más lejos. A medida que el niño crece, y sobre todo
+cuando se hace adulto, participa de manera más distinta y reflexiva en la vida y
+pensamiento de los grupos de los que en un principio formaba parte sin darse
+cuenta. ¿Cómo no va a modificarse la idea que tiene de su pasado? ¿Cómo las
+nociones nuevas que adquiere, nociones de hechos, reflexiones e ideas, no van
+a reaccionar sobre sus recuerdos? Lo hemos repetido a menudo: el recuerdo es
+en gran medida una reconstrucción del pasado con la ayuda de datos tomados
+prestados al presente y preparada, además, por otras reconstrucciones hechas
+en épocas anteriores de donde la imagen de antaño ha salido ya muy alterada
+(...). No hay en la memoria vacío absoluto, es decir, regiones de nuestro pasa-
+do hasta tal punto fuera de nuestra memoria que toda imagen suya no pueda
+relacionarse con ningún recuerdo, y sea una imaginación pura y simple, o una
+representación histórica exterior a nosotros. Nada se olvida, pero esta proposi-
+ción puede entenderse en sentidos diferentes. Para Bergson, todo el pasado per-
+manece entero en nuestra memoria tal como ha sido para nosotros, pero cier-
+tos obstáculos, en particular el comportamiento de nuestro cerebro, nos impi-
+den evocar todas sus partes. En todo caso, las imágenes de los hechos pasados
+están enteramente acabadas en nuestro espíritu (en la parte inconsciente de
+nuestro espíritu) como páginas impresas de un libro que podrían abrirse aun
+cuando no se abren. Para nosotros, al contrario, lo que persiste son son imáge-
+nes totalmente confirmadas en alguna galería subterránea de nuestro pensa-
+miento, sino, en la sociedad, todas las indicaciones necesarias para reconstruir
+esas partes de nuestro pasado que concebimos de forma incompleta o indistin-
+ta o que incluso creemos enteramente salidas de nuestra memoria. De dónde
+viene que llenemos esas lagunas aparentes cuando el azar nos vuelve a poner en
+presencia de aquellos que han participado en los mismos hehos, que han sido
+con nosotros actores o testigos, cuando se nos cuenta o descubrimos de otro
+modo lo que pasaba entonces en torno nuestro? En realiad, lo que tomábamos
+210
+MEMORIA COLECTIVA Y MEMORIA HISTORICA
+por un espacio vacío sólo era una zona un poco indecisa, de la que nuestro
+pensamiento se desviaba porque encontraba muy pocos vestigios. Cuando se
+nos indica con precisión el camino seguido, esos rasgos vuelven a salir, los liga-
+mos, ellos mismos se profundizan y se reúnen. Luego existían, pero estaban
+más marcados en la memoria de otros que en nosotros mismos. Sin duda
+reconstruimos, pero esa reconstrucción se opera según líneas ya marcadas y
+dibujadas por nuestros otros recuerdos o por los recuerdos de los demás. Las
+imágenes nuevas se esbozan sobre lo que en esos otros recuerdos permanecía, a
+falta de ellas, indeciso e inexplicable, pero no menos dotado de realidad. Así,
+cuando recorremos los viejos barrios de una gran ciudad, experimentamos una
+satisfacción particular en que nos cuenten la historia de esas calles y esas casas.
+Son otras tantas nociones nuevas, pero pronto nos parecen familiares porque
+concuerdan con nuestras impresiones y se sitúan sin esfuerzo en el decorado
+subsistente. Nos parece que el decorado por sí solo habría podido evocarlos y
+que lo que imaginamos sólo es el desarrollo de lo que ya percibíamos. El cua-
+dro que se extiende ante nuestros ojos estaba cargado de una significación que
+permanecía oscura para nosotros, pero de la que adivinábamos alguna cosa.
+Debemos descubrir y explicar la naturaleza de los seres con los que hemos vivi-
+do a la luz de toda nuestra experiencia, tal como se ha formado en los períodos
+siguientes. El nuevo cuadro, proyectado sobre los hechos que ya conocíamos,
+nos revela más de uno de sus rasgos que, ahí situado, recibe de él una significa-
+ción más clara. La memoria se enriquece así con esas aportaciones extrañas
+que, cuando se enraizan y encuentran su lugar, no se distinguen ya de los otros
+recuerdos.
+Para que la memoria de los otros venga así a reforzar y completar la nuestra
+también hace falta, decíamos, que los recuerdos de esos grupos estén en rela-
+ción con los hechos que constituyen mi pasado. Cada uno de nosotros, en
+efecto, es miembro a la vez de varios grupos más o menos grandes. Ahora bien,
+si fijamos nuestra atención en los grupos más grandes, por ejemplo la nación,
+aunque nuestra vida y la de nuestros padres o la de nuestros amigos estén com-
+prendidas en la suya, no se puede decir que la nación como tal se interese por
+los destinos individuales de cada uno de sus miembros. Admitamos que la his-
+toria nacional sea un resumen fiel de los acontecimientos más importantes que
+han modificado la vida de una nación. Se distingue de las historias locales,
+provinciales, urbanas, en que sólo retiene los hechos que interesan al conjunto
+de los ciudadanos o, si se quiere, a los ciudadanos en tanto que miembros de la
+nación. Para que la historia así entendida, incluso si está muy detallada, nos
+ayude a conservar y a encontrar el recuerdo de un destino individual, es nece-
+sario que el individuo considerado haya sido él mismo un personaje histórico.
+Ciertamente, hay momentos en que todos los hombres de un país olvidan sus
+intereses, su familia, los grupos restringidos en cuyos límites se detiene de
+ordinario su horizonte. Hay acontecimientos nacionales que modifican al
+mismo tiempo todas las existencias. Son escasos. Sin embargo, pueden ofrecer a
+todos los miembros de un país algunos puntos de referencia en el tiempo. Pero
+211
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=179;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/94/93/MEN_PTA_C2_ANEXO6_INVESTIGACION_ACCION.pdf;True;True;pdf;"Investigación Acción
+del profesorado
+dimensión
+educativo
+Scanned with CamSc
+INDICE
+PRESENTACIÓN
+7
+1. MÉTODOS DE LA INVESTIGACIÓN CUALITATIVA
+Gregorio Rodríguez y otros
+9
+Métodos cualitativos
+11
+Fenomenología
+12
+Etnografía
+17
+Teoría fundamentada
+23
+Etnometodología
+25
+Investigación-Acción (I-A)
+27
+El método biográfico
+35
+2. INVESTIGACIÓN EN LA ACCIÓN Y RESPONSABILIDAD
+DEL PROFESOR EN EL PROCESO EDUCATIVO
+Lawrence Stenhouse.
+Selección de textos: 1. Rudduck y D. Hopkins
+39
+3. HACIA LA CONCEPCIÓN DEL PROFESOR COMO INVESTIGADOR
+Merlin C. Wittrock
+45
+4. LA INNOVACIÓN Y LA INVESTIGACIÓN CON MIRAS A MEJORAR
+LA CALIDAD EDUCATIVA
+Rodrigo Parra Sandoval
+5. EL VÍDEO EN UNA EXPERIENCIA DE INVESTIGACIÓN ACCIÓN
+DEL PROFESORADO
+Germán Mariño Solano
+59
+El contexto
+61
+La propuesta
+61
+Prospectiva
+62
+La experiencia del vídeo
+63
+Construyendo categorías de análisis
+77
+Buscando tendencias
+78
+A modo de conclusión
+79
+Scanned with CamScanr
+Métodos
+de la Investigación
+Cualitativa
+Artículo tomado de: RODRIGUEZ G., Gregorio V otros: Metodologia
+Scanned with CamScanner
+1. MÉTODOS CUALITATIVOS
+Realmente resulta difícil llegar a determinar cuáles son los métodos de
+investigación cualitativos y establecer una tipología de los mismos. La causa de
+ello radica, en primer lugar, en la proliferación de métodos que podrían
+adjetivarse como cualitativos -basta con revisar los trabajos de Cajide (1992),
+Jacob (1987) y Wolcott (1992) para tener una primera impresión desconcertante-;
+en segundo lugar, las distintas disciplinas que se aproximan al estudio del hecho
+educativo, dejando cada una de ellas su propia impronta metodológica; y, por
+último, el propio significado del concepto método, bajo el cual llegan a englo-
+barse otros tales como aproximaciones, técnicas, enfoques o procedimientos.
+Así, por ejemplo, desde los objetivos de investigación de la interacción simbólica
+(Denzin, 1989), los métodos a considerar deberían ser la observación participan-
+te, la investigación naturalista, la entrevista sociológica y la biografía. Pero si uno
+se sitúa en la perspectiva de Goetz y LeCompte (1984), estos métodos habrán
+de considerarse a la luz de la investigación etnográfica. Aunque muchos de los
+procedimientos que describen unos autores y otros son casi idénticos, su
+utilización de acuerdo con la teoría, y sus potencialidades y debilidades, para
+determinados propósitos, son diferentes.
+Una imagen de este complejo entramado metodológico es la que ofrece
+Wolcott (1992) representando las distintas estrategias cualitativas en la investi-
+gación educativa como un árbol que hunde sus raíces en la vida cotidiana, y
+parte de tres actividades básicas: experimentar/vivir, preguntar y examinar. A
+partir de estas raíces brotarán las diferentes ""ramas"" y ""hojas"" de la investigación
+cualitativa, entre las que el investigador debe elegir para realizar su trabajo.
+Todos estaremos de acuerdo en que la naturaleza de las cuestiones de
+investigación guía y orienta el proceso de indagación y, por tanto, la elección
+de unos métodos u otros. Destacamos de esta forma el carácter instrumental del
+método. Pero los métodos de investigación surgen bajo las concepciones y
+necesidades de los investigadores que trabajan desde una disciplina concreta del
+saber, la cual determina en cierta medida, a su vez, la utilización de los métodos
+concretos y las posibles cuestiones a tratar.
+determinada por la intención sustantiva y el enfoque que la orienta. Basándonos
+Así pues, consideramos el método como la forma característica de investigar
+en la comparación realizada por Morse (1994a), en el siguiente cuadro, presen-
+Scanned with CamScanner
+tamos una clasificación, que no pretende ser exhaustiva, de los métodos que
+vienen utilizando en la investigación cualitativa. En la primera columna se
+cuadro hemos situado las cuestiones que orientan la investigación, a continua- del
+ción el método más adecuado para enfrentarse al tipo de interrogante planteado
+la disciplina de procedencia del método, las técnicas de recogida de información
+que se utilizan por lo general desde ese enfoque metodológico, otras fuentes de
+datos y, por último, algunos autores relevantes que han trabajado desde cada
+opción metodológica.
+2. FENOMENOLOGÍA
+Las raíces de la fenomenología hay que situarlas en la escuela de pensamiento
+filosófico creada por Husser (1859-1938) en los primeros años del siglo XX.
+Según Husserl, la tarea de la filosofía fenomenológica es constituir a la filosofia
+como una ciencia rigurosa, de acuerdo con el modelo de las ciencias físico-na-
+turales del siglo XIX, pero diferenciándose de ésta por su carácter puramente
+contemplativo.
+Como diferencia fundamental de la investigación fenomenológica, frente a
+dual otras corrientes sobre de investigación cualitativas, destaca el énfasis sobre lo indivi-
+sistemática y la experiencia subjetiva: ""La fenomenologia la
+1990: 49). de la subjetividad"" (Bullington y Karlson, 1984: 51; es citado investigación por Tesch,
+tareas ocho puntos: fenomenológica se pueden resumir 50), en el los sentido siguientes y
+Para de Van la investigación Manen (1990: 8-13; citado por Mélich, 1994: las
+1.
+mundo La investigación de la vida, fenomenológica es el estudio de vital, del
+gico, es la experiencia de la no cotidianidad. conceptualizada Lo cotidiano, o categorizada. la en experiencia sentido fenomenold
+2.
+Toda la La conciencia. investigación Ser fenomenologica consciente implica es la explicación de los fenómenos finnalidad. dados a
+conciencia es una transitivida
+Scanned with CamScanner
+Técnicas/ins-
+Tipos de
+trumentos de
+Otras fuentes
+Principales
+cuestiones de
+Método
+Fuentes
+recogida de
+de datos
+referencias
+investigación
+información
+Cuestiones de
+fenomenología
+filosofia
+grabación de
+literatura feno-
+Heshusius,
+significado:
+(fenomenología)
+conversaciones;
+menológica; re-
+1986;
+explicitar la
+escribir anécdo-
+flexiones filosó-
+Mélich, 1994;
+esencia de las
+tas de experien-
+ficas; poesia;
+van Manen,
+experiencias de
+cias personales
+arte
+1984, 1990.
+los actores
+Cuestiones
+etnograffa
+antropología
+entrevista no
+documentos;
+Erickson, 1975;
+descriptivo/
+(cultura)
+estructurada;
+registros;
+Mehan, 1978,
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=189;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/5b/5c/MEN_PTA_C7_PROTOCOLO.pdf;True;True;pdf;"La educación
+Mineducación
+es de todos
+Todos a Aprender
+PR-PREP-1-1-PTA-CDA ORIENTACIONES PARA EL FORTALECIMIENTO DEL SISTEMA INSTITUCIONAL DE EVALUACIÓN EN CUANTO A
+LA AUTOEVALUACIÓN Y COEVALUACIÓN.
+TABLA DE CONTENIDO
+1) TABLA DE CONTENIDO
+2) INFORMACIÓN GENERAL
+3) DESCRIPCIÓN DEL DESARROLLO DE ACTIVIDADES
+4) ACTIVIDADES DE ENRIQUECIMIENTO
+5) DESCRIPCIÓN DE ALTERNATIVAS Y MATERIALES COMPLEMENTARIOS
+6) UBICACIÓN EN LOS PROGRAMAS QUE SE UTILIZA EL PROTOCOLO
+7) FICHA TÉCNICA
+8) ENLACE POSIBLE CON COMUNIDADES DE APRENDIZAJE
+9) AMPLIACIÓN TEÓRICA Y CONCEPTUAL
+10) REFERENCIAS BIBLIOGRÁFICAS
+11) ANEXOS
+12) CONTROL DE CAMBIOS DEL DOCUMENTO
+1) INFORMACIÓN GENERAL
+A partir de las orientaciones epistemológicas, curriculares y normativas del Ministerio de Educación
+Nacional, en materia de evaluación; en la línea de evaluación formativa del Programa Todos a Aprender,
+se ha aportado elementos de análisis y reflexión, para identificar, fortalecer y consolidar prácticas
+pedagógicas centradas en el desarrollo y aprendizaje de los niños, niñas y adolescentes (NNA).
+Contexto
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+Es así como, lo realizado hasta la fecha se fundamenta en el Documento 11 (Fundamentaciones y
+orientaciones para la implementación del Decreto 1290 de 2009).
+A manera de ilustración, se citan en el siguiente cuadro algunas concepciones planteadas en el
+Documento 11 (2009), que han sido el referente de la línea pedagógica de evaluación formativa del
+Programa:
+...es inadmisible pensar, que los estudiantes de hoy no aprenden porque son malos, les falta capacidades y no les interesa
+estudiar o aprender. A renglón seguido, habría que preguntarse por el método que se utiliza para que ellos aprendan; por qué
+unos sujetos que aprenden infinidad de cosas cuando salen del aula de clase, no lo hacen o logran dentro de ella; qué tan
+pertinente es el saber, los temas y conceptos que circulan en el aula.
+Hay que recordar entonces, que es obligación de todo establecimiento educativo velar por el cumplimiento de tales propósitos,
+garantizando los elementos, procedimientos, mecanismos y actividades que sean necesarios para que los estudiantes aprendan
+y no sean excluidos del proceso educativo.
+La evaluación es aprendizaje, en la medida que es un medio a través del cual se adquieren conocimientos. Los profesores
+aprenden para conocer y mejorar la práctica docente en su complejidad, y para colaborar en el aprendizaje de sus educandos
+conociendo las dificultades que tienen que superar, el modo de resolverlas y las estrategias que ponen en funcionamiento en
+tal actividad.
+debemos entender que la evaluación en el aula es una de las actividades que hacen parte y se desarrollan dentro del proceso
+formativo que se adelanta en la institución escolar, con la cual no solamente aprenden los estudiantes, sino que especialmente,
+lo hacen los maestros, porque a partir de ella es que deben visualizar, organizar y planificar su trabajo de enseñanza.
+El Ministerio de Educación Nacional para atender y responder a las diferentes necesidades y circunstancias que tienen o viven
+los niños, niñas, jóvenes y adultos del país, ha creado y puesto en marcha diversos modelos educativos cuya principal
+característica es su flexibilidad. El Decreto 1290 reconoce la existencia de estos modelos y metodologías flexibles y ante la
+imposibilidad de unificar disposiciones específicas para cada uno de ellos, permite que cada establecimiento educativo formule
+dentro de su sistema institucional de evaluación de los estudiantes criterios de valoración y promoción diferenciales y acordes
+a la esencia del modelo adoptado.
+Teniendo en cuenta que la evaluación es una acción formativa a través de la cual se puede valorar en buena medida los
+desempeños de los estudiantes, es necesario que estos sean participantes activos de dichos procesos. Para que la participación
+sea efectiva, niños, niñas, jóvenes y adultos tienen derecho a conocer previamente los criterios, contenidos, instrumentos,
+métodos y maneras mediante los cuales serán evalúa- dos y valorados.
+El proceso formativo que implica enseñanza, aprendizaje y evaluación, nos habla de unas responsabilidades compartidas por
+dos actores fundamentales que intervienen en él: profesores-estudiantes. Así, los docentes siempre deben buscar las causas
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+de los resultados no satisfactorios en sus aprendices, para brindarles apoyo mediante estrategias renovadas y apropiadas que
+les permita mejorar sus desempeños.
+Como ya se ha expresado en el apartado anterior, la evaluación no es una tarea aislada del proceso formativo; por tanto, ella
+debe estar inserta y ser coherente (conceptual, pedagógica y didácticamente) con toda la propuesta educativa que ha definido
+determinada institución. Es decir, que debe ser coherente con su misión, propósitos, modelo o enfoque pedagógico. Tal
+actividad implica que en el momento de plantearse el sistema institucional de evaluación y promoción debe revisarse el PEI, no
+solo por su incorporación en él, sino por la coherencia interna que debe existir entre el enfoque de enseñanza y el enfoque de
+evaluación.
+De tal manera que, estos elementos, entre otros, permitieron en su momento ahondar en la evaluación
+desde diferentes perspectivas: el reconocimiento e impacto de la evaluación externa- ciclo I, el
+reconocimiento del SIEE en articulación con el PEI- ciclo II, la evaluación formativa desde la innovación-
+ciclo III, la educación inclusiva- ciclo IV- la evaluación basada en evidencias -ciclo V y la evaluación
+formativa en EE rurales y aulas multigrado (modelos flexibles)- ciclo VI.
+Lo que ha permitido hacer énfasis durante el proceso de formación en los principales rasgos que
+caracterizan a la evaluación educativa en los niveles básica y de media. (MEN -Documento 11):
+1. Es formativa, motivadora, orientadora, pero nunca sancionatoria.
+2. Utiliza diferentes técnicas de evaluación y hace triangulación de la información, para emitir juicios y
+valoraciones contextualizadas.
+.Está centrada en la forma como el estudiante aprende, sin descuidar la calidad de lo que aprende.
+4.Es transparente, continua y procesual.
+5. Convoca de manera responsable a todas las partes en un sentido democrático y fomenta la
+autoevaluación en ellas.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=183;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/5d/c4/PROTOCOLO EVALUACIO´N FORMATIVA _ CICLO IV.pdf;True;True;pdf;"La educación
+Mineducación
+es de todos
+Todos a Aprender
+PR-PREP-I-1-PTA-CDA LA EVALUACIÓN FORMATIVA EN EL MARCO DE LA EDUCACIÓN INCLUSIVA. 05082019.
+TABLA DE CONTENIDO
+1) TABLA DE CONTENIDO
+2) INFORMACIÓN GENERAL
+3) DESCRIPCIÓN DEL DESARROLLO DE ACTIVIDADES
+4) ACTIVIDADES DE ENRIQUECIMIENTO
+5)
+DESCRIPCIÓN DE ALTERNATIVAS Y MATERIALES COMPLEMENTARIOS
+6) UBICACIÓN EN LOS PROGRAMAS QUE SE UTILIZA EL PROTOCOLO
+7) FICHA TÉCNICA
+8) ENLACE POSIBLE CON COMUNIDADES DE APRENDIZAJE
+9) AMPLIACIÓN TEÓRICA Y CONCEPTUAL
+10) REFERENCIAS BIBLIOGRÁFICAS
+11) ANEXOS
+12) CONTROL DE CAMBIOS DEL DOCUMENTO
+1) INFORMACIÓN GENERAL
+La declaración de Incheon 2015 y el Marco de Acción ODS 4 . Educación 2030, se entiende como un
+compromiso urgente ""una agenda de la educación única y renovada que sea integral, ambiciosa y
+exigente, sin dejar a nadie atrás"". ""mediante la educación para el desarrollo sostenible (ESD) y la
+educación para la ciudadanía mundial. UNESCO, (2016, pp. 8). La crisis mundial en equidad, igualdad
+económica, justicia, paz y gobernabilidad mundial, entre otros aspectos, colocan a la escuela y a todo
+Contexto
+sistema educativo en el ápice, para alcanzar un desarrollo humano sostenible.
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+Por consiguiente, los sistemas educativos de las sociedades actuales, están llamados a armonizar sus
+procesos educativos, con el ODS-Objetivo de Desarrollo Sostenible, No. 4; ""Garantizar una educación
+inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos"" (ODS
+No. 4). La inclusión y la equidad, no son temas nuevos ni menores, ni tampoco la interrelación que se
+hace de los dos, esto es, ciertamente, principios de una educación para todos.
+La UNESCO, define la inclusión, ""como un proceso que ayuda a superar los obstáculos que limitan la
+presencia, la participación y los logros de todos los y las estudiantes y la equidad, ""consiste en asegurar
+que exista una preocupación por la justicia, de manera que la educación de todos los y las estudiantes se
+considere de igual importancia."" (2017 pp. 13).
+Sobre esto, el informe PISA, durante los últimos años se ha caracterizado precisamente por evidenciar
+esta relación y ha identificado que existen zonas marcadas por la inequidad, otras por la excelencia y muy
+pocas han logrado al 100% empalmar ambos propósitos.
+Canadá, Dinamarca, Estonia, Hong Kong (China) y Macao (China) alcanzan tanto niveles elevados de excelencia
+general como equidad en los resultados educativos. Una serie de países han mejorado la equidad, en especial
+los Estados Unidos. Pero en Australia, la República Checa, Finlandia, Grecia, Hungría, Nueva Zelanda y la
+República Eslovaca, el porcentaje de estudiantes con un rendimiento del máximo nivel ha disminuido, al tiempo
+que ha aumentado el de estudiantes con bajo rendimiento. PISA (2016).
+Si los resultados sobresalientes en la aplicación de las pruebas PISA, están concentrados en un número
+tan reducido de colegios, quiere decir esto, ¿qué la equidad y la excelencia están distantes de las aulas
+del resto del mundo? Para contestar a esto, se requieren análisis contextualizados y situados a las
+realidades escolares y territoriales, no obstante, estos resultados dejan de manifiesto la necesidad de
+atender a nivel mundial, a los obstáculos y barreras que impiden el acceso, permanencia y calidad de
+la
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+educación para todos las y los estudiantes. En nuestro contexo, es importante hacer las siguientes
+precisiones conceptuales para entender con claridad los alcances de la educación inclusiva:
+La educación inclusiva en el decreto 1421 del 29 de agosto de 2017 se entiende como:
+""Un proceso permanente que reconoce, valora y responde de manera pertinente a la diversidad de
+características, intereses, posibilidades y expectativas de los niñas, niños, adolescentes, jóvenes y adultos, cuyo
+objetivo es promover su desarrollo, aprendizaje y participación, con pares de su misma edad, en un ambiente
+de aprendizaje común, sin discriminación o exclusión alguna, y que garantiza, en el marco de los derechos
+humanos, los apoyos y los ajustes razonables requeridos en su proceso educativo, a través de prácticas, políticas
+y culturas que eliminan las barreras existentes en el entorno educativo""
+En el Plan Nacional de Desarrollo:
+La educación inclusiva trasciende una respuesta educativa poblacional, generando ambientes de aprendizaje
+que promueven la participación efectiva de todos los estudiantes, desde sus características individuales y
+condiciones específicas. En este sentido, se apunta hacia una educación inclusiva soportada en los derechos
+humanos PND (2019).
+El Ministerio de Educación Nacional, por su parte:
+(...) es fundamental precisar que la educación inclusiva es una pieza clave de un proceso que va más allá de la
+dicotomía tradicional que existe entre inclusión y exclusión. La educación inclusiva no pretende adoptar
+posiciones obstinadas para definir quién o quiénes deben ser considerados como excluidos o incluidos. El único
+criterio existente trasciende esa dicotomía al posicionar el paradigma como garante de los Derechos Humanos
+y el principio según el cual entender y respetar la diversidad está estrictamente relacionado con una educación
+para todas y todos. MEN (2013).
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+Bajo este panorama, se deben problematizar los sistemas educativos tradicionales, los fines de la
+educación y los elementos del currículo: propósitos de formación, metodologías, enfoques, recursos,
+contenidos, secuenciación, tiempos y la evaluación. Este último, considerado un elemento decisivo en el
+mejoramiento de la calidad educativa, y en el cual se centrará la presente discusión, en busca de
+reconocer las características de la evaluación en un modelo de educación inclusiva, equitativa, de calidad
+y para todos y todas.
+Así, en la agenda internacional y nacional se marca el propósito de una educación inclusiva, esto ratifica
+la necesidad de promover acciones puntuales para eliminar las barreras de acceso, permanencia, calidad
+y, por ende, reconocer las prácticas que obstaculizan los aprendizajes de los niños, niñas, adolescentes y
+jóvenes. Este es un llamado de la sociedad actual, a realizar una atención equitativa e integral desde la
+diferencia y el reconocimiento de los estilos y ritmos de aprendizaje y las capacidades específicas de las
+personas. Una educación a la medida de cada quien, que fortalezca la participación activa y efectiva de
+los estudiantes y que asegure trayectorias educativas continuas y completas.
+Para pensar la evaluación, desde la perspectiva de la educación inclusiva, es importante reconocer
+algunos de los principios que se relacionan en el decreto 1421 de 2017, pues, aunque se relacionan aquí,
+no solo aplican para personas con discapacidad y sirven para marcan los derroteros metodológicos de
+una evaluación bajo esta perspectiva. A continuación, se citan los que se pueden considerar básicos para
+generar reflexión pedagógica sobre la valoración de los aprendizajes de los estudiantes:
+A.
+Ajustes razonables: son las acciones, adaptaciones, estrategias, apoyos, recursos o modificaciones necesarias y
+adecuadas del sistema educativo y la gestión escolar, basadas en necesidades específicas de cada estudiante,
+que persisten a pesar de que se incorpore el Diseño Universal de los Aprendizajes, y que se ponen en marcha
+tras una rigurosa evaluación de las características del estudiante con discapacidad. A través de estas se garantiza
+que estos estudiantes puedan desenvolverse con la máxima autonomía en los entornos en los que se encuentran,
+y así poder garantizar su desarrollo, aprendizaje y participación, para la equiparación de oportunidades y la
+garantía efectiva de los derechos.
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=363;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/67/ec/Temáticas Caminar en Secundaria.pdf;True;True;pdf;"Educación
+NANAANANNA
+Estrategias Flexibles,
+Modelos Diversos
+Distribución general de las temáticas
+del Modelo Educativo Flexible
+Caminar en Secundaria
+Estrategias Flexibles, Modelos Diversos
+Distribución general de las temáticas
+Temáticas del curso Caminar en Secundaria
+En el presente documento encontrará las temáticas a trabajar en cada sección, así como las diferentes
+misiones que se abordarán a lo largo del curso y el porcentaje de participación que debe alcanzar para
+recibir la certificación final.
+Sección 1. Transversal
+Tiempo de trabajo: 12 horas
+Introducción a la sección
+Generalidades de los MEF
+Tipos de MEF
+Articulación del modelo con el PEI PMI
+Inclusión
+Proyectos pedagógicos productivos
+Sección 2. Fundamentos del Modelo Caminar en Secundaria
+Tiempo de trabajo: 18 horas
+Introducción
+¿Qué es Caminar en Secundaria?
+Antecedentes de la estrategia
+Marco normativo
+Objetivos de esta estrategia
+Principios orientadores
+¿Qué población atiende esta estrategia?
+¿Qué criterios se deben tener en cuenta para la conformación de los grupos de
+estudiantes?
+Modalidades de atención
+Motivación a los docentes
+Sección 3. Marcos pedagógico y didáctico del MEF Caminar en
+Secundaria Tiempo de trabajo: 18 horas
+Introducción
+Enfoque y principios pedagógicos
+Formación de los estudiantes en CS
+Evaluación y promoción en Caminar en Secundaria
+Plan de estudios
+Planeación
+2
+Estrategias Flexibles, Modelos Diversos
+Distribución general de las temáticas
+Desarrollo de las actividades
+Cada sección del curso está compuesta por una serie de misiones.
+Realícelas en su totalidad para obtener puntos de experiencia e in
+acumulándolos para alcanzar dos grandes metas:
+1) Estar preparado para ser acompañar la implementación de los
+diferentes Modelos Educativos Flexibles desde su rol específico: docente,
+directivo docente o profesional de las SE y,
+2) obtener el certificado de su participación en el curso.
+3
+Estrategias Flexibles, Modelos Diversos
+Distribución general de las temáticas
+Misión 1. Tras las huellas de los
+Misión 2. ¿Cómo saber más?
+sabios
+Objetivo: Desarrollar una actividad
+Objetivo: Estudiar el contenido teórico y
+interactiva de apropiación del
+conceptual de cada una de las secciones.
+conocimiento.
+Número total de misiones: Tres (3)
+Número total de misiones: Tres (3)
+Puntaje máximo por misión:
+Puntaje máximo:
+100 puntos por ver todo el contenido del
+100 puntos por ver todo el contenido del
+paquete scorm*.
+paquete scorm.
+10 puntos adicionales por enviar el mensaje
+10 puntos adicionales por enviar el mensaje
+correcto en el buzón secreto 1.
+correcto en el buzón secreto 2.
+Misión 3. Aventura extrema
+Misión 4. La prueba final
+Objetivo: Ejecutar una actividad de
+Objetivo: Realizar un cuestionario de 10
+aplicación del contenido estudiado.
+preguntas para autoevaluar el proceso de
+Número total de misiones: Cuatro (4)
+aprendizaje.
+Puntaje máximo:
+Número total de misiones: Tres (3)
+100 puntos por realizar la tarea de acuerdo a
+Puntaje máximo:
+lo solicitado y dentro del tiempo establecido.
+100 puntos por realizar la tarea de acuerdo a
+10 puntos adicionales por enviar el mensaje
+lo solicitado y dentro del tiempo establecido.
+correcto en el buzón secreto 3.
+10 puntos adicionales por enviar el mensaje
+correcto en el buzón secreto 4.
+*Un paquete scorm es un conjunto de recursos digitales, que se encuentran unidos en un solo lugar para ser
+explorados por el usuario final y tener en un solo lugar la información que requiere.
+Para llegar a los primeros puestos y ser el
+""mejor de los mejores"" debe ganar un
+total de 1320 puntos, y para aprobar el
+curso debe obtener un mínimo de 1000
+puntos. Así que iA ganar!
+4
+Educación
+-
+Estrategias Flexibles,
+Modelos Diversos
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=73;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/ef/8e/Módulo Sistematización - bimodal.pdf;True;True;pdf;"UNIVERSIDAD DE
+MINEDUCACIÓN
+TODOS POR UN
+LA SALLE
+NUEVO PAÍS
+PAZ EQUIDAD EDUCACIÓN
+PROYECTO ACOMPAÑAMIENTO A LAS ESCUELAS NORMALES
+1
+SUPERIORES
+MÓDULO DE SISTEMATIZACIÓN BIMODAL
+INTRODUCCIÓN
+Apreciado profesor (a):
+El Ministerio de Educación Nacional y la Universidad de La Salle establecieron el
+Contrato No 1381 de 2016 cuyo objeto es: DEFINIR, VALIDAR E IMPLEMENTAR LOS
+MÓDULOS DE SISTEMATIZACIÓN Y DEFINIR LOS DE FORMACIÓN, QUE HACEN
+PARTE DE LA ESTRATEGIA DE ACOMPANAMIENTO A LAS ESCUELAS NORMALES
+SUPERIORES -ENS, PARA FORTALECERLAS COMO INSTITUCIONES
+FORMADORAS DE DOCENTES.
+Para esto el Proyecto contempla estos objetivos:
+Establecer unos referentes conceptuales que orienten el proceso de formulación
+y desarrollo de módulo de sistematización y de formulación de módulo de
+formación, como aporte al fortalecimiento institucional de las ENS como
+entidades formadoras de docentes.
+Diseñar los módulos de sistematización y de formación en modalidad presencial,
+bimodal y virtual.
+Identificar y conceptualizar categorías que den cuenta del estado de las ENS
+respecto a los ejes de Formación (estructuras curriculares), Evaluación,
+Investigación y Extensión y otros elementos emergentes resultado del proceso de
+sistematización.
+Construir una propuesta de currículo básico para las ENS.
+Contribuir al fortalecimiento de la capacidad institucional de las ENS como
+formadoras de maestros.
+El presente documento desarrolla la estrategia que será utilizada en los procesos de
+acompañamiento a las ENS que tienen metodología bimodal. La estrategia está
+diseñada a partir de dos momentos marcados por la visita del profesor de la ENS del
+grupo numero 1 a la ENS del tercer grupo.
+Para la sistematización se tienen cuatro (4) categorías analíticas de inicio:
+1. Formación
+2. Investigación
+PROYECTO ACOMPAÑAMIENTO
+ESCUELAS NORMALES SUPERIORES
+UNIVERSIDAD DE
+MINEDUCACIÓN
+TODOS POR UN
+LA SALLE
+NUEVO PAÍS
+PAZ EQUIDAD EDUCACION
+3. Evaluación
+4. Extensión comunitaria
+2
+Importante recalcar que la mirada de la sistematización sobre las ENS es sobre un
+complejo mundo institucional que traza un itinerario de formación y que requiere asumir
+todos los niveles educativos que se desarrollan, de tal modo que el abordaje sistémico
+sobre lo curricular permita emerger los ejes de la formación, la investigación,
+la
+evaluación y la extensión de la manera propia que se vive en las ENS, tal como lo afirma
+el documento de Naturaleza y Retos de las Escuelas Normales Superiores: ""la ENS debe
+entenderse como una institución que es ""Centro de Formación Docente"" en el que se
+estudia y produce saber pedagógico, y que se especializa en la formación de docentes
+para la educación preescolar y básica primaria; es decir la ENS es un escenario donde
+confluyen, de manera articulada, la formación pedagógica, la investigación, la evaluación
+educativa y la proyección social, en relación con la educación preescolar y básica
+primaria, que es el campo de acción de sus egresados"" (2015, 24).
+Este módulo de sistematización tiene cuatro grandes partes. La primera presenta los
+objetivos del módulo; la segunda su metodología; la tercera desarrolla los contenidos
+en
+cuatro capítulos: uno sobre el necesario ejercicio de caracterización, otro sobre
+elementos conceptuales, respecto al fundamento epistemológico de la sistematización y
+a las definiciones de los cuatro ejes que definen a las ENS: el siguiente sobre formatos e
+instrumentos de recolección y sistematización de información, y el último sobre procesos
+de análisis. Estos capítulos explican y desarrollan las actividades y los tiempos de
+trabajo. La cuarta y última parte es de seguimiento y evaluación. Hay un elemento
+adicional de bibliografía sugerida para la ampliación de perspectivas conceptuales a
+quien quiera profundizar.
+Este módulo bimodal está diseñado para tener actividades de apoyo virtual para los
+capítulos 1 (caracterización) y 2 (fundamentación conceptual), luego un trabajo
+presencial de tres días en cada una de las ENS, por parte del profesional designado por
+la ENS acompañante del Grupo 1. Y, finalmente un cierre virtual para la elaboración del
+informe de sistematización y la preparación de la presentación en el Encuentro Virtual
+por nodo regional.
+La metodología privilegiada en el Diplomado es la de aprender haciendo, que permite al
+participante adquirir elementos conceptuales a través de la realización de actividades
+prácticas, que en este caso son las estrategias y actividades contempladas para la
+recolección de la información.
+PROYECTO ACOMPANAMIENTO
+ESCUELAS NORMALES SUPERIORES
+UNIVERSIDAD DE
+MINEDUCACIÓN
+TODOS POR UN
+LA SALLE
+NUEVO PAÍS
+PAZ EQUIDAD EDUCACIÓN
+El diplomado está planteado para realizarse en un lapso de seis semanas al cabo de los
+cuales los docentes participantes deben entregar la información recolectada y un informe
+3
+de todo el proceso de sistematización en su ENS.
+En ambos momentos, los facilitadores de la Universidad acompañarán tanto a los 5
+docentes que reciben la visita como al profesor visitante. Para esto, se utilizarán todas
+las herramientas de información y comunicación que se requieran para un adecuado
+acompañamiento.
+Finalizado el proceso la Universidad certificará el diplomado en sistematización de
+experiencias a los integrantes del equipo de la ENS que participó en el desarrollo de la
+experiencia.
+La propuesta de sistematización ha sido construida conjuntamente con los delegados de
+ASONEN bajo la metodología de Círculo Dialógico, una propuesta de clara inspiración
+freiriana que ha propiciado el aprendizaje y la construcción de significados en una
+realidad social que se construye intersubjetivamente. Y en la que las ENS y
+la
+universidad se sitúan como pares en el proceso.
+En síntesis, se trata de un ejercicio en el que con el impulso del MEN, el liderazgo del
+equipo de la ENS bajo la animación de su rector(a) y el acompañamiento por parte de la
+Universidad de La Salle se generan las sinergias necesarias que permitan identificar,
+conceptualizar y profundizar las realidades de las ENS para su proceso de construcción
+identitaria, su camino de su mejoramiento continuo y el trazado de las rutas que le
+permitan seguir aportando a la formación de maestros de calidad para la Colombia del
+postconflicto: el país que nos soñamos y merecemos.
+PROYECTO ACOMPANAMIENTO
+ESCUELAS NORMALES SUPERIORES
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=328;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/b9/e3/Anexo 5. LT Recursos adicionales (Entre textos).pdf;True;True;pdf;"La educación
+Mineducación
+es de todos
+Todos a Aprender
+PROGRAMA TODOS A APRENDER
+Módulo 1 de lenguaje taller
+La lectura en la escuela: entre el placer y el saber
+Recursos adicionales ""Lenguaje Entre Textos""
+Este anexo recoge un minucioso listado de textos literarios dispuestos en la colección
+Lenguaje Entre Textos, desde el grado primero hasta el grado quinto de básica
+primaria. Este instrumento, al igual que todos los libros de la Colección Semilla, se
+convierten en importantes recursos para abordar la literatura en la escuela de manera
+efectiva.
+Libro
+Texto
+Autor
+Página
+Lenguaje entre textos,
+El Lagarto está llorando
+Federico García Lorca
+21
+cuaderno de trabajo -
+(Adaptado)
+semestre A Grado 1.
+Lenguaje entre textos,
+El pintor de pajaritos
+Cuento tradicional adaptado
+29
+cuaderno de trabajo -
+semestre A Grado 1.
+Lenguaje entre textos,
+La historia de la ostra que
+Cuento tradicional adaptado
+45
+cuaderno de trabajo
+perdió su perla
+semestre A Grado 1.
+Lenguaje entre textos,
+El caracol
+Poema tradicional
+67
+cuaderno de trabajo
+Anónimo.
+semestre A Grado 1.
+Lenguaje entre textos,
+Mirringa Mirronga
+Pombo y Rebolledo, J. R.
+91
+cuaderno de trabajo -
+semestre A Grado 1.
+Lenguaje entre textos,
+El Zorro y el Armadillo
+Cuento tradicional
+29
+cuaderno de trabajo -
+semestre B Grado 1.
+Lenguaje entre textos,
+La Tierra
+Gabriela Mistral
+45
+cuaderno de trabajo -
+semestre B Grado 1.
+Lenguaje entre textos,
+El lobito bueno
+José Agustín Goytisolo
+53
+cuaderno de trabajo -
+semestre B Grado 1.
+Lenguaje entre textos,
+Maya y la pitaya
+Adaptado de: Susana
+67
+cuaderno de trabajo -
+Rodríguez V.
+semestre B Grado 1.
+Lenguaje entre textos,
+El señor don Gato
+Anónimo
+75
+cuaderno de trabajo
+semestre B Grado 1.
+Lenguaje entre textos,
+Las canciones de Natacha
+Juana de Ibarbourou
+91
+cuaderno de trabajo
+semestre B Grado 1.
+Lenguaje entre textos,
+La persona más inteligente
+Cuento popular
+107
+cuaderno de trabajo
+del pueblo
+semestre B Grado 1.
+1
+Calle 43 No. 57 - 14 Centro Administrativo Nacional, CAN, Bogotá, D.C.
+PBX: +57 (1) 222 2800 - Fax 222 4953
+www.mineducacion.gov.co atencionalciudadano@mineducacion.gov.co
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+Lenguaje entre textos,
+La cigarra y la hormiga
+Félix María Samaniego
+5
+cuaderno de trabajo -
+semestre A Grado 2.
+Lenguaje entre textos,
+Ricitos de Oro y los tres
+Anónimo
+13
+cuaderno de trabajo -
+osos
+semestre A Grado 2.
+Lenguaje entre textos,
+¿En dónde tejemos la
+Gabriela Mistral
+21
+cuaderno de trabajo -
+ronda?
+semestre A Grado 2.
+Lenguaje entre textos,
+La piel del cocodrilo
+Cuento Tradicional
+29
+cuaderno de trabajo -
+semestre A Grado 2.
+Lenguaje entre textos,
+Las medias de los
+Horacio Quiroga
+45
+cuaderno de trabajo
+flamencos
+semestre A Grado 2.
+Lenguaje entre textos,
+Sé de un pintor atrevido
+José Martí
+69
+cuaderno de trabajo -
+semestre A Grado 2.
+Lenguaje entre textos,
+Los colores de la mariposa
+Leyenda tradicional.
+77
+cuaderno de trabajo -
+semestre A Grado 2.
+Lenguaje entre textos,
+Medio kilo de azúcar
+Juan Antonio de la Iglesia.
+93
+cuaderno de trabajo -
+(Adaptación).
+semestre A Grado 2.
+Lenguaje entre textos,
+El murciélago de colores
+Leyenda mexicana
+5
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+El coyote astuto y el
+Cuento tradicional de la India.
+9
+cuaderno de trabajo
+cocodrilo
+semestre B Grado 2.
+Lenguaje entre textos,
+Las siete vidas del gato
+Rafael Pombo (Adaptado)
+25
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+Érase una vez un bosque
+Helen Ward y Wayne Anderson
+29
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+La mujer, el zorro y el gallo
+Félix María de Samaniego
+67
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+La pata Dedé
+Cuento tradicional (Adaptación)
+75
+cuaderno de trabajo
+semestre B Grado 2.
+Lenguaje entre textos,
+Leyenda de Tanabata
+Leyenda japonesa
+83
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+Rapunzel
+Juan Antonio de la Iglesia
+91
+cuaderno de trabajo -
+(Adaptación)
+semestre B Grado 2.
+Lenguaje entre textos,
+El coyote y la tortuga
+Leyenda Hopi
+103
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+Pastorcita
+Rafael Pombo
+107
+cuaderno de trabajo -
+semestre B Grado 2.
+2
+Calle 43 No. 57 - 14 Centro Administrativo Nacional, CAN, Bogotá, D.C.
+PBX: +57 (1) 222 2800 - Fax 222 4953
+www.mineducacion.gov.co atencionalciudadano@mineducacion.gov.co
+La educación
+Mineducación
+es de todos
+Todos a Aprender
+Lenguaje entre textos,
+El gran Isimali
+Relatos, del Pueblo Sikuán
+119
+cuaderno de trabajo -
+semestre B Grado 2.
+Lenguaje entre textos,
+Canción primaveral
+Federico García Lorca
+9
+cuaderno de trabajo -
+semestre A Grado 3.
+Lenguaje entre textos,
+La escuela pequeña
+Enric Larreula
+23
+cuaderno de trabajo -
+semestre A Grado 3.
+Lenguaje entre textos,
+iCuidado, la Luna sueña!
+María Luisa Silva
+39
+cuaderno de trabajo -
+semestre A Grado 3.
+Lenguaje entre textos,
+Papelucho
+Marcela Paz
+75
+cuaderno de trabajo
+semestre A Grado 3.
+Lenguaje entre textos,
+El misterio de la moneda
+Pedro Pablo Sacristán
+79
+cuaderno de trabajo -
+desaparecida
+semestre A Grado 3.
+Lenguaje entre textos,
+El negrito Zambo
+Anónimo
+19
+cuaderno de trabajo -
+semestre B Grado 3.
+Lenguaje entre textos,
+La Cometa
+Gerardo R.
+41
+cuaderno de trabajo -
+semestre B Grado 3.
+Lenguaje entre textos,
+Historia del osito Pepín
+lnés Cabrera
+93
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=293;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/cd/1a/L1_SE_Módulo_2.pdf;True;True;pdf;"El futuro
+Gobierno
+es de todos
+de Colombia
+Emociones
+Conexión vital
+Conexión emociones
+Competencias Socioemocionales
+para el desarrollo integral yla salud
+mental de niños, niñas y adolescentes
+Secretarías de Educación
+Guía Módulo 2
+Fundación
+Saldarriaga
+Concha
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Módulo 2
+Justificación: Para construir habilidades socioemocionales, es necesario
+identificar las competencias personales con las que se cuenta, para resolver
+problemas. Abordar contextos y situaciones complejas, requiere de un
+pensamiento creativo, que permita dar respuestas y soluciones novedosas.
+Presentación:
+El módulo 2 presenta modelos, estilos, formas y opciones para la solución de
+problemas propios y ajenos, mediante el desarrollo de habilidades y recursos
+personales, para reconocer dificultades y diseñar estrategias de solución.
+Modalidad: Virtual
+Temas del módulo:
+TEMA 1. Solución de problemas
+Conociéndonos, Organizándonos y Compartiendo.
+La puesta en práctica de la solución.
+Lectura, estrategia y opiniones (LEO).
+Integrando información y perspectivas diversas.
+Tangram guía.
+Articulación: ""El efecto mariposa""
+Compromisos y evaluación.
+TEMA 2. Identificación de Conflictos y posibles rutas de acción
+""Rutas de acción agradables y activas en la carrera de obstáculos"".
+Presentación gráfica de las tipificaciones de Rain.
+Planteamientos de roles activos, como eje para la identificación de
+conflictos y posibles rutas de acción""
+Articulación: Fantasía de un conflicto.
+Compromisos y evaluación: Inflarse como globos
+Tema 3: Introducción al pensamiento creativo
+Creación de historia conjunta con dibujos.
+La fluidez, la flexibilidad, la originalidad, y la elaboración.
+La Lluvia de Ideas.
+Creatividad y pensamiento creativo en las emociones.
+2
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Definiendo el pensamiento creativo.
+Aprendiendo Origami.
+Articulación: Sesiones de trabajo conjunto salud y educación
+Representación en plastilina.
+Compromisos y evaluación: Estimulando el pensamiento
+Tema 4: Aprendamos de la empatía
+La palabra ""empatía""
+Consejería y acompañamiento desde el estar en tiempo presente.
+Empatía ante situaciones de otros.
+Mi escala de estrés.
+Articulación: ""Tengo con que""
+Contenidos:
+Problema
+Solución de problemas
+Solución de problemas sociales
+Fluidez
+Flexibilidad
+Originalidad
+Elaboración
+Pensamiento creativo
+Empatía
+Preguntas orientadoras:
+¿Sé lo que es un problema, una solución y cómo aplicarlos en el desarrollo
+de las competencias socioemocionales?
+¿Reconozco lo que es un problema y su efecto en la resiliencia?
+¿Soy consciente de lo que se requiere para encontrar e identificar una
+solución efectiva para los problemas cotidianos?
+Duración: 2 semanas
+Objetivo de aprendizaje:
+Brindar herramientas prácticas para el individuo y su entorno que le permita
+identificar y resolver conflictos de manera asertiva, generar habilidades y
+competencias que requiere la solución de conflictos en la cotidianidad.
+Estrategia metodológica:
+Los módulos se desarrollan por temas, cada tema se compone de 6 momentos
+que son: juego de conocimiento, interacción y preguntas, reto, procesamiento
+y aclaración de conceptos, prácticas propias y compromisos - evaluación. Cada
+momento está dividido en 3 etapas: Sensibilización, Actividad Central y Cierre.
+3
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Cada momento tiene una intencionalidad para la cual se proponen actividades
+como: juego de roles, el uso de las TIC, reflexiones, puestas en escena, trabajo
+con los pares, lecturas complementarias, juegos, retos, solución de problemas
+y el desarrollo de habilidades de comunicación como la presentación de
+información y la argumentación. Las actividades pueden ser adaptadas,
+modificadas y enriquecidas a partir de las experiencias del maestro y las
+características del ambiente.
+Actividades de aprendizaje:
+Tema 1 - Solución de problemas
+Conociéndonos, organizándonos y compartiendo
+Interacción y preguntas
+Muro consejero: integrando información y perspectivas diversas.
+Tangram guía
+El efecto mariposa""
+Evaluación
+Tema 4 - Aprendamos de la empatía
+Consejería y terapia desde el estar en tiempo presente
+Empatía ante situaciones de otros
+Consejería desde el estar en tiempo presente
+Mi escala de estrés
+""Tengo con que""
+En los zapatos del otro
+Actividades de retroalimentación
+Comentarios del tutor.
+Respuesta en foros.
+Correcciones de actividades propuestas de manera automática o de
+revisión con tutor.
+Retroalimentación comentada en entregas.
+Socialización (resultados y errores frecuentes)
+Revisión y retroalimentación por parte de los otros participantes
+Resultados de aprendizaje:
+Se espera funcionarios con:
+Competencias y capacidades resilientes desarrolladas.
+Capaces de reconocer las emociones propias y de identificar con sentido
+crítico, qué es un problema y sus posibles soluciones de forma asertiva,
+fluida, creativa y empática
+4
+Secretarías de Educación
+Emociones
+Competencias socioemocionales para el desarrollo integral
+y la salud mental de niños, niñas y adolescentes
+Conexión vital
+Evidencia de aprendizaje:
+Tipo de evidencia:
+Reflexión de aprendizajes adquiridos.
+Medio de entrega:
+A través de la plataforma Moodle O en los encuentros sincrónicos.
+Espacios de comunicación con el instructor:
+Mensajería interna Moodle
+Encuentros sincrónicos
+Foro de inquietudes
+Chat
+Correo electrónico
+Software requerido: Moodle 3.6
+Foros:
+Foro Social
+Foro de inquietudes (consultas dudas)
+Foro de aprendizaje
+Herramientas Moodle para el aprendizaje:
+Foro, tareas, Creación de actividades
+Recursos o herramientas web para el aprendizaje:
+Recursos:
+Guía de aprendizaje, infografía animada, vídeos, Paso a paso, Guía
+Ministerio de Educación Nacional
+Herramientas Web:
+Videos, wikis, foros, guía paso a paso y Emociones para la vida, Guía Ministerio
+de Educación Nacional.
+5
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=17;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/d5/e8/M3S13_R4.pdf;True;True;pdf;"MAGISTERIO
+TU CARRITO
+.COM.CO
+BUSCAR...
+LOGIN
+(0) productos
+=
+INICIO
+EDITORIAL
+CURSOS
+LIBRERÍA
+REVISTA
+EVENTOS
+ARTÍCULOS
+ENVÍE SU ARTÍCULO
+Bullying
+Paz
+Currículo Aprendizaje Convivencia Evaluación Didáctica Gestión escolar Gestión de aula
+Tomado de https://www.magisterio.com.co/articulo/doce-actividades-para-evaluar-ele
+aprendizaje-colaborativo
+Doce actividades para evaluar el aprendizaje
+colaborativo
+Por Moisés Huerta
+Aprendizaje, Aula, Didáctica
+MAGISTERIO
+10/03/2017 - 10:45
+Foto de Cultura de Red. Tomada de Flickr
+Monereo, Castello et ál. (2001) recomiendan las siguientes estrategias
+evaluativas, dependiendo del tipo de actividades del aprendizaje y de los
+contenidos a desarrollar:
+Observar el comportamiento de cada miembro del grupo durante el
+proceso de decisión del tema a ser tratado.
+Realizar la evaluación inicial que será el resultado de la actividad, con
+el fin de detectar el nivel de conocimiento, expresión o dominio inicial
+de la materia con la que se inician los aprendizajes.
+Supervisar, por parte del docente, el trabajo de los equipos con el
+propósito de verificar cómo trabajan, si han entendido las instrucciones
+y para apoyar el proceso formativo.
+Observar el comportamiento de cada grupo, el andamiaje que
+proporciona, mediante una evaluación formativa; la valoración del
+esquema resultante constituye la evaluación sumativa.
+Monitorear, por parte del profesor, la actuación de los alumnos, al
+tiempo que va comentando la calidad de los mismos, para ajustar las
+respuestas.
+Autoevaluación del alumno que expone, siguiendo el diagrama de
+decisión preparado para la ocasión. De esta manera conseguirá
+identificar dónde se han localizado sus errores y el proceso de reflexión
+requerido para contestar a los porqués. Esto le facilitará la toma de
+consciencia a los más débiles.
+Propiciar la exposición a todos los alumnos durante el curso y la
+reflexión sobre sus resultados, para ayudar en su proceso formativo
+que generalmente es diferenciado.
+Examinar cómo deducen los alumnos las fórmulas y cómo las utilizan
+para obtener nuevos valores. El docente debe actuar como moderador
+y animador.
+Valorar la exposición de cada grupo, tanto, con respecto a contenidos
+como a la forma. Se debe tener en cuenta el nivel de reflexión de cada
+equipo al explicar el proceso seguido y las representaciones que todo
+ello ha tenido durante el aprendizaje
+El guion de la elaboración, organización y exposición oral debe ser
+comentado por el propio alumno.
+Cada alumno deberá realizar la reflexión individual con respecto a su
+propio proceso de aprendizaje.
+Observar la dinámica participativa y el intercambio de información;
+además, evaluar el uso adecuado de las pautas de análisis y la amplitud
+y complejidad de la argumentación empleada en las conclusiones
+escritas.
+Referencia
+Monereo, C.; Castello, M.; Clariana, M.; Palma, M. y Pérez, M.
+(2001). Estrategias de enseñanza y aprendizaje. Barcelona: Graó.
+Título tomado del libro: La estrategia en el aprendizaje. Una guía básica
+para profesores y estudiantes. Autor: Moisés Huertas. pp. 193-194
+Foto de Cultura de Red. Tomada de Flickr
+"
+(nan);https://campus.colombiaaprende.edu.co/course/view.php?id=373;s3://men-prod-clean-data/contenidos_formativos/CAMPUS VIRTUAL/filedir/74/15/02. Decreto 1965 de 2013.pdf;True;True;pdf;"REPUBLICA DE COLOMBIA
+MINISTERIO DE EDUCACIÓN NACIONAL
+DECRETO No:
+1965
+11 SEP 2013
+""Por el cual se reglamenta la Ley 1620 de 2013, que crea el Sistema Nacional de
+Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación
+para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar""
+EL PRESIDENTE DE LA REPUBLICA DE COLOMBIA,
+en uso de sus atribuciones constitucionales y legales, y en particular las previstas, en el
+artículo 189 Numeral 11 de la Constitución Política, en el artículo 43 de la Ley 489 de 1998 y
+en desarrollo de la Ley 1620 de 2013 y,
+CONSIDERANDO
+Que la Ley 1620 de 2013, creó el Sistema Nacional de Convivencia Escolar y Formación
+para el ejercicio de los Derechos Humanos, la educación para la sexualidad y la prevención y
+mitigación de la violencia escolar.
+Que la misma Ley establece como herramientas de dicho Sistema: i) el Sistema de
+Información Unificado de Convivencia Escolar y ii) la Ruta de Atención Integral para la
+Convivencia Escolar y sus protocolos de atención.
+Que el Gobierno Nacional reconoce que uno de los retos que tiene el país, está en la
+formación para el ejercicio activo de la ciudadanía y de los derechos humanos, a través de
+una política que promueva y fortalezca la convivencia escolar, precisando que cada
+experiencia que los estudiantes vivan en los establecimientos educativos, es definitiva para el
+desarrollo de su personalidad y marcará sus formas de desarrollar y construir su proyecto de
+vida; y que de la satisfacción que cada niño y joven alcance y del sentido que, a través del
+aprendizaje, le dé a su vida, depende no sólo su bienestar sino la prosperidad colectiva.
+Por lo anterior, se requiere de un desarrollo normativo que permita fijar la conformación y
+funcionamiento del Sistema de Información Unificado y establecer las pautas mínimas sobre
+cómo aplicar la Ruta de Atención Integral para la Convivencia Escolar y sus protocolos, para
+prevenir y mitigar las situaciones que afecten la convivencia escolar y el ejercicio de los
+derechos humanos, sexuales y reproductivos.
+Que adicionalmente, se requiere regular la conformación, organización y funcionamiento del
+Comité Nacional de Convivencia Escolar; de los comités municipales, distritales y
+departamentales de convivencia escolar y de los comités escolares de convivencia.
+Que finalmente, es necesario articular las entidades y personas que conforman el Sistema
+Nacional de Convivencia Escolar, la familia y la sociedad, de tal forma que se creen las
+condiciones necesarias que permitan contribuir a la promoción y fortalecimiento de la
+DECRETO NÚMERO
+1965
+Hoja N°. 2
+Continuación del Decreto ""Por el cual se reglamenta la Ley 1620 de 2013, que crea el Sistema Nacional de
+Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la
+Prevención y Mitigación de la Violencia Escolar""
+formación para la ciudadanía y el ejercicio de los derechos humanos, sexuales y
+reproductivos de los estudiantes de los niveles educativos de preescolar, básica y media y
+para prevenir y mitigar la violencia escolar y el embarazo en la adolescencia, todo dentro del
+marco de las competencias, a ellas asignadas, por la Constitución y la ley.
+DECRETA:
+TÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1. Objeto. El presente Decreto reglamenta el funcionamiento del Sistema Nacional
+de Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la
+Educación para la Sexualidad y la Prevención y Mitigación de la Violencia Escolar; sus
+herramientas; los lineamientos generales bajo los cuales se deben ajustar los manuales de
+convivencia de los establecimientos educativos, de acuerdo con lo ordenado en la Ley 1620
+de 2013 y otros aspectos relacionados con incentivos y la participación de las entidades del
+orden nacional y territorial, establecimientos educativos, la familia y la sociedad dentro del
+Sistema Nacional de Convivencia Escolar.
+Artículo 2. Ámbito de aplicación. El presente Decreto se aplicará en todos los
+establecimientos educativos oficiales y no oficiales de educación preescolar, básica y media
+del territorio nacional y demás instancias que conforman el Sistema Nacional de Convivencia
+Escolar y Formación para los Derechos Humanos, la Educación para la Sexualidad y la
+Prevención y Mitigación de la Violencia Escolar, también a la familia, la sociedad y a los
+demás actores que participan en la Ruta de Atención Integral.
+TÍTULO II
+ORGANIZACIÓN Y FUNCIONAMIENTO DEL SISTEMA NACIONAL DE CONVIVENCIA
+ESCOLAR Y FORMACIÓN PARA EL EJERCICIO DE LOS DERECHOS HUMANOS, LA
+EDUCACIÓN PARA LA SEXUALIDAD Y LA PREVENCIÓN Y MITIGACIÓN DE LA
+VIOLENCIA ESCOLAR
+CAPÍTULO I
+FUNCIONAMIENTO DEL COMITÉ NACIONAL DE CONVIVENCIA ESCOLAR
+Artículo 3. Mesa Técnica del Comité Nacional de Convivencia Escolar. Para apoyar el
+desarrollo de las funciones y tareas del Comité Nacional de Convivencia Escolar, los actores
+que lo conforman crearán, dentro de un término no superior a dos (2) meses contados a
+partir de la publicación del presente Decreto, una mesa técnica que cuente con la
+participación de un delegado de cada miembro del Comité. Las reglas atinentes al
+funcionamiento de esta mesa serán determinadas en el reglamento interno del Comité
+Nacional de Convivencia.
+Artículo 4. Secretaría Técnica. El Comité Nacional de Convivencia Escolar tendrá una
+Secretaría Técnica, que será ejercida por el Director (a) de la Dirección de Calidad del
+Viceministerio de Educación Preescolar, Básica y Media, o su delegado (a), en los términos
+que establece el artículo 9 de la Ley 489 de 1998.
+DECRETO NÚMERO
+1965
+Hoja N°. 3
+Continuación del Decreto ""Por el cual se reglamenta la Ley 1620 de 2013, que crea el Sistema Nacional de
+Convivencia Escolar y Formación para el Ejercicio de los Derechos Humanos, la Educación para la Sexualidad y la
+Prevención y Mitigación de la Violencia Escolar""
+Artículo 5. Funciones de la Secretaría Técnica. La Secretaría Técnica del Comité Nacional
+de Convivencia Escolar ejercerá las siguientes funciones:
+1. Solicitar anualmente al ICFES la información sobre los establecimientos educativos
+oficiales y no oficiales que a nivel nacional, distrital, departamental y municipal hayan
+obtenido los más altos puntajes en las pruebas SABER 11 del año en curso.
+2. Comunicar a los comités municipales, distritales y departamentales de convivencia
+escolar la información sobre los establecimientos educativos oficiales y no oficiales
+que hayan obtenido los más altos puntajes en las pruebas SABER 11 del año en
+curso, en su respectiva jurisdicción.
+3. Citar a los integrantes del Comité a las sesiones ordinarias y extraordinarias
+convocadas por el Presidente del Comité Nacional de Convivencia Escolar.
+4. Fijar y comunicar la agenda de las sesiones programadas, a los integrantes del
+Comité Nacional
+5. Elaborar las actas de las sesiones del Comité Nacional de Convivencia Escolar.
+6. Poner en conocimiento del Comité los informes, estudios, propuestas y demás
+documentación que haya sido allegada por sus integrantes.
+7. Realizar seguimiento continuo a la implementación de las decisiones y
+recomendaciones del Comité.
+8. Coordinar logísticamente las reuniones del Comité.
+9. Organizar y mantener un archivo actualizado en medios físico y electrónico, sobre las
+actas y documentos del Comité.
+10. Comunicar a todos los miembros del Comité Nacional de Convivencia las decisiones
+"
